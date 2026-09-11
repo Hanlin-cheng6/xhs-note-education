@@ -1,0 +1,57 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第一册",
+  "version": "教科版",
+  "confidence": "medium",
+  "edition": "2019版（教育科学出版社）；单册 ISBN 未查到",
+  "source": "尚外书城（册次体系）+ 教育科学出版社官网（旧版对照）",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 ⚠️ 教科版每册4个单元。注意：教育科学出版社官网 jkzx.esph.com.cn 显示的是2003课标旧实验版（8单元，Unit 1 Teachers’ Day 等），与新课标版完全不同。必修第二册、第三册单元明细本轮未能联网核实，故未入库。",
+  "units": [
+    {
+      "title": "Unit 1 School Life",
+      "lessons": [
+        "UNDERSTANDING",
+        "DISCOVERING",
+        "PRODUCING",
+        "EXTENDING",
+        "Culture Link",
+        "Self-assessment"
+      ]
+    },
+    {
+      "title": "Unit 2 Language and Culture",
+      "lessons": [
+        "UNDERSTANDING",
+        "DISCOVERING",
+        "PRODUCING",
+        "EXTENDING",
+        "Culture Link",
+        "Self-assessment"
+      ]
+    },
+    {
+      "title": "Unit 3 Travel",
+      "lessons": [
+        "UNDERSTANDING",
+        "DISCOVERING",
+        "PRODUCING",
+        "EXTENDING",
+        "Culture Link",
+        "Self-assessment"
+      ]
+    },
+    {
+      "title": "Unit 4 Customs and Traditions",
+      "lessons": [
+        "UNDERSTANDING",
+        "DISCOVERING",
+        "PRODUCING",
+        "EXTENDING",
+        "Culture Link",
+        "Self-assessment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第一册",
+  "version": "冀教版",
+  "edition": "2020年4月第1版；ISBN 978-7-5545-5749-5",
+  "source": "知海图书馆 zhihailib.com/book/257633（ISBN 9787554557495）+ 课本网 keben.app/book + annas-archive.org（电子课本版权页）",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "冀教版（河北教育出版社，与DC加拿大国际交流中心合作）2019课标版，选择性必修阶段共4册。每册5单元，每单元4板块：Section 1 Reading for Meaning / Section 2 Learning Through Practice / Section 3 Using English in Context / Section 4 Expanding Our Horizons，单元内附 Project。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 What Kind of Learner Am I?",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 2 Movie, Mirror of Life",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 3 More Than a Meal",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 4 Literature for Self-Understanding",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 5 Learning Through Travel",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    }
+  ]
+}

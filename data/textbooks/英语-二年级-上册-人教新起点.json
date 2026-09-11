@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "人教新起点",
+  "edition": "2013年6月第1版（2024年重印，版次未变），ISBN 978-7-107-26362-0",
+  "source": "人民教育出版社版权页；电子课本网 dzkbw.com/books/rjb/yingyu/xqds2s/；好多电子课本网；国家出版发行信息公共服务平台",
+  "confidence": "high",
+  "note": "⚠ 人教社2024体系新增了一二年级预备级（地方课程），与旧「新起点」并行；经核实新起点二年级上册仍为2013年第1版（2024年重印），2026秋二年级具体用新版还是旧版须以当地当年选用公告为准。人教版PEP（三年级起点）二年级不存在。每单元结构：Lesson 1/2/3 + Review & Rewards + Story Time。",
+  "units": [
+    {
+      "title": "Unit 1 My Family",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Review & Rewards",
+        "Story Time"
+      ]
+    },
+    {
+      "title": "Unit 2 Boys and Girls",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Review & Rewards",
+        "Story Time"
+      ]
+    },
+    {
+      "title": "Unit 3 My Friends",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Review & Rewards",
+        "Story Time"
+      ]
+    },
+    {
+      "title": "Revision 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 In the Community",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Review & Rewards",
+        "Story Time"
+      ]
+    },
+    {
+      "title": "Unit 5 In the Park",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Review & Rewards",
+        "Story Time"
+      ]
+    },
+    {
+      "title": "Unit 6 Happy Holidays",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Review & Rewards",
+        "Story Time"
+      ]
+    },
+    {
+      "title": "Revision 2",
+      "lessons": [
+        "附录一 歌谣和歌曲",
+        "附录二 单元词汇表",
+        "附录三 总词汇表"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

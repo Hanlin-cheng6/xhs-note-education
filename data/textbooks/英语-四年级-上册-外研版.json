@@ -1,0 +1,92 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "外研版",
+  "edition": "外研社新标准英语（三起）2024修订版，仍沿用 Module 结构；学生用书 ISBN 未查到",
+  "source": "聊城市智慧教育平台；教习网外研版三起2024；电子课本网 dzkbw.com/books/waiyan/yingyu/sq4s/；多地政府教科书选用目录",
+  "confidence": "medium",
+  "note": "「新标准英语」三起四上仍为 Module 1–10 + Review Module 结构（非单元制）。2024修订版仅 M6U2 由 Happy Halloween! 改为 Happy Mid-Autumn Festival。⚠ 外研社另有「Join In 版」（刘兆义主编，2024课标版）四年级上，单元制（Unit 1 I love sports! / Unit 2 In town / Unit 3 Cool jobs / Unit 4 Let’s shop! / Unit 5 Shapes are fun! / Unit 6 Our animal friends），部分省份选用，易与本版混淆，须按当地选用公告区分。",
+  "units": [
+    {
+      "title": "Module 1",
+      "lessons": [
+        "Unit 1 Go straight on.",
+        "Unit 2 It’s at the station."
+      ]
+    },
+    {
+      "title": "Module 2",
+      "lessons": [
+        "Unit 1 She’s reading a book.",
+        "Unit 2 What are you doing?"
+      ]
+    },
+    {
+      "title": "Module 3",
+      "lessons": [
+        "Unit 1 What are they doing?",
+        "Unit 2 What’s the elephant doing?"
+      ]
+    },
+    {
+      "title": "Module 4",
+      "lessons": [
+        "Unit 1 Do you want some rice?",
+        "Unit 2 How much is it?"
+      ]
+    },
+    {
+      "title": "Module 5",
+      "lessons": [
+        "Unit 1 Can you run fast?",
+        "Unit 2 Can Sam play football?"
+      ]
+    },
+    {
+      "title": "Module 6",
+      "lessons": [
+        "Unit 1 Can I have some sweets?",
+        "Unit 2 Happy Mid-Autumn Festival（2024修订版；旧版 Happy Halloween!）"
+      ]
+    },
+    {
+      "title": "Module 7",
+      "lessons": [
+        "Unit 1 There is a horse in this photo.",
+        "Unit 2 There are twelve boys on the bike."
+      ]
+    },
+    {
+      "title": "Module 8",
+      "lessons": [
+        "Unit 1 We’re going to visit Hainan.",
+        "Unit 2 Sam is going to ride a horse."
+      ]
+    },
+    {
+      "title": "Module 9",
+      "lessons": [
+        "Unit 1 Are you going to run on sports day?",
+        "Unit 2 I’m going to do the high jump."
+      ]
+    },
+    {
+      "title": "Module 10",
+      "lessons": [
+        "Unit 1 We have a big family dinner.",
+        "Unit 2 Merry Christmas!"
+      ]
+    },
+    {
+      "title": "Review Module",
+      "lessons": [
+        "Unit 1",
+        "Unit 2",
+        "Reading for Pleasure（如 Jack and the Beanstalk / Hats and Monkeys）",
+        "Word List / Words and Expressions"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

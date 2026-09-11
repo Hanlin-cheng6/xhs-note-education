@@ -1,0 +1,88 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第二册",
+  "version": "人教版",
+  "confidence": "high",
+  "edition": "2019年6月第1版；ISBN 978-7-107-33651-5",
+  "source": "百度百科教材词条 + 教师之家",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 5个单元，无 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Cultural Heritage",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 2 Wildlife Protection",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 3 The Internet",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 4 History and Traditions",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 5 Music",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    }
+  ]
+}

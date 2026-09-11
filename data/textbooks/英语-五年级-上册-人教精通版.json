@@ -1,0 +1,81 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "人教精通版",
+  "edition": "2024版（2022课标修订，2026秋启用，三起）；学生用书 ISBN 未查到",
+  "source": "教习网2024新教材课件/教案（多份）；教习网音频专辑",
+  "confidence": "high",
+  "note": "旧版（2014版）五上为「Unit 1 We have new friends／Unit 2 She looks cute／Unit 3 My father is a writer／Fun Time 1／Unit 4 Where do you work?／Unit 5 Is this your schoolbag?／Unit 6 It’s a grapefruit／Fun Time 2」（每单元6课）。2024新版重组为 6 单元、每单元 3 课 + Fun time + Story time。⚠ 学科网某条目误将精通版五上写成与 PEP 相同的旧目录，属网站标注错误，未采信。",
+  "units": [
+    {
+      "title": "Unit 1 Around the world",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 2 Jobs",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 3 Workplaces",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Revision 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Putting things in order",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 5 A tidy house",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 6 Be yourself",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Revision 2",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

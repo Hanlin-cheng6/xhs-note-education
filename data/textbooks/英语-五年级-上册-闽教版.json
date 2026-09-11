@@ -1,0 +1,61 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "闽教版",
+  "edition": "2022课标修订版（2026秋，福建教育出版社）；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/mjb/yingyu/5s_2026（新版）；国家中小学智慧教育平台／学科网／英语朗读宝（仍列旧版）",
+  "confidence": "medium",
+  "note": "⚠ 处于换版过渡期：电子课本网已给2026秋新版（Weather in Different Seasons／Months of the Year／Plans and Dates／Our Dream Jobs），但国家平台、学科网、英语朗读宝当前仍展示旧版（Unit 1 Meeting New Friends／Unit 2 Teachers’ Day／…／Unit 8 My friends）。请以福建省教育厅选用公告核对2026秋实际供书册次。",
+  "units": [
+    {
+      "title": "Unit 1 Weather in Different Seasons",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4"
+      ]
+    },
+    {
+      "title": "Unit 2 Months of the Year",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4"
+      ]
+    },
+    {
+      "title": "Unit 3 Plans and Dates",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4"
+      ]
+    },
+    {
+      "title": "Unit 4 Our Dream Jobs",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4"
+      ]
+    },
+    {
+      "title": "Review 1",
+      "lessons": []
+    },
+    {
+      "title": "Story Time / Culture Corner",
+      "lessons": []
+    },
+    {
+      "title": "Words and Expressions / Word List / Additional Words / The Ordinal Numbers",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

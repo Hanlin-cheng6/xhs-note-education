@@ -1,0 +1,88 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "闽教版",
+  "edition": "2024年版（2022课标状态待核实，三起），福建教育出版社；ISBN 未逐本核实",
+  "source": "教习网闽教版(2024)六年级上册课文目录；学科网闽教版英语六年级上册电子课本（含 basic.smartedu.cn 链接）",
+  "confidence": "medium",
+  "note": "每单元 Part A/B/C 结构。⚠ 网查到的闽教六上（The Olympic Games 等 8 单元）与长期使用结构一致；另见教习网有「Wonderful Sports Events／Healthy Life／Good Manners」等 Lesson 结构资源，疑为闽教新版或误标，未能确认。建议向福建教育出版社核实 2026 秋实际用书。",
+  "units": [
+    {
+      "title": "Unit 1 The Olympic Games",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 2 Physical exercises",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 3 Food and health",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 4 Buying new clothes",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Review 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Housework",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 6 An unusual day",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 7 Thanksgiving",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 8 The universe",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Review 2",
+      "lessons": [
+        "Story time",
+        "Vocabulary"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

@@ -1,0 +1,87 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "仁爱版",
+  "confidence": "medium",
+  "edition": "2026秋版（新版6单元）；ISBN 未确认",
+  "source": "电子课本网dzkbw 仁爱2026秋版目录（完整）+ book118教学设计合集 + 科普版 Scope and Sequence PDF",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 旧版仁爱九上为 Unit 1-4，每单元 Topic 1-3（The Changing World / Saving the Earth / English Around the World / Amazing Science），点读站仍在显示，勿混。2026新版改为6个单元，保留 Topic 1/2/3 结构但主题已重构。新版单元→Topic 细分仅见教学设计，未在官方 TOC 逐条确认。",
+  "units": [
+    {
+      "title": "Unit 1 A Changing World",
+      "lessons": [
+        "Preparing for the Topic",
+        "Listening & Speaking",
+        "Function",
+        "Pronunciation",
+        "Topic 1/2/3"
+      ]
+    },
+    {
+      "title": "Unit 2 Brilliant Thoughts",
+      "lessons": [
+        "Preparing for the Topic",
+        "Listening & Speaking",
+        "Function",
+        "Pronunciation",
+        "Topic 1/2/3"
+      ]
+    },
+    {
+      "title": "Unit 3 A Green Earth, a Better Home",
+      "lessons": [
+        "Preparing for the Topic",
+        "Listening & Speaking",
+        "Function",
+        "Pronunciation",
+        "Topic 1/2/3"
+      ]
+    },
+    {
+      "title": "Unit 4 A Colorful World of Words",
+      "lessons": [
+        "Preparing for the Topic",
+        "Listening & Speaking",
+        "Function",
+        "Pronunciation",
+        "Topic 1/2/3"
+      ]
+    },
+    {
+      "title": "Unit 5 A Path Toward a Better World",
+      "lessons": [
+        "Preparing for the Topic",
+        "Listening & Speaking",
+        "Function",
+        "Pronunciation",
+        "Topic 1/2/3"
+      ]
+    },
+    {
+      "title": "Unit 6 A Rising Self",
+      "lessons": [
+        "Preparing for the Topic",
+        "Listening & Speaking",
+        "Function",
+        "Pronunciation",
+        "Topic 1/2/3"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Notes to the Text",
+        "Grammar",
+        "Tapescripts",
+        "Words in Each Unit",
+        "Useful Expressions",
+        "English Names",
+        "Names of Places",
+        "Irregular Verbs",
+        "American English and British English"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "沪教牛津",
+  "edition": "九年义务教育课本（试用本）；上海市2023秋教学用书目录编号 II-XB-2021022；新版 ISBN 978-7-5444-7618-8（2017）",
+  "source": "上海市浦东新区教育局2023秋教学用书目录；电子课本网 hjb/yingyu/oxford2s",
+  "confidence": "medium",
+  "note": "⚠ 上海本地专属版本（牛津上海版），全国其他省市不适用，需按上海本地目录使用。结构为 Module 1~4，每 Module 含 3 个 Unit，加 4 个 Project。未查到2026上海最新版ISBN，edition 中为参考 ISBN。",
+  "units": [
+    {
+      "title": "Module 1 Getting to know you",
+      "lessons": [
+        "Unit 1 Hello",
+        "Unit 2 I’m Danny",
+        "Unit 3 A new classmate"
+      ]
+    },
+    {
+      "title": "Module 2 Me, my family and friends",
+      "lessons": [
+        "Unit 1 I can swim",
+        "Unit 2 That’s my family",
+        "Unit 3 My hair is short"
+      ]
+    },
+    {
+      "title": "Module 3 Places and activities",
+      "lessons": [
+        "Unit 1 In the children’s garden",
+        "Unit 2 In my room",
+        "Unit 3 In the kitchen"
+      ]
+    },
+    {
+      "title": "Module 4 The natural world",
+      "lessons": [
+        "Unit 1 In the sky",
+        "Unit 2 In the forest",
+        "Unit 3 In the street"
+      ]
+    },
+    {
+      "title": "Projects",
+      "lessons": [
+        "Project 1 Getting to know you",
+        "Project 2 About my friend",
+        "Project 3 Things I can see",
+        "Project 4 The animal I like"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

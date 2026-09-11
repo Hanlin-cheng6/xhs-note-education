@@ -1,0 +1,48 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "外研版",
+  "edition": "2022课标修订版（2026秋启用，新标准三起）；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/waiyan/yingyu/sq5s_2026；教习网2026秋外研版三起新教材教学计划",
+  "confidence": "high",
+  "note": "2026秋新版为 6 个 Unit，取消 Module 分册式。旧版（2013版）五上为 Module 1–10（每 Module 2 Unit）+ Review Module。⚠ 国家平台与学科网部分条目仍为旧 Module 结构，属过渡期未更新。该版为单元整体教学，未分 Part A/B。",
+  "units": [
+    {
+      "title": "Unit 1 What’s on your plate?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 A green life",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 Happy together",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 A better me",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Look into the future",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 Enjoy the festivals",
+      "lessons": []
+    },
+    {
+      "title": "Appendices",
+      "lessons": [
+        "More activities",
+        "Plays",
+        "Words and expressions",
+        "Word list",
+        "Proper nouns",
+        "Words in plays"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

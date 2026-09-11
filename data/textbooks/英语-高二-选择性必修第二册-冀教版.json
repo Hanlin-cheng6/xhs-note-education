@@ -1,0 +1,63 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第二册",
+  "version": "冀教版",
+  "edition": "2020年4月第1版；ISBN 978-7-5545-5748-8",
+  "source": "知海图书馆 zhihailib.com/book/257229（ISBN 9787554557488）+ 课本网 keben.app/book/1775 + annas-archive.org",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "ISBN与出版时间经电子课本版权页确认。每册5单元，板块同选必一。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Achieving My Best",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 2 Let's Talk Music",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 3 Relieving Stress in Your Life",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 4 Family Festivals",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 5 Geography",
+      "lessons": [
+        "Section 1 Reading for Meaning",
+        "Section 2 Learning Through Practice",
+        "Section 3 Using English in Context",
+        "Section 4 Expanding Our Horizons",
+        "Project"
+      ]
+    }
+  ]
+}

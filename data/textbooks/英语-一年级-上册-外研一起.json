@@ -1,0 +1,46 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "外研一起",
+  "edition": "《英语（新标准）（一年级起点）一年级上册》2012年修订版（2011版课标），ISBN 978-7-5135-2109-3",
+  "source": "外语教学与研究出版社官网 fltrp.com 2023基础教育教学资源目录；电子课本网 dzkbw.com",
+  "confidence": "high",
+  "note": "10模块+复习模块；外研社2023目录未见2022课标修订的一起版",
+  "units": [
+    {
+      "title": "Module 1 Unit 1 Hello! / Unit 2 How are you?"
+    },
+    {
+      "title": "Module 2 Unit 1 What's your name? / Unit 2 I'm a boy."
+    },
+    {
+      "title": "Module 3 Unit 1 Sit down! / Unit 2 Point to the window!"
+    },
+    {
+      "title": "Module 4 Unit 1 It's red! / Unit 2 It's a red dog."
+    },
+    {
+      "title": "Module 5 Unit 1 This is our teacher. / Unit 2 That is a yellow cat."
+    },
+    {
+      "title": "Module 6 Unit 1 What's this? / Unit 2 It's my ruler."
+    },
+    {
+      "title": "Module 7 Unit 1 Is it a dog? / Unit 2 It's a yellow cat."
+    },
+    {
+      "title": "Module 8 Unit 1 How many? / Unit 2 How many pink balls?"
+    },
+    {
+      "title": "Module 9 Unit 1 How old are you? / Unit 2 Happy birthday!"
+    },
+    {
+      "title": "Module 10 Unit 1 That is my father. / Unit 2 That is his car."
+    },
+    {
+      "title": "Review Module"
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

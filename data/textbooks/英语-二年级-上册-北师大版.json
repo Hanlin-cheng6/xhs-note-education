@@ -1,0 +1,70 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "edition": "北京师范大学出版社；单册ISBN未查到；主编程晓堂",
+  "source": "好多电子课本网 bsb/yingyu/ernianji_2013s；山东省2025小学一二年级英语教材选用目录",
+  "confidence": "medium",
+  "note": "北师大版一年级起点版本，结构为 Unit 1~6，每 Unit 含 Learn to Say / Talk Together / Sounds and Letters / Uncle Booky’s Storytime 等板块。北师大版在山东省2025目录中列为8套可选之一。⚠ 未在官网核到 ISBN，标 medium。",
+  "units": [
+    {
+      "title": "Unit 1 Hello!",
+      "lessons": [
+        "Learn to Say",
+        "Let’s sing!",
+        "Talk Together",
+        "Sounds and Letters",
+        "Uncle Booky’s Storytime"
+      ]
+    },
+    {
+      "title": "Unit 2 Mocky’s friends",
+      "lessons": [
+        "Learn to Say",
+        "Guess and Say",
+        "Talk Together",
+        "Sounds and Letters",
+        "Uncle Booky’s Storytime"
+      ]
+    },
+    {
+      "title": "Unit 3 My friends",
+      "lessons": [
+        "Learn to Say",
+        "Let’s Sing",
+        "Talk Together",
+        "Sounds and Letters",
+        "Uncle Booky’s Storytime"
+      ]
+    },
+    {
+      "title": "Unit 4 My family",
+      "lessons": [
+        "Learn to Say",
+        "Play the Game",
+        "Talk Together",
+        "Sounds and Letters",
+        "Uncle Booky’s Storytime"
+      ]
+    },
+    {
+      "title": "Unit 5 Welcome",
+      "lessons": [
+        "Learn to Say",
+        "Let’s Sing"
+      ]
+    },
+    {
+      "title": "Unit 6 Review",
+      "lessons": [
+        "Listen and Number",
+        "Let’s Sing",
+        "Uncle Booky’s ABC",
+        "Vocabulary",
+        "Word List"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

@@ -1,0 +1,67 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "北京版",
+  "edition": "旧版 ISBN 978-7-200-10501-8（2013版）；2025秋新版已启用（版次以实物为准）",
+  "source": "电子课本网 dzkbw.com/books/beijing/yingyu/2s_2024/；北京教育科学研究院编、北京出版社出版",
+  "confidence": "high",
+  "note": "北京地区专用（北京版，一年级起点）。旧版（2013）为 Unit 1~6（What day is today? / What do you do on Sunday? / What’s your number? / There are many animals / I have long arms / It’s Christmas Day），每 Unit 含 Lesson 1~4；2025秋新版改为 Unit One~Six（It’s Time to Get Up / Ways to Go to School / We Like Sports / My Week / My Weekend / Animals Are Fun）。⚠ 两代目录差异大，须确认当地在用版次。",
+  "units": [
+    {
+      "title": "2025秋新版 Unit One It’s Time to Get Up",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4"
+      ]
+    },
+    {
+      "title": "2025秋新版 Unit Two Ways to Go to School",
+      "lessons": [
+        "Lesson 5",
+        "Lesson 6",
+        "Lesson 7",
+        "Lesson 8"
+      ]
+    },
+    {
+      "title": "2025秋新版 Unit Three We Like Sports",
+      "lessons": [
+        "Lesson 9",
+        "Lesson 10",
+        "Lesson 11",
+        "Lesson 12"
+      ]
+    },
+    {
+      "title": "2025秋新版 Unit Four My Week",
+      "lessons": [
+        "Lesson 13",
+        "Lesson 14",
+        "Lesson 15",
+        "Lesson 16"
+      ]
+    },
+    {
+      "title": "2025秋新版 Unit Five My Weekend",
+      "lessons": [
+        "Lesson 17",
+        "Lesson 18",
+        "Lesson 19",
+        "Lesson 20"
+      ]
+    },
+    {
+      "title": "2025秋新版 Unit Six Animals Are Fun",
+      "lessons": [
+        "Lesson 21",
+        "Lesson 22",
+        "Lesson 23",
+        "Lesson 24"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

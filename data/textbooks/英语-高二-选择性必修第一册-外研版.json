@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第一册",
+  "version": "外研版",
+  "edition": "第1版（2019课标版，约2020年出版）；ISBN 978-7-5213-1351-2",
+  "source": "外语教学与研究出版社2025基础教育教学资源订货目录 fltrp.com/ebook/jcjy + 内江市第一中学教材目录 neijiang.gov.cn + 电子课本网 dzkbw.com/books/waiyan/yingyu",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "外研社官网订货目录确认ISBN。每册6个单元，每单元板块：Starting out / Understanding ideas / Using language / Developing ideas / Presenting ideas / Reflection / Project。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Laugh out loud!",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 2 Onwards and upwards",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 3 Faster, higher, stronger",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 4 Meeting the muse",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 5 Revealing nature",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 6 Nurturing nature",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    }
+  ]
+}

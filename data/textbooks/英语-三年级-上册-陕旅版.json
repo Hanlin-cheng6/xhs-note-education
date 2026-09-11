@@ -1,0 +1,58 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "陕旅版",
+  "edition": "2024秋版（陕旅三起，2024年新课标修订）；学生用书 ISBN 未确认",
+  "source": "电子课本网 dzkbw.com/books/slb/yingyu/3s_2024；好多电子课本网；教师之家",
+  "confidence": "high",
+  "note": "旧版（2012版）为 Unit 1 Hello! / Unit 2 How Are You? / Unit 3 Good Morning! / Unit 4 What’s This? / Revision 1 / Unit 5 I Have a Bag / Unit 6 Look at My Toys! / Unit 7 Are These Bears? / Unit 8 What Color Is It? / Revision 2。2024新版单元标题已重写（如 Unit 2 Are You Wu Chen?、Unit 6 How Many Books Do You Have?），仍保持 8 Unit + 2 Review 结构。⚠ 各单元内部分课板块未在来源完整列出，本库存单元级目录。",
+  "units": [
+    {
+      "title": "Unit 1 Hello, I’m Li Shan",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 Are You Wu Chen?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 Good Morning!",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 How Are You?",
+      "lessons": []
+    },
+    {
+      "title": "Review 1（Units 1–4）",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 I Have a Bag",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 How Many Books Do You Have?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 What’s This?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 What Color Is Your Ball?",
+      "lessons": []
+    },
+    {
+      "title": "Review 2（Units 5–8）",
+      "lessons": [
+        "Words in Each Unit",
+        "Vocabulary",
+        "Appendix Ⅰ",
+        "Appendix Ⅱ"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

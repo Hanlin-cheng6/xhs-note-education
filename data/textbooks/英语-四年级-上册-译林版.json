@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "2025年6月第1版（2024课标版），学生用书 ISBN 978-7-5753-0663-8（待出版社核对）；教师用书 ISBN 978-7-5753-0781-9",
+  "source": "译林出版社教师教学用书（CIP数据，何锋、王守仁总主编）；电子课本网 dzkbw.com/books/yilin/yingyu/4a_2025；英语朗读宝",
+  "confidence": "high",
+  "note": "新版由旧版（Unit 1 I like dogs … Unit 8 Dolls，含 Project 1/2）改为 8 单元 + 2 个 Project，每单元板块：Lead-in & Cartoon time / Story time / Wrap-up time & Assessment time（四年级每单元3课时）。",
+  "units": [
+    {
+      "title": "Unit 1 Our school subjects",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Unit 2 My day",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Unit 3 My week",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Unit 4 I like sport",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Project 1 My weekly plan",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Different toys, same fun",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Unit 6 Weather",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Unit 7 Seasons",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Unit 8 What we wear",
+      "lessons": [
+        "Lead-in & Cartoon time",
+        "Story time",
+        "Wrap-up time & Assessment time"
+      ]
+    },
+    {
+      "title": "Project 2 A puppet show",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

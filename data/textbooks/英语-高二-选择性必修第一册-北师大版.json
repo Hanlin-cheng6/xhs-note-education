@@ -1,0 +1,52 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第一册",
+  "version": "北师大版",
+  "edition": "第1版（2019课标版）；ISBN 978-7-303-24802-5",
+  "source": "第二届全国教材建设奖公示 tech.net.cn PDF（选必一 ISBN 9787303248025）+ 教师之家 renjiaoshe.com/jiaocai/2380 + 电子课本网 dzkbw.com/books/bsd/yingyu/gzxzxbxd1c",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "北师大版选必每册3个单元（选必一=Unit 1-3，选必二=Unit 4-6）。板块：Topic Talk / Lesson 1 / Lesson 2 / Lesson 3 / Writing Workshop / Viewing Workshop / Reading Club / Assessment。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Relationships",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Viewing Workshop",
+        "Reading Club",
+        "Assessment"
+      ]
+    },
+    {
+      "title": "Unit 2 Success",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Viewing Workshop",
+        "Reading Club",
+        "Assessment"
+      ]
+    },
+    {
+      "title": "Unit 3 Conservation",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Viewing Workshop",
+        "Reading Club",
+        "Assessment"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第二册",
+  "version": "外研版",
+  "confidence": "high",
+  "edition": "《英语》（新标准）高中修订版（2022修订）；ISBN 978-7-5213-0992-8",
+  "source": "外研社官网2025基础教育教学资源目录（官方ISBN）+ 教师之家",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 6个单元。",
+  "units": [
+    {
+      "title": "Unit 1 Food for thought",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Project",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 2 Let’s celebrate!",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Project",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 3 On the move",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Project",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 4 Stage and screen",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Project",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 5 On the road",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Project",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 6 Earth first",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Project",
+        "Reflection"
+      ]
+    }
+  ]
+}

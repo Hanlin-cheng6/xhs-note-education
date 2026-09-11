@@ -1,0 +1,57 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "冀教一起",
+  "edition": "《英语（一年级起点）一年级上册》冀教2011版（2013年通过教育部审查），河北教育出版社；ISBN 未核实",
+  "source": "河北出版传媒集团官网 hbp.cn；教师之家 renjiaoshe.com；零五网 05wang.com",
+  "confidence": "high",
+  "note": "冀教同时有三年级起点和一年级起点两套，本条为一起",
+  "units": [
+    {
+      "title": "Unit 1 Hello and Goodbye",
+      "lessons": [
+        "Lesson 1 Hello!",
+        "Lesson 2 What's Your Name?",
+        "Lesson 3 How Are You?",
+        "Lesson 4 Nice to Meet You",
+        "Lesson 5 Good Morning!",
+        "Lesson 6 Goodbye!"
+      ]
+    },
+    {
+      "title": "Unit 2 My School",
+      "lessons": [
+        "Lesson 7 Boy, Girl",
+        "Lesson 8 My Teacher",
+        "Lesson 9 I Am a Student",
+        "Lesson 10 My Friends",
+        "Lesson 11 Fun at School",
+        "Lesson 12 Happy or Sad?"
+      ]
+    },
+    {
+      "title": "Unit 3 My Classroom",
+      "lessons": [
+        "Lesson 13 My Classroom",
+        "Lesson 14 What Is This?",
+        "Lesson 15 Numbers 1—5",
+        "Lesson 16 How Many?",
+        "Lesson 17 Numbers 6—10",
+        "Lesson 18 My Pencil Box"
+      ]
+    },
+    {
+      "title": "Unit 4 Colours",
+      "lessons": [
+        "Lesson 19 Red, Green",
+        "Lesson 20 Yellow, Blue",
+        "Lesson 21 Black, White",
+        "Lesson 22 Orange, Brown",
+        "Lesson 23 Pink, Purple",
+        "Lesson 24 Colours Are Fun!"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

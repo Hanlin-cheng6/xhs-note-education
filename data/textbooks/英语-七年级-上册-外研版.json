@@ -1,0 +1,82 @@
+{
+  "subject": "英语",
+  "grade": "七年级",
+  "volume": "上册",
+  "version": "外研版",
+  "edition": "2024年7月第1版（主编 孙有中，依据2022年版课程标准修订）ISBN 978-7-5213-5510-9",
+  "source": "电子课本网 dzkbw.com/books/waiyan/yingyu/7s_2024；学科网；21世纪教育网",
+  "confidence": "high",
+  "note": "旧版外研版七年级上册为 Module 1-10 + 复习模块（Revision module）；2024新版改为 Starter 小初衔接单元 + 6个学习单元，每单元5板块：Starting out / Understanding ideas / Developing ideas / Presenting ideas / Reflection。",
+  "units": [
+    {
+      "title": "Starter Welcome to junior high!",
+      "lessons": [
+        "Get ready",
+        "Know your school",
+        "Get to know each other",
+        "Make a wishing tree"
+      ]
+    },
+    {
+      "title": "Unit 1 A new start",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 2 More than fun",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 3 Family ties",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 4 Time to celebrate",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 5 Fantastic friends",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 6 The power of plants",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

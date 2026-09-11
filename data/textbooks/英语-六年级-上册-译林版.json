@@ -1,0 +1,112 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "⚠ 未能确认是否已出 2022 课标新版；当前联网目录与 2012 课标版一致，故先按现版入库",
+  "source": "学科网译林版(三起)六年级上册电子课本（含 basic.smartedu.cn 链接）；电子课本网；教习网译林版六上目录",
+  "confidence": "medium",
+  "note": "⚠ 学科网将该册标注为「译林版(三起)(2012)」，网查目录与长期使用的 2012 课标版完全一致。**未能确认译林社是否已为 2026 秋推出结构不同的 2022 课标新版六上**——而一、三、四年级的译林版均已换新版，五、六上未见新版来源。建议向译林社或江苏教育厅核实 2026 秋实际用书；若你确认已换版，请告知，我立即替换。每单元含 Story time / Grammar / Fun time / Sound time / Culture time / Cartoon time。",
+  "units": [
+    {
+      "title": "Unit 1 The king’s new clothes",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Unit 2 What a day!",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Unit 3 Holiday fun",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Unit 4 Then and now",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Project 1 A holiday album",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Signs",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Unit 6 Keep our city clean",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Unit 7 Protect the Earth",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Unit 8 Chinese New Year",
+      "lessons": [
+        "Story time",
+        "Grammar",
+        "Fun time",
+        "Sound time",
+        "Culture time",
+        "Cartoon time"
+      ]
+    },
+    {
+      "title": "Project 2 Reuse and recycle",
+      "lessons": [
+        "Learning tips",
+        "Word lists"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

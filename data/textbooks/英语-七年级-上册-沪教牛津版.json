@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "七年级",
+  "volume": "上册",
+  "version": "沪教牛津版",
+  "edition": "2024秋版（主编 舒白梅，上海教育出版社，依据2022年版课程标准修订）；⚠ 六三制全国版 ISBN 未查到，以版权页为准",
+  "source": "电子课本网 dzkbw.com/books/hjb/yingyu/7s_2024；教师之家；学科网",
+  "confidence": "high",
+  "note": "⚠ 本条为**六三制全国版**（广州/深圳/沈阳等地使用），非上海本地版。每单元4个Section：Section 1 Experiencing and understanding language / Section 2 Exploring and applying rules (Grammar) / Section 3 Expressing and communicating ideas / Section 4 Extending and developing competencies (Project)。⚠ 教习网曾以「Module 1-4 / Unit 1 Making friends…Unit 8 Collecting things」作为「沪教牛津版(2024)」展示，实为旧版(2012)结构，勿混用。上海地区另有「五四制-牛津上海版」（主编束定芳，ISBN 978-7-5720-2813-7）为 Starter 1-4 + Unit 1-6，结构不同。",
+  "units": [
+    {
+      "title": "Unit 1 Friendship",
+      "lessons": [
+        "Section 1 Experiencing and understanding language",
+        "Section 2 Exploring and applying rules",
+        "Section 3 Expressing and communicating ideas",
+        "Section 4 Extending and developing competencies"
+      ]
+    },
+    {
+      "title": "Unit 2 School life",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 3 The seasons",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 4 The Earth",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 5 Off to space",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 6 Travelling around Asia",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 7 Fun after school",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 8 Collecting as a hobby",
+      "lessons": [
+        "Section 1",
+        "Section 2",
+        "Section 3",
+        "Section 4"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

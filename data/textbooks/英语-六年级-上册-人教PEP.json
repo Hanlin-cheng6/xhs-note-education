@@ -1,0 +1,93 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "人教PEP",
+  "edition": "2024年审定版（2022课标）；ISBN 未逐本核实",
+  "source": "人民教育出版社官网 pep.com.cn 六年级上册（2024审定新版）目录；教习网人教版PEP六上新教材资源；人人文库2026秋新教材教学计划",
+  "confidence": "high",
+  "note": "旧版（2011课标）六上为「Unit 1 How can I get there? / Unit 2 Ways to go to school / Unit 3 My weekend plan / Recycle 1 / Unit 4 I have a pen pal / Unit 5 What does he do? / Unit 6 How do you feel? / Recycle 2」。2026秋按「所有年级使用新教材」政策改用下方 2024 新版（6 单元 + Revision，无 Recycle）。",
+  "units": [
+    {
+      "title": "Unit 1 Amazing places",
+      "lessons": [
+        "Listen and sing",
+        "A Let’s talk",
+        "A Let’s learn",
+        "B Let’s talk",
+        "B Let’s learn",
+        "B Read and write",
+        "C The children are making a holiday scrapbook."
+      ]
+    },
+    {
+      "title": "Unit 2 Getting together",
+      "lessons": [
+        "Listen and sing",
+        "A Let’s talk",
+        "A Let’s learn",
+        "B Let’s talk",
+        "B Let’s learn",
+        "B Read and write",
+        "C Mr Jones and Binbin are talking about school events."
+      ]
+    },
+    {
+      "title": "Unit 3 Healthy life",
+      "lessons": [
+        "Listen and sing",
+        "A Let’s talk",
+        "A Let’s learn",
+        "B Let’s talk",
+        "B Let’s learn",
+        "B Read and write",
+        "C Why aren’t these people feeling well?"
+      ]
+    },
+    {
+      "title": "Unit 4 Managing money well",
+      "lessons": [
+        "Listen and sing",
+        "A Let’s talk",
+        "A Let’s learn",
+        "B Let’s talk",
+        "B Let’s learn",
+        "B Read and write",
+        "C Oliver and Binbin are making a spending plan for the next month."
+      ]
+    },
+    {
+      "title": "Unit 5 Exploring space",
+      "lessons": [
+        "Listen and sing",
+        "A Let’s talk",
+        "A Let’s learn",
+        "B Let’s talk",
+        "B Let’s learn",
+        "B Read and write",
+        "C What questions can we ask about the Sun?"
+      ]
+    },
+    {
+      "title": "Unit 6 Energy, nature and us",
+      "lessons": [
+        "Listen and sing",
+        "A Let’s talk",
+        "A Let’s learn",
+        "B Let’s talk",
+        "B Let’s learn",
+        "B Read and write",
+        "C What does green energy mean to you?"
+      ]
+    },
+    {
+      "title": "Revision Learning in museums",
+      "lessons": [
+        "Read and give an ending to the play.",
+        "Listen and fill in the blanks. Then retell your favourite part in your group.",
+        "Words in each unit"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

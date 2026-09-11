@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>小红书笔记生成器 · 教材 / 教案 / PPT</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><text y='26' font-size='26'>📕</text></svg>" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">红</span>
+    <div>
+      <h1>小红书笔记生成器</h1>
+      <p>教材 · 教案 · PPT 课件场景</p>
+    </div>
+  </div>
+  <div class="topbar-actions">
+    <span id="keyState" class="key-state">检查配置…</span>
+    <button id="btnHistory" class="btn ghost">历史记录</button>
+    <button id="btnSettings" class="btn ghost">设置</button>
+  </div>
+</header>
+
+<main class="layout">
+  <!-- 左：输入 -->
+  <section class="panel input-panel">
+    <div class="block">
+      <h2 class="block-title">1 · 关键参数<span class="hint">会自动填进提示词模板</span></h2>
+      <div class="grid-3">
+        <label class="field">
+          <span>年级 <i>*</i></span>
+          <input id="grade" list="gradeList" placeholder="如 四年级 / 六年级" />
+          <datalist id="gradeList"></datalist>
+        </label>
+        <label class="field">
+          <span>册次 <i>*</i></span>
+          <input id="volume" list="volumeList" placeholder="如 上册 / 必修第一册" />
+          <datalist id="volumeList"></datalist>
+        </label>
+        <label class="field">
+          <span>学科 <i>*</i></span>
+          <input id="subject" list="subjectList" placeholder="如 道德与法治 / 语文" />
+          <datalist id="subjectList"></datalist>
+        </label>
+      </div>
+      <div class="grid-2">
+        <label class="field">
+          <span>学期 <em>选填</em></span>
+          <input id="term" list="termList" placeholder="如 2026秋 / 26秋" />
+          <datalist id="termList"></datalist>
+        </label>
+        <label class="field">
+          <span>资料类型</span>
+          <input id="materialType" list="matList" placeholder="如 全册课件ppt+教案+练习" />
+          <datalist id="matList"></datalist>
+        </label>
+      </div>
+      <div class="grid-1">
+        <label class="field">
+          <span>资料亮点 <em>选填</em></span>
+          <input id="highlights" autocomplete="off" placeholder="如 多套教案可选、含教学计划进度表、教案共85页" />
+        </label>
+        <label class="field">
+          <span>教材目录 <em>点「自动生成」按年级学科生成，也可手填或改</em></span>
+          <textarea id="catalog" rows="3" placeholder="点下方「自动生成目录」，或手填，如：第一单元 我们的班集体"></textarea>
+          <div class="catalog-row">
+            <input id="textbookVersion" class="ver-input" list="versionList"
+                   placeholder="版本：留空自动判断，如 教科版" title="按学科自动给出常见版本建议，也可直接手输任意版本名" />
+            <datalist id="versionList"></datalist>
+            <button id="btnGenCatalog" class="btn ghost small">自动生成目录</button>
+            <span id="catalogState" class="catalog-state"></span>
+          </div>
+        </label>
+        <label class="field">
+          <span>补充要求 <em>选填</em></span>
+          <input id="extra" placeholder="如：侧重易错题 / 面向家长 / 语气更口语" />
+        </label>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="block-head">
+        <h2 class="block-title">2 · 通用提示词模板</h2>
+        <div class="head-actions">
+          <button id="btnPreview" class="mini">预览拼装结果</button>
+          <button id="btnResetTpl" class="mini">恢复默认模板</button>
+        </div>
+      </div>
+      <p class="block-note">
+        模板里的 <code>{{学期}}</code> <code>{{年级册次}}</code> <code>{{年级}}</code> <code>{{册次}}</code> <code>{{学科}}</code>
+        <code>{{资料类型}}</code> <code>{{资料亮点}}</code> <code>{{教材目录}}</code> <code>{{补充要求}}</code>
+        会在生成时自动替换成上面填的内容。模板可随意改，改完记得点保存。
+      </p>
+      <textarea id="template" class="tpl" spellcheck="false"></textarea>
+      <div class="row-between">
+        <span id="tplState" class="tpl-state"></span>
+        <button id="btnSaveTpl" class="btn ghost small">保存模板</button>
+      </div>
+    </div>
+
+    <div class="block">
+      <div class="block-head">
+        <h2 class="block-title">3 · 生成</h2>
+        <label class="temp" title="即模型的 temperature 参数。数值低＝输出更稳、更贴合模板；数值高＝更有创意、但也更容易跑偏或编造内容。">
+          发散度 <input id="temperature" type="range" min="0.2" max="1.2" step="0.05" value="0.85" />
+          <b id="tempVal">0.85</b>
+        </label>
+      </div>
+      <p class="count-hint">
+        发散度＝模型每次选词的随机程度。低（0.3-0.5）稳但容易千篇一律，高（1.0+）花样多但可能跑偏、编造教材信息。教辅文案建议 <b>0.7-0.9</b>；同一组参数想要多篇不同版本时可调到 <b>1.0</b> 左右。
+      </p>
+      <div class="gen-row">
+        <label class="field count-field">
+          <span>生成篇数 <em>1-10</em></span>
+          <input id="count" type="number" min="1" max="10" step="1" value="1" />
+        </label>
+        <p class="count-hint">多篇时每篇的切入角度、关键词侧重都不同，可逐篇查看和复制</p>
+      </div>
+      <button id="btnGenerate" class="btn primary big">生成小红书笔记</button>
+      <p id="genErr" class="err"></p>
+    </div>
+  </section>
+
+  <!-- 右：输出 -->
+  <section class="panel output-panel">
+    <div id="emptyState" class="empty">
+      <div class="empty-icon">📕</div>
+      <p>填好年级 / 学科 / 册次，点左侧生成按钮</p>
+      <span>输出固定为「标题 · 正文 · 话题」三部分</span>
+    </div>
+
+    <div id="result" class="result hidden">
+      <div id="noteTabs" class="note-tabs"></div>
+      <div id="noteBody" class="note-body"></div>
+      <div class="card post-actions">
+        <button id="btnCopyAll" class="btn primary">复制当前篇</button>
+        <button id="btnCopyEvery" class="btn ghost">复制全部</button>
+        <button id="btnSaveHistory" class="btn ghost">存入历史</button>
+      </div>
+    </div>
+
+    <div id="streamBox" class="stream-box hidden">
+      <div class="stream-head"><span class="dot"></span>模型输出中…</div>
+      <pre id="streamText"></pre>
+    </div>
+  </section>
+</main>
+
+<!-- 抽屉：历史 -->
+<aside id="drawerHistory" class="drawer">
+  <div class="drawer-head">
+    <h3>历史记录</h3>
+    <div>
+      <button id="btnClearHistory" class="mini danger">清空</button>
+      <button class="mini close-drawer">关闭</button>
+    </div>
+  </div>
+  <div id="historyList" class="drawer-body"></div>
+</aside>
+
+<!-- 抽屉：设置 -->
+<aside id="drawerSettings" class="drawer">
+  <div class="drawer-head">
+    <h3>设置</h3>
+    <button class="mini close-drawer">关闭</button>
+  </div>
+  <div class="drawer-body settings">
+    <label class="field">
+      <span>DeepSeek API Key</span>
+      <input id="apiKey" type="password" placeholder="sk-..." autocomplete="off" />
+      <em class="note">保存在服务端 .env，不会写进前端缓存。留空表示不修改。</em>
+    </label>
+    <label class="field">
+      <span>模型</span>
+      <input id="model" placeholder="deepseek-chat" />
+    </label>
+    <button id="btnSaveSettings" class="btn primary">保存设置</button>
+    <p id="setState" class="tpl-state"></p>
+
+    <hr class="sep" />
+    <h4 class="opt-title">下拉候选自定义</h4>
+    <p class="block-note">每行一个，保存后追加到内置候选后面。输入框本身随时可以手打任意值，这里只管下拉建议。</p>
+    <label class="field">
+      <span>学期</span>
+      <textarea id="optTerms" class="opt-input" rows="3"></textarea>
+    </label>
+    <label class="field">
+      <span>资料类型</span>
+      <textarea id="optMaterials" class="opt-input" rows="4"></textarea>
+    </label>
+    <label class="field">
+      <span>年级</span>
+      <textarea id="optGrades" class="opt-input" rows="3"></textarea>
+    </label>
+    <label class="field">
+      <span>学科</span>
+      <textarea id="optSubjects" class="opt-input" rows="3"></textarea>
+    </label>
+    <button id="btnSaveOptions" class="btn primary">保存候选</button>
+    <p id="optState" class="tpl-state"></p>
+  </div>
+</aside>
+
+<!-- 弹层：提示词预览 -->
+<aside id="drawerPreview" class="drawer wide">
+  <div class="drawer-head">
+    <h3>拼装后的完整提示词</h3>
+    <div>
+      <button id="btnCopyPrompt" class="mini">复制</button>
+      <button class="mini close-drawer">关闭</button>
+    </div>
+  </div>
+  <div class="drawer-body"><pre id="previewText" class="preview"></pre></div>
+</aside>
+
+<div id="mask" class="mask hidden"></div>
+<div id="toast" class="toast"></div>
+
+<script src="/app.js"></script>
+</body>
+</html>

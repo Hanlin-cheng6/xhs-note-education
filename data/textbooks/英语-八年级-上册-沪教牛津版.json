@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "沪教牛津版",
+  "edition": "2025秋版（六三制，依据2022课标，束定芳主编）；⚠ ISBN 未查到官方核号码，待核",
+  "source": "电子课本网 dzkbw.com/books/hjb/yingyu/8s_2025（六三制路径）；国家出版发行信息公共服务平台《5.3》沪教牛津版目录",
+  "confidence": "medium",
+  "note": "⚠ 本条为**六三制全国版**，与「沪教牛津上海版」（五四制）不是同一本书，学制不同、单元数不同，建库务必区分。新版 8 个 Unit，每单元板块：Section 1 Experiencing and understanding language / Section 2 Exploring and applying rules (Grammar) / Section 3 Expressing and communicating ideas / Section 4 Extending and developing competencies。⚠ 教辅对 Unit 6 有「Ancient stories」与「Wisdom counts」两种表述，以实书为准。",
+  "units": [
+    {
+      "title": "Unit 1 Look it up!",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 2 Amazing numbers",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 3 Our digital lives",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 4 Inventions",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 5 Going on an exchange trip",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 6 Wisdom counts（教辅另见 Ancient stories）",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 7 The secret of memory",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    },
+    {
+      "title": "Unit 8 Pets and us",
+      "lessons": [
+        "Section 1",
+        "Section 2 (Grammar)",
+        "Section 3",
+        "Section 4"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

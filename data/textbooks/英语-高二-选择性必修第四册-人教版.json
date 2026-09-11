@@ -1,0 +1,78 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第四册",
+  "version": "人教版",
+  "edition": "第1版（2019课标版）；ISBN 978-7-107-35096-2",
+  "source": "中国高校教材图书网 sinobook.com.cn + 第二届全国教材建设奖公示 tech.net.cn PDF + 电子课本网 haoduoyun.cc/book/rjb/yingyu/jexb4",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "通常属高三册次。单元与板块结构同上。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Science Fiction",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 2 Iconic Attractions",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 3 Sea Exploration",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 4 Sharing",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 5 Launching Your Career",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    }
+  ]
+}

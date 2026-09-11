@@ -1,0 +1,54 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第一册",
+  "version": "北师大版",
+  "confidence": "high",
+  "edition": "2019版（北京师范大学出版社）；单册 ISBN 未查到",
+  "source": "好多电子课本网 + 教师之家 + 电子课本网",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 北师大版每册3个单元，无 Welcome Unit，开篇为「A NEW START FOR ENGLISH / LEARNING TO LEARN」。单册 ISBN 本轮未查到，目录可信度高。",
+  "units": [
+    {
+      "title": "UNIT 1 Life Choices",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 Lifestyles",
+        "LESSON 2 Understanding and Coping with Stress",
+        "LESSON 3 Your Life Is What You Make It",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    },
+    {
+      "title": "UNIT 2 Sports and Fitness",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 The Underdog",
+        "LESSON 2 Rules of the Game",
+        "LESSON 3 Running and Fitness",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    },
+    {
+      "title": "UNIT 3 Celebrations",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 Spring Festival",
+        "LESSON 2 Special Occasions",
+        "LESSON 3 Memories of Christmas",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "LITERATURE SPOT",
+        "PROJECTS",
+        "ASSESSMENT"
+      ]
+    }
+  ]
+}

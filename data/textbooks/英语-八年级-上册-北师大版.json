@@ -1,0 +1,97 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "edition": "2025年6月第1版（依据2022课标，王蔷主编）ISBN 978-7-303-30739-5",
+  "source": "电子课本网 dzkbw.com/books/bsd/yingyu/8s_2025；北京师范大学出版社 ISBN（elpsky 资源库）",
+  "confidence": "medium",
+  "note": "⚠ 电子课本网明确加载出 Unit 1-6，**Unit 7-8 未查到，未臆测**（可能全书仅6单元，或7-8未上架）。新版每单元板块：Topic Talk / Lesson 1-3 / Writing Workshop / Speaking Workshop / Reading Club 1&2 / Project / Check Your Progress / Unit Summary。⚠ 另有教辅站把仁爱版内容误标为「北师大版新教材教学计划」，不可采信。",
+  "units": [
+    {
+      "title": "Unit 1 Sports",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1 The Olympics",
+        "Lesson 2 Sports and Studies",
+        "Lesson 3 Battle to the End",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1 & 2",
+        "Project — Go for a Sport!",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 2 Safety",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1 Stay Safe",
+        "Lesson 2 After the Thunderstorm",
+        "Lesson 3 Better Safe Than Sorry: Safe Surfing",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1 & 2",
+        "Project — Safety First",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 3 Feelings and Emotions",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1 Managing Our Emotions",
+        "Lesson 2 Please Be Proud of Me!",
+        "Lesson 3 How Do You Feel About Yourself?",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1 & 2",
+        "Project — A Comic Book to Heal",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 4 Role Models",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1 Red Army Soldiers",
+        "Lesson 2 Role Models Around Me",
+        "Lesson 3 The Man Bringing Hope on Four Wheels",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1 & 2",
+        "Project — Choosing Role Models",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 5 Travel",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1 Always Travelling, Always Learning",
+        "Lesson 2 Preparing for a Trip",
+        "Lesson 3 A Wonderful Trip",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1 & 2",
+        "Project — Being a Responsible Traveller",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 6 Celebrations",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1 Some Things Change, Some Don't",
+        "Lesson 2 Happy Birthday!",
+        "（Lesson 3 及后续板块未在电子课本网目录页完整加载）"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

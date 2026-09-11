@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "陕旅版",
+  "edition": "2024年版（2022课标，三起），陕西旅游出版社；ISBN 未逐本核实",
+  "source": "好多电子课本网陕西旅游版六年级英语上册6A（真实课本页）；教习网陕旅版(2024)六年级上册课文目录（26秋）；原创力文档2025-2026陕旅版(三起)(2024)教学设计",
+  "confidence": "high",
+  "note": "旧版（2011课标）陕旅六上为「Unit 1 They Were Here Just Now／Unit 2 My Hometown／Unit 3 What Did You Do Last Weekend?／Unit 4 Where Did You Go on Your Holiday?／Review 1／Unit 5 A Sports Meet／Unit 6 We Had a Good Time／Unit 7 We’d Like a Plate of Beef／Unit 8 New Year Is Coming／Review 2」。2026秋改用下方新版（8 单元，每单元 Part A/B/C）。",
+  "units": [
+    {
+      "title": "Unit 1 It’s time to play the violin",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 2 I’m healthy",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 3 Care for the earth",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 4 Let’s go on a picnic",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Review 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 It was here just now",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 6 What did you do last weekend?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 7 I had a good time",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 8 New Year’s party",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Review 2",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

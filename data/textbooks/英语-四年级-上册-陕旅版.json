@@ -1,0 +1,93 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "陕旅版",
+  "edition": "2024课标修订版（封面标2024，2025秋启用），陕西旅游出版社；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/slb/yingyu/4s_2025；课本内页实拍（陕西旅游出版社）；英语朗读宝",
+  "confidence": "medium",
+  "note": "⚠ 存在来源冲突：国家中小学智慧教育平台当前仍托管旧版（Unit 1 What Is Your Father? / Unit 2 What Do They Have on the Farm? / … / Unit 8 Boys Like to Play Ball），而电子课本网及实拍课本显示已换 2024课标新版（Unit 1 Our Classroom …）。建议以当地教育局2025秋教科书选用公告终核。旧版与新版板块均为 Part A: Let’s talk / Let’s learn / Part B: Let’s read / Let’s spell & Fun time。",
+  "units": [
+    {
+      "title": "Unit 1 Our Classroom",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Let’s spell & Fun time"
+      ]
+    },
+    {
+      "title": "Unit 2 Our House",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Fun time"
+      ]
+    },
+    {
+      "title": "Unit 3 I Come to School on Foot",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Let’s spell & Fun time"
+      ]
+    },
+    {
+      "title": "Unit 4 Follow the Rules",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Fun time"
+      ]
+    },
+    {
+      "title": "Review 1（Units 1–4）",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 We Have Chinese in the Morning",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Let’s spell & Fun time"
+      ]
+    },
+    {
+      "title": "Unit 6 What Day Is It Today?",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Fun time"
+      ]
+    },
+    {
+      "title": "Unit 7 It’s Time to Get Up",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Let’s spell & Fun time"
+      ]
+    },
+    {
+      "title": "Unit 8 Early to Bed and Early to Rise",
+      "lessons": [
+        "Part A: Let’s talk",
+        "Part A: Let’s learn",
+        "Part B: Let’s read",
+        "Fun time"
+      ]
+    },
+    {
+      "title": "Review 2（Units 5–8）",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

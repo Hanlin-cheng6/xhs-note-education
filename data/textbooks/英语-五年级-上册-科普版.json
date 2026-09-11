@@ -1,0 +1,65 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "科普版",
+  "edition": "2011课标版（当前沿用）；学生用书 ISBN 未查到",
+  "source": "教师之家（科普2011课标版三起五年级上册）；英语朗读宝；mergeek（三源一致）",
+  "confidence": "high",
+  "note": "科普版五上当前为2011课标版（Lesson 1–12 结构）。⚠ 电子课本网另有「2026秋版」（Unit 1 Festivals…Unit 10 Revision，共10单元）疑似依2022课标新修订版，但缺第二来源，未采信。请关注科学普及出版社／本省公告是否2026秋启用新版。",
+  "units": [
+    {
+      "title": "Lesson 1 What is she doing?",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 2 Don’t be late next time!",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 3 A computer has a keyboard",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 4 Does Jim like swimming?",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 5 What does he like?",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 6 Revision",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 7 What would you like?",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 8 Would you like some potatoes?",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 9 How many cakes do you want?",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 10 There is a horse under the tree",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 11 There isn’t any bread in the fridge",
+      "lessons": []
+    },
+    {
+      "title": "Lesson 12 Revision",
+      "lessons": []
+    },
+    {
+      "title": "Words in each lesson / Word list / Word families",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

@@ -1,0 +1,93 @@
+{
+  "subject": "英语",
+  "grade": "七年级",
+  "volume": "上册",
+  "version": "人教版",
+  "edition": "2024年7月第1版（依据2022年版课程标准修订）ISBN 978-7-107-38254-3",
+  "source": "人民教育出版社官网电子课本页 pep.com.cn；当当网正版书目",
+  "confidence": "high",
+  "note": "旧版 Go for it! 七年级上册为 Starter Unit 1-3 + Unit 1 My name's Gina / Unit 2 This is my sister / Unit 3 Is this your pencil / Unit 4 Where's my schoolbag / Unit 5 Do you have a soccer ball / Unit 6 Do you like bananas / Unit 7 How much are these socks / Unit 8 When is your birthday / Unit 9 My favorite subject is science。2024新版已彻底重构为 Starter Unit 1-3 + Unit 1-7，主题与旧版完全不同，AI凭记忆极易给错，务必以新版为准。",
+  "units": [
+    {
+      "title": "Starter Unit 1 Hello!",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Starter Unit 2 Keep Tidy!",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Starter Unit 3 Welcome!",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 1 You and Me",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 2 We're Family!",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 3 My School",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 4 My Favourite Subject",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 5 Fun Clubs",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 6 A Day in the Life",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 7 Happy Birthday!",
+      "lessons": [
+        "Section A（含 Pronunciation）",
+        "Section B",
+        "Project"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

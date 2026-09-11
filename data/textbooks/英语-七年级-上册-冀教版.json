@@ -1,0 +1,101 @@
+{
+  "subject": "英语",
+  "grade": "七年级",
+  "volume": "上册",
+  "version": "冀教版",
+  "edition": "2024年8月第1版（主编 田贵森，河北教育出版社）ISBN 978-7-5545-8767-6",
+  "source": "冀教版版权页CIP；电子课本网 dzkbw.com/books/jjb/yingyu/7s_2024/001.htm；教师之家",
+  "confidence": "high",
+  "note": "2024新版共8个单元，每单元含4个新授课(Lesson 1-4)+1个项目/拓展课(Lesson 5)及拓展阅读页。",
+  "units": [
+    {
+      "title": "Unit 1 New school, new beginning!",
+      "lessons": [
+        "Lesson 1 Hello!",
+        "Lesson 2 Let me show you around!",
+        "Lesson 3 Look at the photo!",
+        "Lesson 4 My school days",
+        "Lesson 5 I like my school!",
+        "Two great teachers（拓展阅读）"
+      ]
+    },
+    {
+      "title": "Unit 2 Learning English is fun!",
+      "lessons": [
+        "Lesson 1 How do you like English?",
+        "Lesson 2 Amazing English",
+        "Lesson 3 Food words are interesting!",
+        "Lesson 4 Colours and feelings",
+        "Lesson 5 Tips for learning English",
+        "British or American English?（拓展）"
+      ]
+    },
+    {
+      "title": "Unit 3 All about me",
+      "lessons": [
+        "Lesson 1 Me and my body",
+        "Lesson 2 How do you feel?",
+        "Lesson 3 We all look different!",
+        "Lesson 4 What do you like to do?",
+        "Lesson 5 About-me card",
+        "An interview（拓展）"
+      ]
+    },
+    {
+      "title": "Unit 4 My family",
+      "lessons": [
+        "Lesson 1 My family photo",
+        "Lesson 2 A family picnic",
+        "Lesson 3 Grandma's birthday party",
+        "Lesson 4 A birthday card",
+        "Lesson 5 I love my family!",
+        "Chinese and English names（拓展）"
+      ]
+    },
+    {
+      "title": "Unit 5 Animal friends",
+      "lessons": [
+        "Lesson 1 I'd like to have a pet!",
+        "Lesson 2 The rhino and the egret",
+        "Lesson 3 At the zoo",
+        "Lesson 4 My favourite animal",
+        "Lesson 5 Save the tigers!",
+        "Interesting animals（拓展）"
+      ]
+    },
+    {
+      "title": "Unit 6 Let's go!",
+      "lessons": [
+        "Lesson 1 On the way to the bookstore",
+        "Lesson 2 At the museum",
+        "Lesson 3 Our shopping list",
+        "Lesson 4 What would you like?",
+        "Lesson 5 My favourite place",
+        "Museums around the world（拓展）"
+      ]
+    },
+    {
+      "title": "Unit 7 Days and months",
+      "lessons": [
+        "Lesson 1 Talking with Zack",
+        "Lesson 2 Winter in Harbin",
+        "Lesson 3 Special days",
+        "Lesson 4 Happy holidays!",
+        "Lesson 5 The colourful seasons",
+        "We have many holidays!（拓展）"
+      ]
+    },
+    {
+      "title": "Unit 8 Knowing the world",
+      "lessons": [
+        "Lesson 1 Where are you from?",
+        "Lesson 2 My home country",
+        "Lesson 3 Different landscapes",
+        "Lesson 4 Same time, different weather",
+        "Lesson 5 A profile of Thailand",
+        "The earth—our only home（拓展）"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

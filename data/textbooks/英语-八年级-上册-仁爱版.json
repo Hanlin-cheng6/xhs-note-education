@@ -1,0 +1,64 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "仁爱版",
+  "edition": "2025年7月第1版（依据2022课标，北京市仁爱教育研究所编，科学普及出版社）ISBN 978-7-110-10942-7",
+  "source": "电子课本网 dzkbw.com/books/renai/yingyu/8s_2025（目录页003.htm）；原创力文档教学设计",
+  "confidence": "medium",
+  "note": "⚠ 电子课本网同一站点出现两套目录：本条目（Unit 1 My Dream Job 起）有两处来源印证，暂采信；另一页显示为 Unit 1 Healthy Mind and Body 起，顺序命名不一致。**请在实书到手后核对版权页。**新版每单元下设 Topic（Preparing for the Topic / Exploring the Topic / Developing the Topic / Wrapping up the Topic）。",
+  "units": [
+    {
+      "title": "Unit 1 My Dream Job",
+      "lessons": [
+        "Topic 1 Preparing for the Topic",
+        "Topic 2 Exploring the Topic",
+        "Topic 3 Developing the Topic",
+        "Topic 4 Wrapping up the Topic"
+      ]
+    },
+    {
+      "title": "Unit 2 The World of Art",
+      "lessons": [
+        "Topic 1 Preparing for the Topic",
+        "Topic 2 Exploring the Topic",
+        "Topic 3 Developing the Topic",
+        "Topic 4 Wrapping up the Topic"
+      ]
+    },
+    {
+      "title": "Unit 3 Sound Body, Sound Mind",
+      "lessons": [
+        "Topic 1 Preparing for the Topic",
+        "Topic 2 Exploring the Topic",
+        "Topic 3 Developing the Topic",
+        "Topic 4 Wrapping up the Topic"
+      ]
+    },
+    {
+      "title": "Unit 4 Changing and Growing",
+      "lessons": [
+        "Topic 1 Preparing for the Topic",
+        "Topic 2 Exploring the Topic",
+        "Topic 3 Developing the Topic",
+        "Topic 4 Wrapping up the Topic"
+      ]
+    },
+    {
+      "title": "Unit 5 Amazing Places",
+      "lessons": [
+        "Topic 1 Preparing for the Topic",
+        "Topic 2 Exploring the Topic",
+        "Topic 3 Developing the Topic",
+        "Topic 4 Wrapping up the Topic"
+      ]
+    },
+    {
+      "title": "Unit 6 Earth and Beyond",
+      "lessons": [
+        "（附录：Notes to the Text / Grammar / Tapescripts / Words in Each Unit / Vocabulary 等）"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

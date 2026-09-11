@@ -1,0 +1,88 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第三册",
+  "version": "人教版",
+  "confidence": "high",
+  "edition": "2019版（2019年11月出版，含内容修订）；ISBN 978-7-107-34061-1",
+  "source": "百度百科教材词条 + 当当网在售",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 必修三有内容修订（听说板块增技能层级、阅读更新时效案例），册次与ISBN沿用2019版。",
+  "units": [
+    {
+      "title": "Unit 1 Festivals and Celebrations",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 2 Morals and Virtues",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 3 Diverse Cultures",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 4 Space Exploration",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    },
+    {
+      "title": "Unit 5 The Value of Money",
+      "lessons": [
+        "Opening Page",
+        "Listening and Speaking",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time",
+        "Reflecting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "冀教版",
+  "confidence": "high",
+  "edition": "2026年6月第1版（CIP核字202538EA14）；ISBN 978-7-5434-9839-6",
+  "source": "图书CIP数据（封面版权页，ISBN 978-7-5434-9839-6）+ 教习网新教材解读",
+  "verifiedAt": "2026-09-10",
+  "note": "旧版冀教为九年级全一册（Unit 1 Stay Healthy / 2 Great People / … / 10 Get Ready for the Future），点读站仍显示旧全一册。2026新版为上册6单元，每单元 Lesson 1-5（听说→读思→读语→写作→项目）+ 拓展阅读/文化板块。旧版 Unit 1 为 Stay Healthy（无s），新版为 Staying healthy。本条目有 CIP 含 ISBN，置信度高。",
+  "units": [
+    {
+      "title": "Unit 1 Staying healthy",
+      "lessons": [
+        "Lesson 1 How are you feeling?",
+        "Lesson 2 A healthy way of eating",
+        "Lesson 3 Staying positive",
+        "Lesson 4 Be happy, be healthy!",
+        "Lesson 5 No smoking, please!",
+        "Sharing common health concepts",
+        "What is your recovery rate?"
+      ]
+    },
+    {
+      "title": "Unit 2 Communication",
+      "lessons": [
+        "Lesson 1 Communication matters!",
+        "Lesson 2 Making school a better place",
+        "Lesson 3 Tips for good communication",
+        "Lesson 4 Working in groups",
+        "Lesson 5 The best team",
+        "The core of communication",
+        "It is important to say thank you!"
+      ]
+    },
+    {
+      "title": "Unit 3 Arts enrich our life",
+      "lessons": [
+        "Lesson 1 A talk about art",
+        "Lesson 2 The art of calligraphy",
+        "Lesson 3 Moving pictures",
+        "Lesson 4 Huang Gongwang — a famous painter",
+        "Lesson 5 The Fisherman and the Goldfish",
+        "Artists around the world",
+        "Imagination"
+      ]
+    },
+    {
+      "title": "Unit 4 Great people",
+      "lessons": [
+        "Lesson 1 Great people in China",
+        "Lesson 2 A universe of thought",
+        "Lesson 3 Touching the world",
+        "Lesson 4 China’s most famous \"farmer\"",
+        "Lesson 5 Heroes in my heart",
+        "To China, with love",
+        "Heroes of our country"
+      ]
+    },
+    {
+      "title": "Unit 5 Culture shapes us!",
+      "lessons": [
+        "Lesson 1 A visit to Chinatown",
+        "Lesson 2 Popular sayings",
+        "Lesson 3 Culture and manners",
+        "Lesson 4 Good manners",
+        "Lesson 5 Colourful Chinese culture",
+        "What is culture?",
+        "English manners"
+      ]
+    },
+    {
+      "title": "Unit 6 Looking into science",
+      "lessons": [
+        "Lesson 1 Let’s do an experiment!",
+        "Lesson 2 The history of the book",
+        "Lesson 3 DNA is fantastic!",
+        "Lesson 4 Technology around us",
+        "Lesson 5 Keep the candle burning!",
+        "Science affects us",
+        "About science"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Vocabulary (I)",
+        "Vocabulary (II)",
+        "List of proper names",
+        "Structures and expressions",
+        "Irregular verbs",
+        "Grammar"
+      ]
+    }
+  ]
+}

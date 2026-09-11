@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第二册",
+  "version": "外研版",
+  "edition": "第1版（2019课标版）；ISBN 978-7-5213-1780-0",
+  "source": "外语教学与研究出版社2025基础教育教学资源订货目录 fltrp.com/ebook/jcjy + 内江市第一中学教材目录 neijiang.gov.cn + 教习网 51jiaoxi.com",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "外研社官网订货目录确认ISBN。每册6单元，板块同选必一。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Growing up",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 2 Improving yourself",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 3 Times change!",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 4 Breaking boundaries",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 5 A delicate world",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 6 Survival",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Using language",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection",
+        "Project"
+      ]
+    }
+  ]
+}

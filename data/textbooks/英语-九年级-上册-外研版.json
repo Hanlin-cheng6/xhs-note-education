@@ -1,0 +1,87 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "外研版",
+  "confidence": "high",
+  "edition": "2026年6月第1版（2026秋启用）；新版6单元，ISBN 未确认",
+  "source": "电子课本网dzkbw 外研2026秋版目录（完整）+ 五三《重难点》PDF及book118教学设计（板块结构）",
+  "verifiedAt": "2026-09-10",
+  "note": "旧版为 Module 1-12 + Revision module A/B（Wonders of the world / Public holidays / Heroes…），点读站仍显示旧结构，勿混。2026新版改为 Unit 1-6，板块为 Starting out → Understanding ideas → Developing ideas → Presenting ideas → Reflection。外研社官方书目列九年级上 978-7-5213-5583-3，疑为旧 Module 版，新版 ISBN 未从官网确认。",
+  "units": [
+    {
+      "title": "Unit 1 Teenagers today",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 2 On the money",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 3 Past passing by",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 4 Heroes",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 5 A fine balance",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 6 Live green",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Phonetics in use",
+        "Listening scripts",
+        "Communication bank",
+        "Notes",
+        "Guide to the language use",
+        "Words and expressions",
+        "Proper nouns",
+        "Vocabulary",
+        "Irregular verbs"
+      ]
+    }
+  ]
+}

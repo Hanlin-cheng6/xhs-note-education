@@ -1,0 +1,83 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "edition": "2022课标修订版（2026秋启用，三起）；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/bsd/yingyu/5s_2026（唯一新版来源）",
+  "confidence": "medium",
+  "note": "⚠ 仅单一来源。旧版（2013版）为「Unit 1 Jobs／Unit 2 Animals／Unit 3 Clothes／Unit 4 Position／Unit 5 Places／Unit 6 Review」，每单元6课。新版改为每单元 4 课 + CLIL/Reading time。建议以省级选用公告复核。",
+  "units": [
+    {
+      "title": "Unit 1 Welcoming seasons",
+      "lessons": [
+        "Lesson 1 Songs for seasons",
+        "Lesson 2 Feeling the seasons",
+        "Lesson 3 The story of the months",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 2 Staying healthy",
+      "lessons": [
+        "Lesson 1 I don’t feel well",
+        "Lesson 2 Healthy eating",
+        "Lesson 3 Healthy living",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 3 A better me",
+      "lessons": [
+        "Lesson 1 I’m better",
+        "Lesson 2 Together we are the best",
+        "Lesson 3 The best child",
+        "Lesson 4 Try it out",
+        "Project",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 4 Doing chores",
+      "lessons": [
+        "Lesson 1 Helping with chores",
+        "Lesson 2 Busy Saturdays",
+        "Lesson 3 We share chores",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 5 Living in a community",
+      "lessons": [
+        "Lesson 1 Helpers around us",
+        "Lesson 2 Everyone can help",
+        "Lesson 3 Community Day",
+        "Lesson 4 Try it out",
+        "Project",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 6 Review",
+      "lessons": [
+        "Lesson 1 I like different seasons",
+        "Lesson 2 Be a good helper",
+        "Lesson 3 Growing better",
+        "Fun time",
+        "Show time",
+        "Wonderful world"
+      ]
+    },
+    {
+      "title": "Word bank",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

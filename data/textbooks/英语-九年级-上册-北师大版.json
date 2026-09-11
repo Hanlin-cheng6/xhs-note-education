@@ -1,0 +1,103 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "confidence": "medium",
+  "edition": "2026秋版（新版5单元）；ISBN 未确认",
+  "source": "电子课本网dzkbw 北师大2026秋版目录（完整）",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 存在结构冲突：dzkbw「2026秋版」为5单元（Information and Media / Literature / Growing Up / Personal Finance / Art）；21世纪教育网教学计划列8单元（Role Models / Discoveries / Communication / Labor and Creativity…），差异巨大，本目录取 dzkbw（直接教材扫描）。北师大旧版为九年级全一册（Unit 1 Language / … / 9 Save the Planet），点读站仍显示旧全一册。",
+  "units": [
+    {
+      "title": "Unit 1 Information and Media",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1",
+        "Reading Club 2",
+        "Project",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 2 Literature",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1",
+        "Reading Club 2",
+        "Project",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 3 Growing Up",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1",
+        "Reading Club 2",
+        "Project",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 4 Personal Finance",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1",
+        "Reading Club 2",
+        "Project",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "Unit 5 Art",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Speaking Workshop",
+        "Reading Club 1",
+        "Reading Club 2",
+        "Project",
+        "Check Your Progress",
+        "Unit Summary"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Peer Editing Sheet",
+        "Tapescripts",
+        "Grammar Summary",
+        "Notes to the Texts",
+        "Vocabulary in Each Unit"
+      ]
+    }
+  ]
+}

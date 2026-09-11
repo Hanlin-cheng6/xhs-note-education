@@ -1,0 +1,112 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第二册",
+  "version": "重庆大学版",
+  "edition": "2021年8月第1版；ISBN 978-7-5689-2507-5",
+  "source": "国家中小学智慧教育平台 cbern.com.cn PDF（版权页 ISBN 978-7-5689-2507-5，2021年8月第1版）+ 重庆大学出版社官网 cqup.com.cn",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "ISBN与版次经国家中小学智慧教育平台电子课本版权页确认。每册6单元（选必二含3主题6单元+3个 Challenging Yourself），板块同选必一。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Plants",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 2 Animals",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Challenging Yourself A Man and Pets",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 3 Dreams and Dreamers",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 4 Perseverance and Success",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Challenging Yourself B Great Figures",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 5 Olympic History",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 6 The Spirit of Sports",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Challenging Yourself C Olympic Pioneers",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    }
+  ]
+}

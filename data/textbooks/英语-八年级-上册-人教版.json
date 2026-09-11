@@ -1,0 +1,83 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "人教版",
+  "edition": "2025年6月第1版（依据2022年版课标，2024秋七年级→2025秋八年级滚动启用）ISBN 978-7-107-38944-3",
+  "source": "人民教育出版社官网 pep.com.cn 新版资源页；电子课本网 dzkbw.com/books/rjb/yingyu/xc8s_2025；内江市第七中学教材目录公示",
+  "confidence": "high",
+  "note": "旧版（Go for it!，依据2011课标，ISBN 9787107263538）为 Unit 1-10。新版已彻底重构为 8 单元，每单元设 Section A / Pronunciation / Section B / Project。主编刘道义、郑旺全，分册主编张献臣。",
+  "units": [
+    {
+      "title": "Unit 1 Happy Holiday",
+      "lessons": [
+        "Section A — How do people spend their holidays?",
+        "Pronunciation",
+        "Section B — What can we learn from holiday experiences?",
+        "Project — Make a holiday to-do list"
+      ]
+    },
+    {
+      "title": "Unit 2 Home Sweet Home",
+      "lessons": [
+        "Section A — What can you do for your home?",
+        "Pronunciation",
+        "Section B — How do you feel at home?",
+        "Project — Find out who does the most chores at home"
+      ]
+    },
+    {
+      "title": "Unit 3 Same or Different?",
+      "lessons": [
+        "Section A — How are we different from each other?",
+        "Pronunciation",
+        "Section B — How do we understand differences?",
+        "Project — See who changed the most"
+      ]
+    },
+    {
+      "title": "Unit 4 Amazing Plants and Animals",
+      "lessons": [
+        "Section A — What can plants and animals do?",
+        "Pronunciation",
+        "Section B — How are plants and animals connected with us?",
+        "Project — Make a poster about a plant or an animal"
+      ]
+    },
+    {
+      "title": "Unit 5 What a Delicious Meal!",
+      "lessons": [
+        "Section A — How do we make food?",
+        "Pronunciation",
+        "Section B — What does cooking give us?",
+        "Project — Create a recipe for a tasty dish"
+      ]
+    },
+    {
+      "title": "Unit 6 Plan for Yourself",
+      "lessons": [
+        "Section A — When do we make plans?",
+        "Pronunciation",
+        "Section B — How can we make good plans?",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 7 When Tomorrow Comes",
+      "lessons": [
+        "Section A",
+        "Pronunciation",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 8 Let's Communicate!",
+      "lessons": [
+        "Section A",
+        "Pronunciation",
+        "Section B"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

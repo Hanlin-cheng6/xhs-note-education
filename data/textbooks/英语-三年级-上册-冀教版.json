@@ -1,0 +1,73 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "冀教版",
+  "edition": "2024秋版（冀教三起，2024年新课标修订）；学生用书 ISBN 未确认",
+  "source": "电子课本网 dzkbw.com/books/jjb/yingyu/3s_2024；教师之家；好多电子课本网 haoduoyun.cc/book/jjb/yingyu/tc3s",
+  "confidence": "high",
+  "note": "2024新版，单元采用 Lesson 1–4 + Review: Again, please! 结构，每单元后均有 Again, please! 复习。⚠ Unit 4 Lesson 2 个别来源作「May I use one?」，另有来源作「Friends share.」，本库采信电子课本与好多课本网的「May I use one?」。注意与低年级「冀教一起」（一年级起点）区分，二者是不同产品线。",
+  "units": [
+    {
+      "title": "Unit 1 Hello!",
+      "lessons": [
+        "Lesson 1 Hello!",
+        "Lesson 2 How are you?",
+        "Lesson 3 Good morning!",
+        "Lesson 4 Nice to meet you.",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 2 My school",
+      "lessons": [
+        "Lesson 1 This is my school.",
+        "Lesson 2 In the classroom",
+        "Lesson 3 In the library",
+        "Lesson 4 Fun with letters",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 3 Colours and letters",
+      "lessons": [
+        "Lesson 1 Fun with colours",
+        "Lesson 2 What colour is it?",
+        "Lesson 3 Letters all around",
+        "Lesson 4 My letter book",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 4 My friends",
+      "lessons": [
+        "Lesson 1 This is my friend.",
+        "Lesson 2 May I use one?",
+        "Lesson 3 Story: Don’t worry.",
+        "Lesson 4 We are friends.",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 5 About me",
+      "lessons": [
+        "Lesson 1 Let’s make a robot!",
+        "Lesson 2 Look at my face.",
+        "Lesson 3 Story: It’s OK to be different.",
+        "Lesson 4 This is me!",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 6 My family",
+      "lessons": [
+        "Lesson 1 Li Ming’s family",
+        "Lesson 2 Jenny’s family",
+        "Lesson 3 Story: A happy family",
+        "Lesson 4 I love my family.",
+        "Review: Again, please!"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

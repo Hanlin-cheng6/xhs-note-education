@@ -1,0 +1,74 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "沪教牛津上海版",
+  "edition": "2025年7月第1版（五·四学制，依据2022课标，束定芳主编，上海教育出版社）ISBN 978-7-5720-3630-9",
+  "source": "上海教育出版社版权页PDF（含完整 Contents）；电子课本网 dzkbw.com/books/hjb/yingyu/oxford8s_2025",
+  "confidence": "medium",
+  "note": "⚠ 此为上海「五·四学制」专用版，与「沪教牛津版」（六三制）并非同一书，单元数与板块均不同。板块为：Viewing and listening / Speaking / Reading / Writing / Project；末附 Culture corner、Literature corner（A Long Walk to Water / Frankenstein / A Paper Moon）、Notes / Pronunciation file / Word study support / Grammar file 等。",
+  "units": [
+    {
+      "title": "Unit 1 Water",
+      "lessons": [
+        "Viewing and listening — Facts about water",
+        "Speaking — Water in everyday life",
+        "Reading — The land of little water / Water protection",
+        "Writing — New ways to supply water",
+        "Project — Our water use in a day"
+      ]
+    },
+    {
+      "title": "Unit 2 Digital life",
+      "lessons": [
+        "Viewing and listening — Digital products",
+        "Speaking — Complaints about digital products",
+        "Reading — Digital technologies",
+        "Writing — My view on digital life",
+        "Project — A mini-survey on digital life"
+      ]
+    },
+    {
+      "title": "Unit 3 Curious minds",
+      "lessons": [
+        "Viewing and listening — An inborn ability",
+        "Speaking — Keeping your curious mind",
+        "Reading — Benefits of curiosity",
+        "Writing — A healthy dose of curiosity",
+        "Project — Curious minds in history"
+      ]
+    },
+    {
+      "title": "Unit 4 Then and now",
+      "lessons": [
+        "Viewing and listening — Cities then and now",
+        "Speaking — Old things from old days",
+        "Reading — A page of history",
+        "Writing — Changes in our lives",
+        "Project — New for old"
+      ]
+    },
+    {
+      "title": "Unit 5 Teamwork",
+      "lessons": [
+        "Viewing and listening — Great teams",
+        "Speaking — Challenges in teamwork",
+        "Reading — Team spirit",
+        "Writing — My teamwork experience",
+        "Project — Teamwork in nature"
+      ]
+    },
+    {
+      "title": "Unit 6 Life in the future",
+      "lessons": [
+        "Viewing and listening — Future entertainment",
+        "Speaking — Future travel",
+        "Reading — Future living",
+        "Writing — My view of the future",
+        "Project — Creating a better future",
+        "Culture corner / Literature corner / Notes / Grammar file / Vocabulary"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

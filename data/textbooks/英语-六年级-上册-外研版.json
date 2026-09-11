@@ -1,0 +1,37 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "外研版",
+  "edition": "2024年版（孙有中主编，2022课标）；ISBN 未完整核实",
+  "source": "21世纪教育网外研版(三起)(孙有中)六年级上册新教材PDF（CIP核字2024）；教习网2026秋外研版(三起)(孙有中)新教材六上教学计划",
+  "confidence": "high",
+  "note": "新版单元内板块含 Get ready / Read to learn / Listen up / Language in action / Speak out / Write now / About our world / Project / Wrap up（板块名以课本为准）。旧版（2013审定·陈琳）六上为 Module 1–10 + Review Module。2026秋改用孙有中新版（6 单元，无 Module）。⚠ 单元内板块名未逐一与课本核对。",
+  "units": [
+    {
+      "title": "Unit 1 What do you do with money?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 What’s your opinion?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 Wonderful nature",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 We can do it!",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Health matters",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 See the world",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

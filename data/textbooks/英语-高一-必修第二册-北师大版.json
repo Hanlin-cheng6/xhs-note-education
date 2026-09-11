@@ -1,0 +1,52 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第二册",
+  "version": "北师大版",
+  "confidence": "high",
+  "edition": "2019版（北京师范大学出版社）；单册 ISBN 未查到",
+  "source": "教师之家 + 好多电子课本网",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 北师大版每册3个单元，无 Welcome Unit，开篇为「A NEW START FOR ENGLISH / LEARNING TO LEARN」。单册 ISBN 本轮未查到，目录可信度高。 3个单元（UNIT 4—6）。",
+  "units": [
+    {
+      "title": "UNIT 4 Information technology",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 Avatars",
+        "LESSON 2 Apps",
+        "LESSON 3 Internet and Friendships",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    },
+    {
+      "title": "UNIT 5 Humans and nature",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 A Sea Story",
+        "LESSON 2 Professional Rescue Team",
+        "LESSON 3 Race to the Pole",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    },
+    {
+      "title": "UNIT 6 The admirable",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 A Medical Pioneer",
+        "LESSON 2 History Makers",
+        "LESSON 3 The Superhero Behind Superman",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    }
+  ]
+}

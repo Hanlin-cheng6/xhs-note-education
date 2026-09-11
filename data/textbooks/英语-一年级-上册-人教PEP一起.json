@@ -1,0 +1,31 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "人教PEP一起",
+  "edition": "人教版（一起2024）小学英语一年级上册，2024年新编（2022版课标），一二年级预备级；ISBN 未核实",
+  "source": "教习网 51jiaoxi.com/books/3002831；七彩学科网；人教社主编吴欣教材介绍",
+  "confidence": "medium",
+  "note": "2024秋起逐步投放的新书，未在 pep.com.cn 直接核验ISBN",
+  "units": [
+    {
+      "title": "Unit 1 Hello!"
+    },
+    {
+      "title": "Unit 2 My first class"
+    },
+    {
+      "title": "Unit 3 Look, listen and learn"
+    },
+    {
+      "title": "Unit 4 Ready for school"
+    },
+    {
+      "title": "Unit 5 People around me"
+    },
+    {
+      "title": "Revision A robot show"
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

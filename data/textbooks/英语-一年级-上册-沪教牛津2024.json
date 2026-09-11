@@ -1,0 +1,48 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "沪教牛津2024",
+  "edition": "沪教牛津版（六三制一起）（2024）一年级上册，2022版课标修订；ISBN 未核实",
+  "source": "教习网 51jiaoxi.com/books/88379",
+  "confidence": "medium",
+  "units": [
+    {
+      "title": "Module 1 Getting to know you",
+      "lessons": [
+        "Unit 1 Hello",
+        "Unit 2 My classmates",
+        "Unit 3 My face",
+        "Revision 1"
+      ]
+    },
+    {
+      "title": "Module 2 My family, my friends and me",
+      "lessons": [
+        "Unit 4 I can sing",
+        "Unit 5 My family",
+        "Unit 6 My friends",
+        "Revision 2"
+      ]
+    },
+    {
+      "title": "Module 3 Places and activities",
+      "lessons": [
+        "Unit 7 Let's count",
+        "Unit 8 Apples, please",
+        "Unit 9 May I have a pie?",
+        "Revision 3"
+      ]
+    },
+    {
+      "title": "Module 4 The world around us",
+      "lessons": [
+        "Unit 10 On the farm",
+        "Unit 11 In the zoo",
+        "Unit 12 In the park",
+        "Revision 4"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

@@ -1,0 +1,69 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "人教精通版",
+  "edition": "2024年版（2022课标，三起）；ISBN 未逐本核实",
+  "source": "教习网人教版精通英语六上新教材音频；教习网人教精通版(2024)六上预习（Unit 1 Travelling…Unit 6 Heroes）",
+  "confidence": "high",
+  "note": "新版每单元含 Section A / Section B / Self Check。旧版（2011课标）人教精通版六上为「Unit 1 I go to school at 8:00／Unit 2 What’s your hobby?／Unit 3 Would you like to come to my birthday party?／Fun Time 1／Recycle 1／Recycle 2／Unit 4 January is the first month／Unit 5 July is the seventh month／Unit 6 There are four seasons in a year」（共36课）。2026秋改用下方新版。",
+  "units": [
+    {
+      "title": "Unit 1 Travelling",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Self Check"
+      ]
+    },
+    {
+      "title": "Unit 2 My Feelings",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Self Check"
+      ]
+    },
+    {
+      "title": "Unit 3 Planting and Growing",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Self Check"
+      ]
+    },
+    {
+      "title": "Revision 1 阶段复习一",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Seasons",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Self Check"
+      ]
+    },
+    {
+      "title": "Unit 5 Celebration days",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Self Check"
+      ]
+    },
+    {
+      "title": "Unit 6 Heroes",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Self Check"
+      ]
+    },
+    {
+      "title": "Revision 2 阶段复习二",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

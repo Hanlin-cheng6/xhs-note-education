@@ -1,0 +1,77 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "2024秋版（译林三起，2024年新课标修订）；学生用书 ISBN 未确认",
+  "source": "电子课本网 dzkbw.com/books/yilin/yingyu/3a_2024；教师之家 renjiaoshe.com/kewen/83003",
+  "confidence": "high",
+  "note": "旧版（2011课标版）为 Unit 1 Hello! / Unit 2 I’m Liu Tao / Unit 3 My friends / Unit 4 My family / Project 1 / Unit 5 Look at me! / Unit 6 Colours / Unit 7 Would you like a pie? / Unit 8 Happy New Year! / Project 2。2024新版完全重构为 Module 1–2 共 8 个 Unit，每单元含 Big question、Letters in focus（字母）、Assessment time。⚠ Unit 6~8 的细目未在来源中完整列出。",
+  "units": [
+    {
+      "title": "Module 1 Getting to know each other — Unit 1 Hello!",
+      "lessons": [
+        "Big question: How do you greet people?",
+        "Letters in focus: Aa, Bb, Cc, Dd",
+        "First day at school",
+        "Greet others",
+        "Assessment time"
+      ]
+    },
+    {
+      "title": "Module 1 — Unit 2 What’s your name?",
+      "lessons": [
+        "Letters in focus: Ee, Ff, Gg",
+        "A new classmate",
+        "Make new friends",
+        "Assessment time"
+      ]
+    },
+    {
+      "title": "Module 1 — Unit 3 Are you Su Hai?",
+      "lessons": [
+        "Letters in focus: Hh, Ii, Jj, Kk",
+        "You’re twins!",
+        "Get to know new people",
+        "Assessment time"
+      ]
+    },
+    {
+      "title": "Module 1 — Unit 4 This is my friend",
+      "lessons": [
+        "Letters in focus: Ll, Mm, Nn",
+        "This is Zhang Hua",
+        "Introduce a friend",
+        "Assessment time"
+      ]
+    },
+    {
+      "title": "Module 1 — Project 1 Making friends",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 My family and me — Unit 5 She’s my mother",
+      "lessons": [
+        "Big question: What makes a family?",
+        "Who’s she?"
+      ]
+    },
+    {
+      "title": "Module 2 — Unit 6 Is he your grandpa?",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 — Unit 7 Happy Birthday!",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 — Unit 8 I can do this for you",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 — Project 2 My family poster",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

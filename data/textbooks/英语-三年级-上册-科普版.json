@@ -1,0 +1,65 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "科普版",
+  "edition": "2024版（科普三起，2024年新课标修订）；学生用书 ISBN 未确认",
+  "source": "教习网 51jiaoxi.com/xx/tb_b3002980（科普版2024）；教师教学用书目录扫描（科学普及出版社）",
+  "confidence": "medium",
+  "note": "2024新版为 12 个 Unit（旧版为 12 个 Lesson 结构）。旧版：Lesson 1 I am a cat / Lesson 2 Are you Mr Dog? / Lesson 3 Nice to meet you / Lesson 4 What’s your name? / Lesson 5 How old are you? / Lesson 6 Revision … Lesson 12 Revision。⚠ 学生课本扫描仍见旧 Lesson 编号，新版单元内部课次（Lesson 1–? 或 Part A/B）未在来源完整列出，本库存单元级目录，标 medium。",
+  "units": [
+    {
+      "title": "Unit 1 Hello",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 My name",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 Visit to the farm",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 My body",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Animals around us",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 My schoolbag",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 Colours",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 My age",
+      "lessons": []
+    },
+    {
+      "title": "Unit 9 My family",
+      "lessons": []
+    },
+    {
+      "title": "Unit 10 My new friends",
+      "lessons": []
+    },
+    {
+      "title": "Unit 11 Maths in everyday life",
+      "lessons": []
+    },
+    {
+      "title": "Unit 12 Revision",
+      "lessons": [
+        "Words in each unit",
+        "Word list",
+        "Name list"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

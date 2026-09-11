@@ -1,0 +1,81 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "edition": "2026年秋版（2022课标，三起），北京师范大学出版社；ISBN 未逐本核实",
+  "source": "电子课本网北师大版六年级上册2026秋版（三年级起点）",
+  "confidence": "high",
+  "note": "旧版（2013审定·王蔷）六上为「Unit 1 Space／Unit 2 An Accident／Unit 3 Sports／Unit 4 Birthday／Unit 5 Height and Weight／Unit 6 Review」+ Progress Check。2026秋改用下方新版。",
+  "units": [
+    {
+      "title": "Unit 1 Growing",
+      "lessons": [
+        "Lesson 1 My tomatoes",
+        "Lesson 2 I am a big girl now",
+        "Lesson 3 Problems! Problems?",
+        "Lesson 4 Try it out",
+        "Project",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 2 Changes",
+      "lessons": [
+        "Lesson 1 Now and then",
+        "Lesson 2 The changes of a village",
+        "Lesson 3 When changes happen",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 3 Into space",
+      "lessons": [
+        "Lesson 1 Hi, Mars",
+        "Lesson 2 Space heroes",
+        "Lesson 3 The moon game",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 4 Travelling",
+      "lessons": [
+        "Lesson 1 One day in London",
+        "Lesson 2 Travelling around Europe",
+        "Lesson 3 Places around the world",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 5 Feeling the art",
+      "lessons": [
+        "Lesson 1 Chinese art",
+        "Lesson 2 Feeling the paintings",
+        "Lesson 3 Art in our life",
+        "Lesson 4 Try it out",
+        "Project",
+        "Reading time"
+      ]
+    },
+    {
+      "title": "Unit 6 Review",
+      "lessons": [
+        "Lesson 1 Changes around us",
+        "Lesson 2 People and space",
+        "Lesson 3 The beautiful world",
+        "Fun time",
+        "Show time",
+        "Wonderful world",
+        "Word bank",
+        "Table of verbs"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

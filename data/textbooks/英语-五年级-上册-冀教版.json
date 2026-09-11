@@ -1,0 +1,41 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "冀教版",
+  "edition": "2022课标修订版（2026秋启用，三起）；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/jjb/yingyu/5s_2026（唯一新版来源）",
+  "confidence": "medium",
+  "note": "⚠ 仅单一来源。旧版（2013版三起5A）为「Unit 1 My Family／Unit 2 My country and English-speaking countries／Unit 3 A travel plan／Unit 4 Jenny and Danny come to China」。⚠ 冀教版另有「一年级起点5A」版本（Unit 1 A Trip to Beijing…），请确认所用为三起还是一起。",
+  "units": [
+    {
+      "title": "Unit 1 School clubs",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 Sports games and safety",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 A better me",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Countries in the world",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Cities and hometowns",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 What a wonderful trip!",
+      "lessons": []
+    },
+    {
+      "title": "Project time",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

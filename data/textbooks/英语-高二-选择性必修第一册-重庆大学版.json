@@ -1,0 +1,112 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第一册",
+  "version": "重庆大学版",
+  "edition": "2021年7月第1版；ISBN 978-7-5689-2506-8",
+  "source": "重庆大学出版社官网 cqup.com.cn（图书中心，ISBN 978-7-5689-2506-8）+ 国家中小学智慧教育平台 cbern.com.cn PDF + 夜雨聆风 yeyulingfeng.com 电子课本版权页",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "重庆大学版（杨晓钰主编）2019课标版，出版社官方页注明『适合高中二年级学生使用』。每册按主题分单元（选必一含3主题6单元+3个 Challenging Yourself）。板块：Guiding Page / Looking Ahead / Activating and Predicting / Reading, Thinking and Analysing / Exploring and Using / Self-assessing。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Hope and Love",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 2 Attitude to Life",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Challenging Yourself A Optimistic Outlook",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 3 Festivals and Traditions",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 4 Food and Culture",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Challenging Yourself B Culture behind Eating",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 5 Places of Interest",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Unit 6 Travelling Worldwide",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    },
+    {
+      "title": "Challenging Yourself C Exploring the World",
+      "lessons": [
+        "Guiding Page",
+        "Looking Ahead",
+        "Activating and Predicting",
+        "Reading, Thinking and Analysing",
+        "Exploring and Using",
+        "Self-assessing"
+      ]
+    }
+  ]
+}

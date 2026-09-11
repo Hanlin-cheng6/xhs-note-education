@@ -1,0 +1,70 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "鲁教版",
+  "edition": "旧版仍广泛流通（单元标题同人教版旧版衍生体系）；⚠ 新版 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/ljb/yingyu/8s；好多电子课本网；课本网；21世纪教育网（均显示旧版 Unit 1-8）",
+  "confidence": "medium",
+  "note": "⚠【版本存疑】目前可检索到的电子课本清一色为旧版结构（Unit 1 Could you please clean your room? 等 8 单元）。有单一教辅源称 2025 新版单元为 Unit 1 Time to Relax / Unit 2 Stay Healthy / Unit 3 Growing Up（Section A / Section B / Over to you），但仅此一源、且结构与人教版新版雷同，无法确证。**建议以旧版入库并标注待核实，待山东教育出版社官网或当地教科书选用公告确认后再切换。**",
+  "units": [
+    {
+      "title": "Unit 1 Could you please clean your room?",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 2 Why don't you talk to your parents?",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 3 What were you doing when the rainstorm came?",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 4 An old man tried to move the mountains",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 5 What's the highest mountain in the world?",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 6 Have you read Treasure Island yet?",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 7 Have you ever been to a museum?",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 8 I've had this bike for three years.",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "附录：Notes / Tapescripts / Grammar / Words in Each Unit / Vocabulary Index"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

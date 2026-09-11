@@ -1,0 +1,37 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第一册",
+  "version": "重庆大学版",
+  "confidence": "high",
+  "edition": "2019版（2021年7月第1版，杨晓钰主编）；ISBN 978-7-5689-2115-2",
+  "source": "重庆大学出版社官网（官方ISBN与内容简介）+ 教习网",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 按3大Theme组织：Theme A 学习之道、Theme B 学会欣赏、Theme C 学会探索，每Theme末设 Challenging Yourself。⚠️ 必修第二册、第三册存在但单元明细本轮未逐册核实，故未入库。",
+  "units": [
+    {
+      "title": "Theme A Learning to Learn",
+      "lessons": [
+        "Unit 1 Learning Strategies and Habits",
+        "Unit 2 Being a Good Language Learner",
+        "Challenging Yourself A"
+      ]
+    },
+    {
+      "title": "Theme B Learning to Enjoy",
+      "lessons": [
+        "Unit 3 Powerful Music",
+        "Unit 4 Unforgettable Films",
+        "Challenging Yourself B"
+      ]
+    },
+    {
+      "title": "Theme C Learning to Discover",
+      "lessons": [
+        "Unit 5 Amazing Animals",
+        "Unit 6 Surprising Plants",
+        "Challenging Yourself C"
+      ]
+    }
+  ]
+}

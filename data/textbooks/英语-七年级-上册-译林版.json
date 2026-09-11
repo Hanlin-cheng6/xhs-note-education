@@ -1,0 +1,109 @@
+{
+  "subject": "英语",
+  "grade": "七年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "2024年7月第1版（主编 王守仁、何锋）ISBN 978-7-5753-0036-0",
+  "source": "译林出版社版权页CIP；电子课本网 dzkbw.com/books/yilin/yingyu/7s_2024；学科网",
+  "confidence": "high",
+  "note": "旧版译林七年级上册为 Unit 1-8（This is me! / Friends / Welcome to our school / My day / Let's celebrate / Food and lifestyle / Shopping / Fashion）；2024新版仍为 Unit 1-8 但主题重组，每单元板块为 Welcome to the unit / Reading / Grammar / Pronunciation / Integration / Assessment / Further study。",
+  "units": [
+    {
+      "title": "Unit 1 This is me!",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 2 Hobbies",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 3 Welcome to our school!",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 4 School days",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 5 A healthy lifestyle",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 6 My clothes, my style",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 7 Be wise with money",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 8 Let's celebrate!",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Pronunciation",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

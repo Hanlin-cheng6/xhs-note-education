@@ -1,0 +1,72 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "人教PEP",
+  "edition": "2024年7月第1版（2024秋启用新课标版），ISBN 978-7-107-38250-5",
+  "source": "国家出版发行信息公共服务平台 book.cppinfo.cn（ISBN 9787107382505，确认6单元+Revision）；电子课本网 dzkbw.com/books/rjb/yingyu/pep3s_2024；云书网（版次）",
+  "confidence": "high",
+  "note": "旧版（2024前）为 Unit 1 Hello! / Unit 2 Colours / Unit 3 Look at me! / Unit 4 We love animals / Unit 5 Let’s eat! / Unit 6 Happy birthday! + Recycle 1/2。2024新版完全重构，单元主题变为 Making friends 等，采用 Part A / Part B / Part C（Project＋拓展阅读）结构，每单元起始页有 Big question。这是覆盖最广的英语版本。",
+  "units": [
+    {
+      "title": "Unit 1 Making friends",
+      "lessons": [
+        "Part A — How do we greet friends?",
+        "Part B — How can we be a good friend?",
+        "Part C — Project: Make a mind map of making friends（拓展阅读 My new friend Zoom）"
+      ]
+    },
+    {
+      "title": "Unit 2 Different families",
+      "lessons": [
+        "Part A — Who lives with you?",
+        "Part B — How are families different?",
+        "Part C — Project: Make a family tree（拓展阅读 Family poems）"
+      ]
+    },
+    {
+      "title": "Unit 3 Amazing animals",
+      "lessons": [
+        "Part A — What pets do you know?",
+        "Part B — What wild animals do you know?",
+        "Part C — Project: Make an animal picture book（拓展阅读 Amazing whales）"
+      ]
+    },
+    {
+      "title": "Unit 4 Plants around us",
+      "lessons": [
+        "Part A — What do we get from plants?",
+        "Part B — How can we help plants?",
+        "Part C — Project: Make a paper garden（拓展阅读 The little apple tree）"
+      ]
+    },
+    {
+      "title": "Unit 5 The colourful world",
+      "lessons": [
+        "Part A — What colours do you see?",
+        "Part B — How do colours help us?",
+        "Part C — Project: Make a colour flip book（拓展阅读 The life of a sunflower）"
+      ]
+    },
+    {
+      "title": "Unit 6 Useful numbers",
+      "lessons": [
+        "Part A — When do we use numbers?",
+        "Part B — How useful are numbers?",
+        "Part C — Project: Make a birthday card（拓展阅读 The number six in different languages）"
+      ]
+    },
+    {
+      "title": "Revision — Being a good guest",
+      "lessons": [
+        "Appendix 1 Songs",
+        "Appendix 2 Chants",
+        "Words in each unit",
+        "Vocabulary",
+        "Useful expressions",
+        "The alphabet"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

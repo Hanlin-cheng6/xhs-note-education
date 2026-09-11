@@ -1,0 +1,67 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "冀教版",
+  "edition": "2025秋版（2024课标修订版，三起），学生用书 ISBN 978-7-5545-9085-0（单一电商来源，待核）",
+  "source": "电子课本网 dzkbw.com/books/jjb/yingyu/4s_2025；河北沧州/邯郸「教材版本」列表",
+  "confidence": "medium",
+  "note": "新版由旧版（Unit 1 The clothes we wear … Unit 4 Shopping in the city，每单元 Lesson 1–6 + Review: Again, please!）改为 6 个主题单元，每单元 4 课（Lesson 1–4）。",
+  "units": [
+    {
+      "title": "Unit 1 School life",
+      "lessons": [
+        "Lesson 1 Welcome to our school!",
+        "Lesson 2 School subjects",
+        "Lesson 3 Wang Lele’s school days",
+        "Lesson 4 My school"
+      ]
+    },
+    {
+      "title": "Unit 2 School rules",
+      "lessons": [
+        "Lesson 1 Follow the signs.",
+        "Lesson 2 Library rules",
+        "Lesson 3 Be kind to each other.",
+        "Lesson 4 Follow the rules."
+      ]
+    },
+    {
+      "title": "Unit 3 Sports",
+      "lessons": [
+        "Lesson 1 I like sports.",
+        "Lesson 2 The sports meet is fun.",
+        "Lesson 3 A volleyball game",
+        "Lesson 4 My favourite sport"
+      ]
+    },
+    {
+      "title": "Unit 4 Jobs",
+      "lessons": [
+        "Lesson 1 What do they do?",
+        "Lesson 2 Jobs and our life",
+        "Lesson 3 I am proud of my father.",
+        "Lesson 4 What do you want to be?"
+      ]
+    },
+    {
+      "title": "Unit 5 Meet my family",
+      "lessons": [
+        "Lesson 1 My family photo",
+        "Lesson 2 A loving family",
+        "Lesson 3 A birthday party",
+        "Lesson 4 Visiting grandparents"
+      ]
+    },
+    {
+      "title": "Unit 6 More about me",
+      "lessons": [
+        "Lesson 1 How tall are you?",
+        "Lesson 2 Where do you live?",
+        "Lesson 3 I love animals.",
+        "Lesson 4 About me"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

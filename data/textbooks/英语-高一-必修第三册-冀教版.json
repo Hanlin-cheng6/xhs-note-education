@@ -1,0 +1,58 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第三册",
+  "version": "冀教版",
+  "confidence": "high",
+  "edition": "2019版（河北教育出版社）；单册 ISBN 未查到",
+  "source": "学科网 + 电子课本网",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 冀教版每册5个单元，无 Welcome Unit。单册 ISBN 本轮未查到，目录可信度高。",
+  "units": [
+    {
+      "title": "Unit 1 Attitudes Towards Our Elders",
+      "lessons": [
+        "SECTION 1 Reading for Meaning",
+        "SECTION 2 Learning through Practice",
+        "SECTION 3 Using English in Context / Project",
+        "SECTION 4 Expanding our Horizons"
+      ]
+    },
+    {
+      "title": "Unit 2 Managing Your Time",
+      "lessons": [
+        "SECTION 1 Reading for Meaning",
+        "SECTION 2 Learning through Practice",
+        "SECTION 3 Using English in Context / Project",
+        "SECTION 4 Expanding our Horizons"
+      ]
+    },
+    {
+      "title": "Unit 3 The Story of Success",
+      "lessons": [
+        "SECTION 1 Reading for Meaning",
+        "SECTION 2 Learning through Practice",
+        "SECTION 3 Using English in Context / Project",
+        "SECTION 4 Expanding our Horizons"
+      ]
+    },
+    {
+      "title": "Unit 4 Literature for Identity",
+      "lessons": [
+        "SECTION 1 Reading for Meaning",
+        "SECTION 2 Learning through Practice",
+        "SECTION 3 Using English in Context / Project",
+        "SECTION 4 Expanding our Horizons"
+      ]
+    },
+    {
+      "title": "Unit 5 Animals Around Us",
+      "lessons": [
+        "SECTION 1 Reading for Meaning",
+        "SECTION 2 Learning through Practice",
+        "SECTION 3 Using English in Context / Project",
+        "SECTION 4 Expanding our Horizons"
+      ]
+    }
+  ]
+}

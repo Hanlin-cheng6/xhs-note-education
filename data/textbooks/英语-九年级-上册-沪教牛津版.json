@@ -1,0 +1,97 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "沪教牛津版",
+  "confidence": "medium",
+  "edition": "2026秋版（牛津上海版·五四制，6单元）；ISBN 未确认",
+  "source": "电子课本网dzkbw 沪教牛津2026秋版目录（完整，明确标注牛津上海版）",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 沪教牛津存在多地区版本，结构互相冲突，须按当地教育局选用目录核对：①dzkbw「牛津上海版（五四制）2026秋版」= 本目录；②21世纪教育网显示另一套新单元（Great people / Great ideas / Family traditions…）；③教习网仍列旧 Chapter 结构（Protecting the innocent / Computers…）。本目录取①。",
+  "units": [
+    {
+      "title": "Unit 1 Teenage life",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Listening",
+        "Speaking",
+        "Writing",
+        "More practice",
+        "Study skills"
+      ]
+    },
+    {
+      "title": "Unit 2 People and their jobs",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Listening",
+        "Speaking",
+        "Writing",
+        "More practice",
+        "Study skills"
+      ]
+    },
+    {
+      "title": "Unit 3 Travellers’ tales",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Listening",
+        "Speaking",
+        "Writing",
+        "More practice",
+        "Study skills"
+      ]
+    },
+    {
+      "title": "Unit 4 Folk customs",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Listening",
+        "Speaking",
+        "Writing",
+        "More practice",
+        "Study skills"
+      ]
+    },
+    {
+      "title": "Unit 5 Buildings",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Listening",
+        "Speaking",
+        "Writing",
+        "More practice",
+        "Study skills"
+      ]
+    },
+    {
+      "title": "Unit 6 Pollution",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Listening",
+        "Speaking",
+        "Writing",
+        "More practice",
+        "Study skills"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Culture corner",
+        "Literature corner",
+        "Notes",
+        "Grammar file",
+        "Words and expressions in each unit",
+        "Words and expressions A-Z",
+        "Proper nouns and glossary"
+      ]
+    }
+  ]
+}

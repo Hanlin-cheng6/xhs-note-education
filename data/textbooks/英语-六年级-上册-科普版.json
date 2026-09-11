@@ -1,0 +1,56 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "科普版",
+  "edition": "2026年秋版（2022课标，三起），科学普及出版社；ISBN 未逐本核实（旧版 ISBN 9787110090138，非新版）",
+  "source": "电子课本网科普版六年级上册2026秋版；英语朗读宝科普版六年级上册（同步2026最新教材）",
+  "confidence": "high",
+  "note": "新版以 Unit 统领（旧版为 Lesson 1–10 结构：Are you going to have a birthday party? / What are you going to do tomorrow? / It will be sunny this Sunday / … / Were you at school yesterday / Revision）。2026秋改用下方 Unit 1–10 新版。",
+  "units": [
+    {
+      "title": "Unit 1 Learning from life",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 Travelling",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 How we feel",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Then and now",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Weekend plans",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 Wonderful places in China",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 Fun at school",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 Healthy habits",
+      "lessons": []
+    },
+    {
+      "title": "Unit 9 Learning about space",
+      "lessons": []
+    },
+    {
+      "title": "Unit 10 Revision",
+      "lessons": [
+        "Words in each unit",
+        "Word list"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

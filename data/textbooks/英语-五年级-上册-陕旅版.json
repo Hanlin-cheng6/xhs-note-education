@@ -1,0 +1,89 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "陕旅版",
+  "edition": "2013版（当前沿用；2026秋是否换新版权威来源不足）；学生用书 ISBN 未查到",
+  "source": "陕西旅游出版社官方PDF pdf.slbyy.com；好多电子课本网（两源一致）",
+  "confidence": "high",
+  "note": "陕旅社官方PDF与好多电子课本网均确认当前五上为2013版。⚠ 电子课本网另有「2026秋版」（Unit 1 The Mid-Autumn Festival／Unit 2 When Is Your Birthday?／Unit 3 Keep the Room Tidy／Unit 4 How Do You Feel?／Unit 5 We’re Going to the Park／Unit 6 How Can I Get to the Cinema?／Unit 7 How Much Is It?／Unit 8 What Size Do You Want?）疑似新版，但缺出版社／省级公告第二来源，未采信为2026秋定本。",
+  "units": [
+    {
+      "title": "Unit 1 Get Up on Time",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 2 Be Helpful at Home",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 3 What’s Your Favorite Food?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 4 At Table",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Revision 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Can You Tell Me the Way to the Supermarket?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 6 How Much Is It?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 7 She Looks Tall and Thin",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Unit 8 Where Are You from?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C"
+      ]
+    },
+    {
+      "title": "Revision 2",
+      "lessons": []
+    },
+    {
+      "title": "Words in Each Unit / Vocabulary",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

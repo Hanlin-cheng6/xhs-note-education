@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.han.xhs-note</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/han/Documents/Mr_Han/other/workbuddy/2026-09-10小红书笔记生成（根据提示词生成）/start.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/han/Documents/Mr_Han/other/workbuddy/2026-09-10小红书笔记生成（根据提示词生成）</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/homebrew/bin</string>
+        <key>PORT</key>
+        <string>3000</string>
+    </dict>
+
+    <!-- 登录时立即启动 -->
+    <key>RunAtLoad</key>
+    <true/>
+
+    <!-- 进程退出就自动拉起（崩溃/被杀都复活） -->
+    <key>KeepAlive</key>
+    <true/>
+
+    <!-- 防止极端情况下疯狂重启 -->
+    <key>ThrottleInterval</key>
+    <integer>10</integer>
+
+    <key>StandardOutPath</key>
+    <string>/Users/han/Library/Logs/xhs-note.out.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/han/Library/Logs/xhs-note.err.log</string>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>

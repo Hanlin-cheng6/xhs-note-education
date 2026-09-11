@@ -1,0 +1,78 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第一册",
+  "version": "人教版",
+  "edition": "2019年12月第1版；ISBN 978-7-107-34502-9",
+  "source": "中国高校教材图书网 sinobook.com.cn（出版目录）+ 第二届全国教材建设奖公示 tech.net.cn PDF + 电子课本网 dzkbw.com/books/rjb/yingyu/gzxzxbxd1c",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "2019课标（新课标）版，非2004课标旧版。板块：教材页眉将语法归在『Learning About Language』、听说读写归在『Using Language』下，实质板块为 Discovering Useful Structures / Listening and Talking / Reading for Writing；不含 Welcome Unit（Welcome Unit 仅必修第一册）。",
+  "units": [
+    {
+      "title": "Unit 1 People of Achievement",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 2 Looking into the Future",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 3 Fascinating Parks",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 4 Body Language",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 5 Working the Land",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    }
+  ]
+}

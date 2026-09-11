@@ -1,0 +1,52 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第二册",
+  "version": "北师大版",
+  "edition": "第1版（2019年）；ISBN 978-7-303-25198-8",
+  "source": "孔夫子旧书网 book.kongfz.com（选必二 ISBN 9787303251988，2019版次1）+ 教师之家 renjiaoshe.com/jiaocai/2381（单元目录）",
+  "verifiedAt": "2026-09-10",
+  "confidence": "medium",
+  "note": "单元目录经教师之家确认；ISBN来自二手书商页面（非出版社官方价格申报表直接核实）。板块同选必一。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 4 Humour",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Viewing Workshop",
+        "Reading Club",
+        "Assessment"
+      ]
+    },
+    {
+      "title": "Unit 5 Education",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Viewing Workshop",
+        "Reading Club",
+        "Assessment"
+      ]
+    },
+    {
+      "title": "Unit 6 The Media",
+      "lessons": [
+        "Topic Talk",
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Writing Workshop",
+        "Viewing Workshop",
+        "Reading Club",
+        "Assessment"
+      ]
+    }
+  ]
+}

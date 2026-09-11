@@ -1,0 +1,69 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "人教PEP",
+  "edition": "⚠ 2026秋目录未能确认；当前权威来源（人教社官网）仍展示2014版旧目录，故先按旧版入库",
+  "source": "人民教育出版社官网 pep.com.cn/zslth/yyptypzj/xypep/5s（官方站，当前展示旧目录）；教习网（2024新教材条目，但新版单元标题未核实完整）",
+  "confidence": "high",
+  "note": "⚠ 人教社官网该册目前展示的仍是2014版旧目录。教习网（2024新教材，2026-08更新）显示2024新课标修订版五上已改为 Unit 1 Different friends、Unit 2 My feelings 等全新主题，但 Unit 3–6 新标题未能在权威来源核实，故未列为定本。下册（五下）人教社官网已是2024新版（Following the rules 等），佐证五上新版应已／将启用。**请以人教社官网或本省选用公告的最新册次为准**；若你发现已换新版，请告知，我立即替换。",
+  "units": [
+    {
+      "title": "Unit 1 What’s he like?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C (Story time)"
+      ]
+    },
+    {
+      "title": "Unit 2 My week",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C (Story time)"
+      ]
+    },
+    {
+      "title": "Unit 3 What would you like?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C (Story time)"
+      ]
+    },
+    {
+      "title": "Recycle 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 What can you do?",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C (Story time)"
+      ]
+    },
+    {
+      "title": "Unit 5 There is a big bed",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C (Story time)"
+      ]
+    },
+    {
+      "title": "Unit 6 In a nature park",
+      "lessons": [
+        "Part A",
+        "Part B",
+        "Part C (Story time)"
+      ]
+    },
+    {
+      "title": "Recycle 2",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

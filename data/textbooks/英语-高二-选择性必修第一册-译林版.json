@@ -1,0 +1,69 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第一册",
+  "version": "译林版",
+  "edition": "2020年12月第1版；ISBN 978-7-5447-8128-2",
+  "source": "译林出版社电子课本扫描 ima.qq.com（含版权页与目录）+ 第二届全国教材建设奖公示 tech.net.cn PDF + 教师之家 renjiaoshe.com/jiaocai/2388",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "2019课标（新课标）版（牛津译林版，与牛津大学出版社合作）。每册4单元，板块：Welcome to the unit / Reading / Grammar and usage / Integrated skills / Extended reading / Project / Assessment / Further study / Workbook。含 Welcome to the unit 板块（非独立 Welcome Unit）。",
+  "units": [
+    {
+      "title": "Unit 1 Food matters",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    },
+    {
+      "title": "Unit 2 The Universal Language",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    },
+    {
+      "title": "Unit 3 The art of painting",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    },
+    {
+      "title": "Unit 4 Exploring poetry",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    }
+  ]
+}

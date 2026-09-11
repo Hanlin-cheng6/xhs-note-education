@@ -1,0 +1,43 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "译林版《英语》一年级上册（三年级起点主系列之外的1-2年级改编本）；旧版与2024修订版并存；ISBN 未核实",
+  "source": "好多电子课本网 haoduoyun.cc；英语朗读宝 suyang123.com",
+  "confidence": "medium",
+  "note": "非国家课程主系列，属1-2年级改编本",
+  "units": [
+    {
+      "title": "Unit 1 I'm Liu Tao"
+    },
+    {
+      "title": "Unit 2 Good morning"
+    },
+    {
+      "title": "Unit 3 This is Miss Li"
+    },
+    {
+      "title": "Unit 4 Is this a teddy?"
+    },
+    {
+      "title": "Project 1 A play"
+    },
+    {
+      "title": "Unit 5 A cherry, please"
+    },
+    {
+      "title": "Unit 6 Look at my balloon"
+    },
+    {
+      "title": "Unit 7 I can dance"
+    },
+    {
+      "title": "Unit 8 Put on your coat"
+    },
+    {
+      "title": "Project 2 A poster"
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

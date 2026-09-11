@@ -1,0 +1,52 @@
+{
+  "subject": "英语",
+  "grade": "高一",
+  "volume": "必修第三册",
+  "version": "北师大版",
+  "confidence": "high",
+  "edition": "2019版（北京师范大学出版社）；单册 ISBN 未查到",
+  "source": "好多电子课本网 + 教师之家",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 高中英语不用「上册/下册」，2019新课标版为「必修 第一册/第二册/第三册」（高一全年用此三册）。旧版（2004课标实验教科书）为「必修1—必修5」5册，结构完全不同，已停用，但教辅站仍大量引用，务必区分。封面写「普通高中教科书·英语 必修 第一册」为新版，写「普通高中课程标准实验教科书」为旧版。 北师大版每册3个单元，无 Welcome Unit，开篇为「A NEW START FOR ENGLISH / LEARNING TO LEARN」。单册 ISBN 本轮未查到，目录可信度高。 3个单元（UNIT 7—9）。",
+  "units": [
+    {
+      "title": "UNIT 7 Art",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 Masterpieces",
+        "LESSON 2 Beijing Opera",
+        "LESSON 3 A Musical Genius",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    },
+    {
+      "title": "UNIT 8 Green living",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 Roots and Shoots",
+        "LESSON 2 Greening the Desert",
+        "LESSON 3 White Bikes on the Road",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    },
+    {
+      "title": "UNIT 9 Learning",
+      "lessons": [
+        "TOPIC TALK",
+        "LESSON 1 Activate Learning",
+        "LESSON 2 Language Learning Tips",
+        "LESSON 3 The Secrets of Your Memory",
+        "WRITING WORKSHOP",
+        "VIEWING WORKSHOP",
+        "READING CLUB",
+        "ASSESSMENT"
+      ]
+    }
+  ]
+}

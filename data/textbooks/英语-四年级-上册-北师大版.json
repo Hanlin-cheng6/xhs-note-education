@@ -1,0 +1,80 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "edition": "2025年6月第1版（WONDERful WORLD 体系），ISBN 978-7-303-30799-9",
+  "source": "电子课本网 dzkbw.com/books/bsd/yingyu/4s_2025/；教习网北师大版2024四年级上册；北师大出版社福建省2025秋教材零售价格申报表",
+  "confidence": "high",
+  "note": "新版由旧版（Unit 1 Signs / Unit 2 Shopping / Unit 3 Uncle Booky’s Study / Unit 4 Bobby’s House / Unit 5 At School / Unit 6 Review）改为 WONDERful WORLD 体系：Unit 1–5 各含 Lesson 1–4 + Project/CLIL + Story time，Unit 6 为 Review（Lesson 1–3 + Fun time + Show time）。",
+  "units": [
+    {
+      "title": "Unit 1 Back to school",
+      "lessons": [
+        "Lesson 1 What’s new?",
+        "Lesson 2 A new teacher",
+        "Lesson 3 New ways of learning",
+        "Lesson 4 Try it out",
+        "PROJECT",
+        "STORY TIME"
+      ]
+    },
+    {
+      "title": "Unit 2 The animal world",
+      "lessons": [
+        "Lesson 1 They live here",
+        "Lesson 2 Animal friends",
+        "Lesson 3 A home for turtles",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "STORY TIME"
+      ]
+    },
+    {
+      "title": "Unit 3 Playing and having fun",
+      "lessons": [
+        "Lesson 1 They are having a great time",
+        "Lesson 2 A fun game",
+        "Lesson 3 To work or to play",
+        "Lesson 4 Try it out",
+        "PROJECT",
+        "STORY TIME"
+      ]
+    },
+    {
+      "title": "Unit 4 Places around us",
+      "lessons": [
+        "Lesson 1 A new plan",
+        "Lesson 2 Places to visit",
+        "Lesson 3 Famous places",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "STORY TIME"
+      ]
+    },
+    {
+      "title": "Unit 5 My holiday",
+      "lessons": [
+        "Lesson 1 Ready to go",
+        "Lesson 2 Great gifts",
+        "Lesson 3 A good visitor",
+        "Lesson 4 Try it out",
+        "CLIL",
+        "STORY TIME"
+      ]
+    },
+    {
+      "title": "Unit 6 Review",
+      "lessons": [
+        "Lesson 1 At school",
+        "Lesson 2 Nice places",
+        "Lesson 3 Animal friends",
+        "FUN TIME",
+        "SHOW TIME",
+        "WONDERful WORLD",
+        "Word Bank"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

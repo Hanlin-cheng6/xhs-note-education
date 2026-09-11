@@ -1,0 +1,108 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "科普版",
+  "edition": "2025秋版（2024课标新版，12单元），科学普及出版社；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/kpb/yingyu/4s_2025；英语朗读宝；科普版教师教学用书",
+  "confidence": "medium",
+  "note": "新版由旧版（Lesson 1–12 经典结构）改为 12 个主题单元（Unit 1–11 主题单元 + Unit 12 Revision），每单元板块：Get Ready & Let’s Learn-A / Let’s Learn-B & Phonics / Let’s Read。旧版结构未完整核实。",
+  "units": [
+    {
+      "title": "Unit 1 Healthy eating and drinking",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 2 I can",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 3 Fruits",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 4 Subjects",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 5 Numbers around us",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 6 My school",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 7 Helping",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 8 Playing sports",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 9 Our teachers and classmates",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 10 Following rules",
+      "lessons": [
+        "Get Ready & Let’s Learn-A",
+        "Let’s Learn-B & Phonics",
+        "Let’s Read"
+      ]
+    },
+    {
+      "title": "Unit 11 Sports",
+      "lessons": [
+        "Sports",
+        "Bones"
+      ]
+    },
+    {
+      "title": "Unit 12 Revision",
+      "lessons": [
+        "Let’s Read",
+        "Let’s Practise",
+        "Words in each unit"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

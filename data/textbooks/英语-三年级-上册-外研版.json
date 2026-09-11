@@ -1,0 +1,46 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "外研版",
+  "edition": "2024秋版（新标准三起，2024年新课标修订）；学生用书 ISBN 未在权威源确认",
+  "source": "电子课本网 dzkbw.com/books/waiyan/yingyu/sq3s_2024；教师之家 renjiaoshe.com/jiaocai/2534",
+  "confidence": "high",
+  "note": "⚠ 外研社英语有「新标准三起」「Join In 版」「张祖春主编版」三条产品线，目录不同，选书务必核对。旧版（Module 1–10）已被2024新版取代，新版重构为 6 个 Unit + Welcome to school，不再用 Module 编号。⚠ 各单元内部的板块细分（Get ready／Start up／Speed up 等）未在来源页完整呈现，本库存单元级目录，单元内细目待核。",
+  "units": [
+    {
+      "title": "Welcome to school",
+      "lessons": []
+    },
+    {
+      "title": "Unit 1 Let’s be friends!",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 My school things",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 It’s a colourful world!",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Fun with numbers",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 We’re family",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 My sweet home",
+      "lessons": [
+        "Appendices: Plays（True friends, Mulan, Goldilocks and the three bears）",
+        "Words and expressions",
+        "Word list",
+        "Proper nouns"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

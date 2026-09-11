@@ -1,0 +1,89 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "人教精通版",
+  "edition": "2024版（精通三起，2024年新课标修订）；旧版教师用书 ISBN 9787107248375，新版学生用书 ISBN 未确认",
+  "source": "学科网（引国家中小学智慧教育平台 basic.smartedu.cn）；教习网 51jiaoxi.com/books/103781",
+  "confidence": "medium",
+  "note": "旧版（2024前）为 Unit 1 Hello! I’m Monkey. / Unit 2 This is my pencil. / Unit 3 Look at my nose. / Fun Time 1 / Unit 4 I have a ball. / Unit 5 What colour is it? / Unit 6 I like hamburgers. / Fun Time 2（每单元6课）。2024新版重构为每单元 3 Lesson + Fun time + Story time，共6单元 + Revision 1/2。⚠ 新版目录取自国家中小学智慧教育平台引用，标 medium。",
+  "units": [
+    {
+      "title": "Unit 1 Greetings",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 2 School things",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 3 Toys",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Revision 1",
+      "lessons": [
+        "Recycle 1",
+        "Recycle 2",
+        "Project"
+      ]
+    },
+    {
+      "title": "Unit 4 Friends",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 5 Drinks and fruits",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 6 Food",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Revision 2",
+      "lessons": [
+        "Recycle 1",
+        "Recycle 2",
+        "Project"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

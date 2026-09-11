@@ -1,0 +1,73 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "外研版",
+  "edition": "2025年版（依据2022课标，孙有中主编）ISBN 978-7-5213-5595-6（零售平台另见 9787521363616，下单前请核对版权页）",
+  "source": "外语教学与研究出版社官网 fltrp.com 2025年外研社基础教育教学资源目录；电子课本网 dzkbw.com/books/waiyan/yingyu/8s_2025；国家出版发行信息公共服务平台",
+  "confidence": "high",
+  "note": "旧版为 Module 1-12 + Revision Module A/B。新版重构为 6 个 Unit，每单元板块：Starting out / Understanding ideas / Developing ideas / Presenting ideas / Reflection。新版未见独立复习模块，以期中/期末综合检测替代。",
+  "units": [
+    {
+      "title": "Unit 1 This is me",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 2 Getting along",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 3 Make it happen!",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 4 Digital life",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 5 Play by the rules?",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    },
+    {
+      "title": "Unit 6 When disaster strikes",
+      "lessons": [
+        "Starting out",
+        "Understanding ideas",
+        "Developing ideas",
+        "Presenting ideas",
+        "Reflection"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

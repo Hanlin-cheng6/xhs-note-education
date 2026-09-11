@@ -1,0 +1,90 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "外研一起",
+  "edition": "现行 ISBN 978-7-5213-5590-1（外研社2025基础教育教学资源目录，物料号233140216）；旧修订版 ISBN 978-7-5135-3314-0（2013）",
+  "source": "外语教学与研究出版社官网2025教学资源目录；电子课本网 dzkbw.com/books/waiyan/yingyu/yq2s/；好多电子课本网",
+  "confidence": "high",
+  "note": "外研版《新标准英语》一年级起点（外研一起），主编陈琳。结构为 Module 1~10，每 Module 含 Unit 1 和 Unit 2，末尾 Review Module + 单词表 + Reading for pleasure。这一版可直接在外研社官网目录核对。",
+  "units": [
+    {
+      "title": "Module 1",
+      "lessons": [
+        "Unit 1 I like the ABC song.",
+        "Unit 2 I like football."
+      ]
+    },
+    {
+      "title": "Module 2",
+      "lessons": [
+        "Unit 1 I don’t like meat.",
+        "Unit 2 I don’t like ginger."
+      ]
+    },
+    {
+      "title": "Module 3",
+      "lessons": [
+        "Unit 1 Do you like bananas?",
+        "Unit 2 Do they like apples?"
+      ]
+    },
+    {
+      "title": "Module 4",
+      "lessons": [
+        "Unit 1 Sam likes T-shirts.",
+        "Unit 2 He doesn’t like these trousers."
+      ]
+    },
+    {
+      "title": "Module 5",
+      "lessons": [
+        "Unit 1 At 7, I get up.",
+        "Unit 2 I go home at 5."
+      ]
+    },
+    {
+      "title": "Module 6",
+      "lessons": [
+        "Unit 1 What do you do on Sundays?",
+        "Unit 2 Where do you live?"
+      ]
+    },
+    {
+      "title": "Module 7",
+      "lessons": [
+        "Unit 1 How do you go to school?",
+        "Unit 2 I go by train."
+      ]
+    },
+    {
+      "title": "Module 8",
+      "lessons": [
+        "Unit 1 She goes swimming.",
+        "Unit 2 Does he play the piano?"
+      ]
+    },
+    {
+      "title": "Module 9",
+      "lessons": [
+        "Unit 1 It’s winter.",
+        "Unit 2 What does he do in summer?"
+      ]
+    },
+    {
+      "title": "Module 10",
+      "lessons": [
+        "Unit 1 Happy New Year!",
+        "Unit 2 We have Christmas."
+      ]
+    },
+    {
+      "title": "Review Module",
+      "lessons": [
+        "单词表",
+        "Reading for pleasure"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

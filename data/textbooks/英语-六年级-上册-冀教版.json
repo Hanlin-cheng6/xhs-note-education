@@ -1,0 +1,80 @@
+{
+  "subject": "英语",
+  "grade": "六年级",
+  "volume": "上册",
+  "version": "冀教版",
+  "edition": "2024年版（2022课标，三起），河北教育出版社；ISBN 未逐本核实",
+  "source": "教习网冀教版(三起)2024六年级上册课文目录；教习网 Unit 1 Pocket money 教案/学案（2026-08）",
+  "confidence": "high",
+  "note": "旧版（2011课标）冀教三起六上为「Unit 1 Li Ming Comes to Canada／Unit 2 School in Canada／Unit 3 Winter in Canada／Unit 4 Christmas」（约24课）。2026秋改用下方新版（6 单元，每单元 Lesson 1–4 + Again, please!）。",
+  "units": [
+    {
+      "title": "Unit 1 Pocket money",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 2 How to solve problems",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 3 A better life",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 4 Going green",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 5 Holiday fun",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "Unit 6 Chinese festivals",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Review: Again, please!"
+      ]
+    },
+    {
+      "title": "拓展",
+      "lessons": [
+        "Project time",
+        "Reading for fun"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

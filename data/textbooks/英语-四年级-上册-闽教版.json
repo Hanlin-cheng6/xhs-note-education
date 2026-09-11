@@ -1,0 +1,52 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "闽教版",
+  "edition": "2024课标修订版（闽教版·福建），学生用书 ISBN 未查到",
+  "source": "电子课本网闽教版四年级上册；教习网闽教版2024；英语朗读宝",
+  "confidence": "medium",
+  "note": "新版大幅瘦身：由旧版 8 单元（Unit 1 Our classroom … Unit 8 The Spring Festival + Review 1/2）改为仅 4 个单元 + 2 个 Review，每单元 4 课（Lesson 1–4）。",
+  "units": [
+    {
+      "title": "Unit 1 Our School",
+      "lessons": [
+        "Lesson 1 We can play sports there.",
+        "Lesson 2 Which class are you in?",
+        "Lesson 3 Look at the blackboard.",
+        "Lesson 4 I love my school."
+      ]
+    },
+    {
+      "title": "Unit 2 Daily Life",
+      "lessons": [
+        "Lesson 1 I get up at 7:30 a.m.",
+        "Lesson 2 She has breakfast at 7:40 a.m.",
+        "Lesson 3 I can sweep the floor.",
+        "Lesson 4 I often run on the sports ground.",
+        "Review 1"
+      ]
+    },
+    {
+      "title": "Unit 3 Our Hobbies",
+      "lessons": [
+        "Lesson 1 What’s your hobby?",
+        "Lesson 2 We have new hobbies in China.",
+        "Lesson 3 What do you like doing?",
+        "Lesson 4 I have many hobbies."
+      ]
+    },
+    {
+      "title": "Unit 4 Chinese Festivals",
+      "lessons": [
+        "Lesson 1 The Spring Festival is coming.",
+        "Lesson 2 We have a big family dinner together.",
+        "Lesson 3 We guess lantern riddles.",
+        "Lesson 4 We have many festivals in China.",
+        "Review 2",
+        "Story time"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

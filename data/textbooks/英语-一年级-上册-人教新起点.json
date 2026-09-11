@@ -1,0 +1,40 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "人教新起点",
+  "edition": "《英语（一年级起点）一年级上册》2012年6月第1版（2011版课标），ISBN 978-7-107-24488-9",
+  "source": "国家出版发行信息公共服务平台 book.cppinfo.cn；人教社官网；电子课本网 dzkbw.com",
+  "confidence": "high",
+  "note": "人教版两个一年级英语系列之一（新起点）；另一个是「人教PEP一起2024」预备级，勿混淆",
+  "units": [
+    {
+      "title": "Starter"
+    },
+    {
+      "title": "Unit 1 School"
+    },
+    {
+      "title": "Unit 2 Face"
+    },
+    {
+      "title": "Unit 3 Animals"
+    },
+    {
+      "title": "Revision 1"
+    },
+    {
+      "title": "Unit 4 Numbers"
+    },
+    {
+      "title": "Unit 5 Colours"
+    },
+    {
+      "title": "Unit 6 Fruit"
+    },
+    {
+      "title": "Revision 2"
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

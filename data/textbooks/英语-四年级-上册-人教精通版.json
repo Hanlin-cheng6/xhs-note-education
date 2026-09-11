@@ -1,0 +1,85 @@
+{
+  "subject": "英语",
+  "grade": "四年级",
+  "volume": "上册",
+  "version": "人教精通版",
+  "edition": "2025秋版（2024课标修订版，三起）；学生用书 ISBN 未查到；旧版教师用书 ISBN 978-7-107-26450-4",
+  "source": "电子课本网 dzkbw.com/books/rjb/yingyu/jt4s_2025；英语朗读宝；人民教育出版社官网",
+  "confidence": "medium",
+  "note": "新版由旧版（Unit 1 This is my new friend. / Unit 2 What’s your number? / Unit 3 It’s a pineapple. / Fun Time 1 / Unit 4 How’s the weather today? / Unit 5 I like those shoes. / Unit 6 I’m tall. / Fun Time 2）改为 6 个主题单元（每单元 Lesson 1–3 + Fun time + Story time）+ Revision 1/2。",
+  "units": [
+    {
+      "title": "Unit 1 Sports",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 2 Hobbies",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 3 Weather",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Revision 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Fun activities",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 5 Animals",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Unit 6 My day",
+      "lessons": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Fun time",
+        "Story time"
+      ]
+    },
+    {
+      "title": "Revision 2",
+      "lessons": [
+        "Appendix 1 Chants and songs in each unit",
+        "Appendix 2 Vocabulary in each unit",
+        "Appendix 3 Vocabulary A–Z"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

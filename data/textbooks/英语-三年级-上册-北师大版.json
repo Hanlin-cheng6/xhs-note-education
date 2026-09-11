@@ -1,0 +1,67 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "北师大版",
+  "edition": "2024秋版（北师大三起，2024年新课标修订）；学生用书 ISBN 未确认",
+  "source": "电子课本网 dzkbw.com/books/bsd/yingyu/3s_2024；教师之家 renjiaoshe.com/jiaocai/2558",
+  "confidence": "high",
+  "note": "旧版（2011版）为 Unit 1 Hello! / Unit 2 Friends / Unit 3 Playing Together / Unit 4 My Family / Unit 5 My Things / Unit 6 Review。2024新版主题改为 Family / Going to school / Learning / Friends / My home / Review，每单元 Lesson 1–4（含 Try it out / CLIL / STORY TIME / PROJECT）。",
+  "units": [
+    {
+      "title": "Unit 1 Family",
+      "lessons": [
+        "Lesson 1 Two families",
+        "Lesson 2 Max’s family",
+        "Lesson 3 Welcome, Xiaobei!",
+        "Lesson 4 Try it out（CLIL / STORY TIME）"
+      ]
+    },
+    {
+      "title": "Unit 2 Going to school",
+      "lessons": [
+        "Lesson 1 Time for school",
+        "Lesson 2 A beautiful school",
+        "Lesson 3 Time at school",
+        "Lesson 4 Try it out"
+      ]
+    },
+    {
+      "title": "Unit 3 Learning",
+      "lessons": [
+        "Lesson 1 I like Chinese",
+        "Lesson 2 It’s not hard",
+        "Lesson 3 Let’s do it",
+        "Lesson 4 Try it out"
+      ]
+    },
+    {
+      "title": "Unit 4 Friends",
+      "lessons": [
+        "Lesson 1 Meeting new friends",
+        "Lesson 2 Let’s share",
+        "Lesson 3 Let me help",
+        "Lesson 4 Try it out（PROJECT / STORY TIME）"
+      ]
+    },
+    {
+      "title": "Unit 5 My home",
+      "lessons": [
+        "Lesson 1 Welcome",
+        "Lesson 2 Different rooms",
+        "Lesson 3 Playing with toys",
+        "Lesson 4 Try it out（PROJECT / STORY TIME）"
+      ]
+    },
+    {
+      "title": "Unit 6 Review",
+      "lessons": [
+        "Lesson 1 This is my loving family",
+        "Lesson 2 I have a wonderful school",
+        "Lesson 3 I have good friends",
+        "FUN Time / SHOW TIME / WONDERFUL WORLD"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

@@ -1,0 +1,89 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "人教版",
+  "confidence": "high",
+  "edition": "2026年5月第1版（原Go for it!九年级全一册已拆分为上册+下册）；上册 ISBN 978-7-107-38946-7",
+  "source": "电子课本网dzkbw 人教版2026秋版目录（完整）+ 内江市政府教材选用目录（ISBN 9787107389467，2026-08-28）",
+  "verifiedAt": "2026-09-10",
+  "note": "旧版为Go for it!九年级全一册 Unit 1-14（ISBN 9787107280023），多电商/点读站仍在售卖，勿混。2026新版上册8单元、下册5单元+2戏剧（下册不在本册范围）。注意多版本点读站仍默认显示旧版全一册目录。",
+  "units": [
+    {
+      "title": "Unit 1 The Changing World",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 2 Inspiring People",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 3 Smart Learning",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 4 Our Memory",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 5 Power of Ideas",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 6 Beyond Earth",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 7 Feel the Rhythm",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "Unit 8 More than a Game",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "*Project"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Reading Plus",
+        "Listening Scripts",
+        "Grammar",
+        "Vocabulary in Each Unit",
+        "Vocabulary A-Z",
+        "Vocabulary from Primary School",
+        "Irregular Verbs"
+      ]
+    }
+  ]
+}

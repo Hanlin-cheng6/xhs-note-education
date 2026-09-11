@@ -1,0 +1,49 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "沪教牛津2024",
+  "edition": "2024年修订版（六三制＋一年级起点）；ISBN 未查到",
+  "source": "教习网「沪教牛津版（六三制一起）(2024)」",
+  "confidence": "medium",
+  "note": "⚠ 面向上海以外、采用「六三制＋一年级起点」地区（如山西等）的2024新课标修订版，与「牛津上海版」是不同体系，勿混用。结构改为 Module 1~4 含 Unit 1~12，每 Module 后配 Revision。ISBN 未能核实。",
+  "units": [
+    {
+      "title": "Module 1",
+      "lessons": [
+        "Unit 1 Good morning",
+        "Unit 2 I’m Danny",
+        "Unit 3 Are you Alice?",
+        "Revision 1"
+      ]
+    },
+    {
+      "title": "Module 2 My family, my friends and me",
+      "lessons": [
+        "Unit 4 Can you swim?",
+        "Unit 5 That’s my family",
+        "Unit 6 My hair is short",
+        "Revision 2"
+      ]
+    },
+    {
+      "title": "Module 3 Places and activities",
+      "lessons": [
+        "Unit 7 In the playground",
+        "Unit 8 In my room",
+        "Unit 9 Dinner is ready",
+        "Revision 3"
+      ]
+    },
+    {
+      "title": "Module 4 The world around us",
+      "lessons": [
+        "Unit 10 In the sky",
+        "Unit 11 In the forest",
+        "Unit 12 In the street",
+        "Revision 4"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

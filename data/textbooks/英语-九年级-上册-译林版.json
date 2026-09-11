@@ -1,0 +1,115 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "上册",
+  "version": "译林版",
+  "confidence": "high",
+  "edition": "2026年5月第1版（2026秋启用）；新版8单元+2 Project，ISBN 未确认",
+  "source": "电子课本网dzkbw 译林2026秋版目录（完整）+ 21世纪教育网分单元单词表佐证",
+  "verifiedAt": "2026-09-10",
+  "note": "旧版译林九上为 Unit 1-8（含 Colours、Teenage problems 等，旧版 ISBN 978-7-5447-2446-3，2013审定）。2026新版为 Unit 1-4 + Project 1 + Unit 5-8 + Project 2。注意新版 Unit 2 为 Teenage problems，旧版 Unit 2 为 Colours，勿混。各单元板块名按译林模板列出，未逐页核验新版板块名。",
+  "units": [
+    {
+      "title": "Unit 1 Know yourself",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Unit 2 Teenage problems",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Unit 3 Never give up",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Unit 4 Life is beautiful",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Project 1",
+      "lessons": [
+        "单元综合项目"
+      ]
+    },
+    {
+      "title": "Unit 5 Music speaks",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Unit 6 The art of the brush",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Unit 7 The big screen",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Unit 8 The world of literature",
+      "lessons": [
+        "Reading",
+        "Grammar",
+        "Integrated skills",
+        "Study skills",
+        "Task"
+      ]
+    },
+    {
+      "title": "Project 2",
+      "lessons": [
+        "单元综合项目"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Irregular verbs",
+        "Notes",
+        "Grammar check",
+        "Wordlist",
+        "Proper nouns"
+      ]
+    }
+  ]
+}

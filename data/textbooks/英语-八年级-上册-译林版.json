@@ -1,0 +1,107 @@
+{
+  "subject": "英语",
+  "grade": "八年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "2025年6月第1版（依据2022课标，王守仁、何锋主编）ISBN 978-7-5753-0723-9",
+  "source": "电子课本网 dzkbw.com/books/yilin/yingyu/8s_2025；译林出版社版权页PDF",
+  "confidence": "high",
+  "note": "旧版为 Unit 1-8（Friends/School life/A day out/Do it yourself/Wild animals/Birdwatching/Seasons/Natural disasters）。新版重构为 8 个 Unit，每单元板块：Welcome to the unit / Reading / Grammar / Word power / Integration / Assessment / Further study；Project 1 置于 Unit 4 后（A class booklet about best friends），Project 2 置于 Unit 8 后（An audio campaign to help nature）。⚠ 部分教辅站仍挂旧版结构，勿混用。",
+  "units": [
+    {
+      "title": "Unit 1 Friendship",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 2 School life",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 3 To be a good learner",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 4 Hands-on fun",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Project 1 — A class booklet about best friends"
+      ]
+    },
+    {
+      "title": "Unit 5 Wild animals",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 6 Seasons",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 7 The natural world",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Assessment",
+        "Further study"
+      ]
+    },
+    {
+      "title": "Unit 8 Safe and sound",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar",
+        "Word power",
+        "Integration",
+        "Project 2 — An audio campaign to help nature"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

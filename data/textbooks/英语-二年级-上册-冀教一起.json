@@ -1,0 +1,61 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "冀教一起",
+  "edition": "ISBN 978-7-5545-0286-0（当当2024适用版）；河北教育出版社与DC加拿大国际交流中心合编",
+  "source": "电子课本网 jjb/yingyu/yq_2s；国家中小学智慧教育平台官方PDF；当当网商品页",
+  "confidence": "high",
+  "note": "冀教版一年级起点（冀教一起），主角 Danny / Jenny / Li Ming。结构为 Unit 1~4，每 Unit 含 6 课（Lesson 1~6）+ Unit Review，共24课。国家中小学智慧教育平台有官方PDF，可信度高。",
+  "units": [
+    {
+      "title": "Unit 1 Welcome to School!",
+      "lessons": [
+        "Lesson 1 My school",
+        "Lesson 2 This is my friend",
+        "Lesson 3 In the classroom",
+        "Lesson 4 This is my schoolbag",
+        "Lesson 5 Where is it?",
+        "Lesson 6 May I have a pencil?",
+        "Unit 1 Review"
+      ]
+    },
+    {
+      "title": "Unit 2 My Body",
+      "lessons": [
+        "Lesson 7 This is my body",
+        "Lesson 8 This is my face",
+        "Lesson 9 I see with my eyes",
+        "Lesson 10 I hear with my ears",
+        "Lesson 11 I eat with my mouth",
+        "Lesson 12 I smell with my nose",
+        "Unit 2 Review"
+      ]
+    },
+    {
+      "title": "Unit 3 Fun with Numbers",
+      "lessons": [
+        "Lesson 13 Let’s count!",
+        "Lesson 14 Numbers 11-13",
+        "Lesson 15 Numbers 14-16",
+        "Lesson 16 Numbers 17-19",
+        "Lesson 17 Numbers 20",
+        "Lesson 18 Fun with numbers",
+        "Unit 3 Review"
+      ]
+    },
+    {
+      "title": "Unit 4 My Clothes",
+      "lessons": [
+        "Lesson 19 Skirt and Dress",
+        "Lesson 20 Shirt and T-shirt",
+        "Lesson 21 Shorts and Pants",
+        "Lesson 22 Shoes and Socks",
+        "Lesson 23 New and Old",
+        "Lesson 24 I like your dress",
+        "Unit 4 Review"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

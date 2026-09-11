@@ -1,0 +1,69 @@
+{
+  "subject": "英语",
+  "grade": "七年级",
+  "volume": "上册",
+  "version": "鲁教版",
+  "edition": "2025秋版（五四制新版，山东教育出版社，依据2022年版课程标准修订）；⚠ 新版 ISBN 未查到（旧版五四制 ISBN 978-7-5328-7775-1）",
+  "source": "电子课本网 dzkbw.com/books/ljb/yingyu/7s_2025；山东教育出版社官网书目",
+  "confidence": "medium",
+  "note": "⚠ 鲁教版为**五四制**（小学5年+初中4年），七年级即初中起始年级，仅山东等五四制地区使用。2025秋启用新版，结构为 Unit 1-7，每单元 Section A / Section B / Over to You。旧版单元主题近似人教版 Go for it! 重组，与新版完全不同。⚠ 仅单一来源，建议再核对官方征订目录。",
+  "units": [
+    {
+      "title": "Unit 1 Here and Now",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    },
+    {
+      "title": "Unit 2 Rain or Shine",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    },
+    {
+      "title": "Unit 3 A Day to Remember",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    },
+    {
+      "title": "Unit 4 Once upon a Time",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    },
+    {
+      "title": "Unit 5 Happy Holiday",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    },
+    {
+      "title": "Unit 6 Home Sweet Home",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    },
+    {
+      "title": "Unit 7 Avoid Danger, Keep Safe",
+      "lessons": [
+        "Section A",
+        "Section B",
+        "Over to You"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

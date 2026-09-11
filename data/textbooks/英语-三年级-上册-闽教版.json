@@ -1,0 +1,63 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "闽教版",
+  "edition": "2024秋版（闽教三起，2024年新课标修订）；学生用书 ISBN 未确认",
+  "source": "电子课本网 dzkbw.com/books/mjb/yingyu/3s_2024；学科网（引国家中小学智慧教育平台）；教习网；教师之家",
+  "confidence": "high",
+  "note": "旧版（2011课标版）为 Unit 1 Hello / Unit 2 Greetings / Unit 3 Numbers / Unit 4 Age and Phone Numbers / Review 1 / Unit 5 My Family / Unit 6 Colors / Unit 7 School Things / Unit 8 The New Year / Review 2。2024新版完全重构为 4 个 Unit + 2 Review（单元数比旧版少一半），每单元 4 Lesson。",
+  "units": [
+    {
+      "title": "Unit 1 Meeting Friends",
+      "lessons": [
+        "Lesson 1 Nice to meet you.",
+        "Lesson 2 What’s your name, please?",
+        "Lesson 3 How are you?",
+        "Lesson 4 Have a good day!"
+      ]
+    },
+    {
+      "title": "Unit 2 Fun Numbers",
+      "lessons": [
+        "Lesson 1 Let’s play!",
+        "Lesson 2 How many ducks?",
+        "Lesson 3 How old are you?",
+        "Lesson 4 What’s your phone number?"
+      ]
+    },
+    {
+      "title": "Review 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 Colors Around Us",
+      "lessons": [
+        "Lesson 1 It’s green.",
+        "Lesson 2 What color is it?",
+        "Lesson 3 Show me red, please.",
+        "Lesson 4 They are colorful flowers."
+      ]
+    },
+    {
+      "title": "Unit 4 Loving My Family",
+      "lessons": [
+        "Lesson 1 This is my father.",
+        "Lesson 2 Who is he?",
+        "Lesson 3 Who are they?",
+        "Lesson 4 I love my family."
+      ]
+    },
+    {
+      "title": "Review 2",
+      "lessons": [
+        "Story Time",
+        "Alphabet",
+        "Words and Expressions",
+        "Word List",
+        "Additional Words"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

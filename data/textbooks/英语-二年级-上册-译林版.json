@@ -1,0 +1,88 @@
+{
+  "subject": "英语",
+  "grade": "二年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "2016年6月第1版，ISBN 978-7-5447-6404-9",
+  "source": "译林出版社版权页；当当网商品页；教习网电子课本；好多电子课本网 yilin/yingyu/2a",
+  "confidence": "medium",
+  "note": "⚠ 重要核实结论：译林版二年级上册【确实存在】，推翻「译林是三起、无二年级」的常见说法。由何锋、齐迅主编，译林出版社与牛津大学出版社（中国）合编，主角 Liu Tao / Wang Bing / Su Hai / Yang Ling。结构为 8 个 Unit + 2 个 Project，板块为 Story time / Fun time / Rhyme time / Song time。主要用于江苏等一年级开英语地区。未在译林官网直接核到 ISBN，故标 medium。",
+  "units": [
+    {
+      "title": "Unit 1 She’s my aunt",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Song time"
+      ]
+    },
+    {
+      "title": "Unit 2 I have a rabbit",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Rhyme time"
+      ]
+    },
+    {
+      "title": "Unit 3 It has a short tail",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Song time"
+      ]
+    },
+    {
+      "title": "Unit 4 Autumn",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Song time"
+      ]
+    },
+    {
+      "title": "Project 1 An animal book",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 Have some juice, please!",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Rhyme time"
+      ]
+    },
+    {
+      "title": "Unit 6 We like our school",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Rhyme time"
+      ]
+    },
+    {
+      "title": "Unit 7 Let’s clean up!",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Song time"
+      ]
+    },
+    {
+      "title": "Unit 8 My dad is a doctor",
+      "lessons": [
+        "Story time",
+        "Fun time",
+        "Rhyme time"
+      ]
+    },
+    {
+      "title": "Project 2 A fancy-dress party",
+      "lessons": [
+        "Picture dictionary",
+        "Word lists"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

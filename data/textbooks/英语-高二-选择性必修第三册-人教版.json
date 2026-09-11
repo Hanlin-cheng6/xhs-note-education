@@ -1,0 +1,78 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第三册",
+  "version": "人教版",
+  "edition": "第1版（2019课标版）；ISBN 978-7-107-34789-4",
+  "source": "中国高校教材图书网 sinobook.com.cn + 第二届全国教材建设奖公示 tech.net.cn PDF + 教习网 51jiaoxi.com",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "通常属高三册次，部分进度快学校高二下学期使用。单元与板块结构同上。不含 Welcome Unit。",
+  "units": [
+    {
+      "title": "Unit 1 Art",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 2 Healthy Lifestyle",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 3 Environmental Protection",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 4 Adversity and Courage",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    },
+    {
+      "title": "Unit 5 Poems",
+      "lessons": [
+        "Opening Page",
+        "Reading and Thinking",
+        "Discovering Useful Structures",
+        "Listening and Talking",
+        "Reading for Writing",
+        "Assessing Your Progress",
+        "Project",
+        "Video Time"
+      ]
+    }
+  ]
+}

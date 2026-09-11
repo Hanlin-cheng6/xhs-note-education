@@ -1,0 +1,18 @@
+# ===== 敏感配置（含 API Key，绝对不能提交）=====
+.env
+.env.local
+.env.*.local
+
+# ===== 运行时生成 =====
+data/history.json
+node_modules/
+*.log
+
+# ===== WorkBuddy 本地工作数据（含个人工作日志/路径）=====
+.workbuddy/
+
+# ===== 系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

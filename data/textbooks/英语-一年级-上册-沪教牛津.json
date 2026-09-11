@@ -1,0 +1,45 @@
+{
+  "subject": "英语",
+  "grade": "一年级",
+  "volume": "上册",
+  "version": "沪教牛津",
+  "edition": "《牛津上海版（课标版）英语一年级上册》，上海教育出版社/牛津大学出版社；ISBN 未核实",
+  "source": "教师之家 renjiaoshe.com；电子课本网 dzkbw.com",
+  "confidence": "high",
+  "note": "主要在上海使用；另有2024修订版（见「沪教牛津2024」）",
+  "units": [
+    {
+      "title": "Module 1 Getting to know you",
+      "lessons": [
+        "Unit 1 Greetings",
+        "Unit 2 My classmates",
+        "Unit 3 My face"
+      ]
+    },
+    {
+      "title": "Module 2 Me, my family and friends",
+      "lessons": [
+        "Unit 1 My abilities",
+        "Unit 2 My family",
+        "Unit 3 My friends"
+      ]
+    },
+    {
+      "title": "Module 3 Places and activities",
+      "lessons": [
+        "Unit 1 In the classroom",
+        "Unit 2 In the fruit shop",
+        "Unit 3 In the restaurant"
+      ]
+    },
+    {
+      "title": "Module 4 The natural world",
+      "lessons": [
+        "Unit 1 On the farm",
+        "Unit 2 In the zoo",
+        "Unit 3 In the park"
+      ]
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

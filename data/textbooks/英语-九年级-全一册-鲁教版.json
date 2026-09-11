@@ -1,0 +1,102 @@
+{
+  "subject": "英语",
+  "grade": "九年级",
+  "volume": "全一册",
+  "version": "鲁教版",
+  "confidence": "medium",
+  "edition": "2026年7月第6版（五四制，九年级全一册，11单元）；ISBN 未确认",
+  "source": "电子课本网dzkbw 鲁教2026秋版目录 + 烟台市政府教材选用目录（确认九年级英语为山东教育出版社·全一册）",
+  "verifiedAt": "2026-09-10",
+  "note": "⚠️ 鲁教版为五四制，初中仅4年，故九年级为全一册。注意：鲁教版全一册 Unit 1-4 标题与人教版2026上册 Unit 5-8 完全相同（Power of Ideas / Beyond Earth / Feel the Rhythm / More than a Game），极易混淆；鲁教版实为11单元覆盖全年，每单元 Section A / Section B 结构。",
+  "units": [
+    {
+      "title": "Unit 1 Power of Ideas",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 2 Beyond Earth",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 3 Feel the Rhythm",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 4 More than a Game",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 5 Let’s Celebrate!",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 6 A Look into the Past",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 7 A Taste of Art",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 8 Reduce, Reuse, Recycle",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 9 Travel Around",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 10 Symbols of China",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "Unit 11 Open to New Beginnings",
+      "lessons": [
+        "Section A",
+        "Section B"
+      ]
+    },
+    {
+      "title": "附录",
+      "lessons": [
+        "Reading Plus",
+        "Drama",
+        "Listening Scripts",
+        "Grammar",
+        "Vocabulary in Each Unit",
+        "Vocabulary A-Z",
+        "Irregular Verbs"
+      ]
+    }
+  ]
+}

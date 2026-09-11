@@ -1,0 +1,61 @@
+{
+  "subject": "英语",
+  "grade": "三年级",
+  "volume": "上册",
+  "version": "沪教牛津",
+  "edition": "现行沪教牛津版（上海本地教材）；学生用书 ISBN 未确认",
+  "source": "电子课本网 dzkbw.com/books/hjb/yingyu/oxford3s；好多电子课本网；沪教牛津版三上扫描",
+  "confidence": "medium",
+  "note": "⚠ 存在两个版本：① 旧「牛津上海版（五四制）」Module 1–4（Unit 1 How are you? / What’s your name? …），电子课本网已明确标注「不在2025/2026国家课程教学用书目录，不是现行版本」；② 现行沪教牛津版（Welcome! + Module 1–4 共12 Unit，本库采用）。上海为一年级起点，三上不是起点册。⚠ 各单元内部课次未在来源完整列出，标 medium。",
+  "units": [
+    {
+      "title": "Module 1 Getting to know you — Unit 1 Hello!",
+      "lessons": []
+    },
+    {
+      "title": "Module 1 — Unit 2 How are you?",
+      "lessons": []
+    },
+    {
+      "title": "Module 1 — Unit 3 Are you Kitty?",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 My family, my friends and me — Unit 4 My friends",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 — Unit 5 My family",
+      "lessons": []
+    },
+    {
+      "title": "Module 2 — Unit 6 Me",
+      "lessons": []
+    },
+    {
+      "title": "Module 3 Places and activities — Unit 7 In the classroom",
+      "lessons": []
+    },
+    {
+      "title": "Module 3 — Unit 8 At the fruit shop",
+      "lessons": []
+    },
+    {
+      "title": "Module 3 — Unit 9 In my room",
+      "lessons": []
+    },
+    {
+      "title": "Module 4 The world around us — Unit 10 Numbers",
+      "lessons": []
+    },
+    {
+      "title": "Module 4 — Unit 11 Small animals",
+      "lessons": []
+    },
+    {
+      "title": "Module 4 — Unit 12 The four seasons",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

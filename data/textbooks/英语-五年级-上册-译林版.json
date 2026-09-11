@@ -1,0 +1,57 @@
+{
+  "subject": "英语",
+  "grade": "五年级",
+  "volume": "上册",
+  "version": "译林版",
+  "edition": "2022课标修订版（2026秋启用）；学生用书 ISBN 未查到",
+  "source": "电子课本网 dzkbw.com/books/yilin/yingyu/5a_2026（唯一新版来源）",
+  "confidence": "medium",
+  "note": "⚠ 仅单一来源。旧版（现仍见于教习网题库与好多电子课本网）为「Unit 1 Goldilocks and the three bears／Unit 2 A new student／Unit 3 Our animal friends／Unit 4 Hobbies／Project 1／Unit 5 What do they do?／Unit 6 My e-friend／Unit 7 At weekends／Unit 8 At Christmas／Project 2」。建议以江苏教育厅选用公告或译林社官网核对后再采纳。",
+  "units": [
+    {
+      "title": "Unit 1 Good habits",
+      "lessons": []
+    },
+    {
+      "title": "Unit 2 I feel good",
+      "lessons": []
+    },
+    {
+      "title": "Unit 3 Hobbies",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 Safety first",
+      "lessons": []
+    },
+    {
+      "title": "Project 1 A happy life poster",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 At weekends",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 Getting along with others",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 Shopping smart",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 We love festivals",
+      "lessons": []
+    },
+    {
+      "title": "Project 2 An invitation card",
+      "lessons": []
+    },
+    {
+      "title": "Learning tips / Word lists",
+      "lessons": []
+    }
+  ],
+  "verifiedAt": "2026-09-10"
+}

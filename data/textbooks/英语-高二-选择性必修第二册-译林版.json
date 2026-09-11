@@ -1,0 +1,69 @@
+{
+  "subject": "英语",
+  "grade": "高二",
+  "volume": "选择性必修第二册",
+  "version": "译林版",
+  "edition": "第1版（约2020年，2019课标版）；ISBN 978-7-5447-8664-5",
+  "source": "第二届全国教材建设奖公示 tech.net.cn PDF（选必二 ISBN 9787544786645）+ 教师之家 renjiaoshe.com/jiaocai/2389",
+  "verifiedAt": "2026-09-10",
+  "confidence": "high",
+  "note": "ISBN经教材建设奖公示确认；精确出版年月未逐一核实。每册4单元，板块同选必一。",
+  "units": [
+    {
+      "title": "Unit 1 The mass media",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    },
+    {
+      "title": "Unit 2 Sports culture",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    },
+    {
+      "title": "Unit 3 Fit for life",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    },
+    {
+      "title": "Unit 4 Living with Technology",
+      "lessons": [
+        "Welcome to the unit",
+        "Reading",
+        "Grammar and usage",
+        "Integrated skills",
+        "Extended reading",
+        "Project",
+        "Assessment",
+        "Further study",
+        "Workbook"
+      ]
+    }
+  ]
+}
