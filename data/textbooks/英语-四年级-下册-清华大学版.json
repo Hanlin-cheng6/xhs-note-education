@@ -1,0 +1,48 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "清华大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id 4ed88cfe-0d65-4379-9cd2-84e0854e6c11）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 4 单元 / 15 课，未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Home Sweet Home",
+   "lessons": [
+    "Let's Take Care of the Forests",
+    "Let's Take Care of the Oceans",
+    "Let's Take Care of the Cities"
+   ]
+  },
+  {
+   "title": "Math and Beyond",
+   "lessons": [
+    "Let's Keep the Air Clean",
+    "How Many Erasers do I Have?",
+    "How Much is It All Together?",
+    "How Many are Left?",
+    "How Old is My Mother?"
+   ]
+  },
+  {
+   "title": "Seasons and the",
+   "lessons": [
+    "It's Spring",
+    "Unit Three It's Summer"
+   ]
+  },
+  {
+   "title": "When I Grow Up",
+   "lessons": [
+    "Winter is Here",
+    "My Father is a Policeman",
+    "My Mother is a Nurse",
+    "Unit Four My Uncle is a Farmer",
+    "Uncle Jack is a Fireman"
+   ]
+  }
+ ]
+}

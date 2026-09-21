@@ -1,0 +1,70 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "下册",
+ "version": "北师大版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语八年级下册，id 98165b99-7f4d-4534-a016-00f82526fc4d）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 6 单元 / 27 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 ['Unit Summary p', 'Study Help p', 'Check Your Progress p']。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Project Joi n Hands, Kick Bad",
+   "lessons": [
+    "Habits p",
+    "Check Your Progress p",
+    "Study Help p"
+   ]
+  },
+  {
+   "title": "Unit 2 Helping Hands",
+   "lessons": [
+    "Topic Talk p",
+    "Girls p",
+    "L3 How Can We Help? p",
+    "Rubbish sorting",
+    "Need tolneed p",
+    "Object clauses p",
+    "SW You're So Kind. p"
+   ]
+  },
+  {
+   "title": "Project Be a Volunteer! p",
+   "lessons": [
+    "check Your Progress p",
+    "Unit Summary p",
+    "Study Help p"
+   ]
+  },
+  {
+   "title": "Project Tal k and Decide p",
+   "lessons": [
+    "Check Your Progress p",
+    "Study Help p"
+   ]
+  },
+  {
+   "title": "Unit 4 Language and Communication",
+   "lessons": [
+    "Topic Talk p",
+    "L1 The Emoji World p",
+    "Foreign Language p",
+    "L3 Animal Talk p",
+    "Until p",
+    "vs Online p",
+    "RC1 Body Language p",
+    "RC2 Breaking the Ice p"
+   ]
+  },
+  {
+   "title": "Project Al Translation ys Learning a",
+   "lessons": [
+    "Foreign Language p",
+    "Check Your Progress p",
+    "Unit Summary p",
+    "Study Help p"
+   ]
+  }
+ ]
+}

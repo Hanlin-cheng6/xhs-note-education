@@ -1,0 +1,102 @@
+{
+ "subject": "美术",
+ "grade": "一年级",
+ "volume": "上册",
+ "version": "湘美版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级上册，id 1084abdc-97bc-4726-a236-9fb0655ce9fb）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 10 单元 / 43 课，未经人工逐条校对。⚠ 自动校验存疑：「第一单元 上学啦」没有课次；「第二单元 发现身边的美」没有课次；「第三单元 美丽的自然」没有课次；「第五单元 玩游戏，画故事」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "wo de xing ming pdi",
+   "lessons": [
+    "我的姓名牌",
+    "我和我的好朋友：",
+    "shen bian de biao shi",
+    "身边的标识",
+    "shang xue lu shang",
+    "上学路上",
+    "ni de jia wo de jid",
+    "你的家 我的家"
+   ]
+  },
+  {
+   "title": "ke ai de hu lu",
+   "lessons": [
+    "可爱的葫芦",
+    "hu lu wa",
+    "葫芦娃",
+    "you te dian de fang zi",
+    "有特点的房子",
+    "da yanjing",
+    "大眼睛",
+    "xun zhao ji I",
+    "寻找肌理"
+   ]
+  },
+  {
+   "title": "第一单元 上学啦",
+   "lessons": []
+  },
+  {
+   "title": "第二单元 发现身边的美",
+   "lessons": []
+  },
+  {
+   "title": "mei l de tian ye",
+   "lessons": [
+    "美丽的田野",
+    "wo de taiyang",
+    "我的太阳",
+    "caiyun he qido",
+    "彩云和桥",
+    "qi cai fei hong",
+    "七彩飞虹",
+    "wo Idi hua feng jing",
+    "我来画风景"
+   ]
+  },
+  {
+   "title": "bian lian",
+   "lessons": [
+    "变脸",
+    "xido nido de lu xing",
+    "小鸟的旅行",
+    "cai caiwo shi shuf",
+    "猜猜我是谁",
+    "xido ren guo",
+    "小人国",
+    "pin yin tu hua",
+    "拼音图画"
+   ]
+  },
+  {
+   "title": "sang ye he can bao bao",
+   "lessons": [
+    "桑叶和蚕宝宝",
+    "xun zhao kun chong",
+    "寻找昆虫",
+    "xido xido bian se long",
+    "小小变色龙"
+   ]
+  },
+  {
+   "title": "第三单元 美丽的自然",
+   "lessons": []
+  },
+  {
+   "title": "第四单元 人类的朋友",
+   "lessons": [
+    "动物名片",
+    "zhan li de dongwu",
+    "站立的动物"
+   ]
+  },
+  {
+   "title": "第五单元 玩游戏，画故事",
+   "lessons": []
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "subject": "科学",
+ "grade": "二年级",
+ "volume": "上册",
+ "version": "大象社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学二年级上册，id 73023d42-5512-4000-b713-e5253da436bd）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 25 课，另有 1 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：上册。",
+ "units": [
+  {
+   "title": "第一单元 溶解",
+   "lessons": [
+    "体验单元分类与打包",
+    "di yidan yudn rong je",
+    "ba yan cang qi loi",
+    "把盐藏起来",
+    "水能溶解哪些物质",
+    "cha ye neng rong jie ma",
+    "血唢",
+    "茶叶能溶解吗"
+   ]
+  },
+  {
+   "title": "第二单元 动物的生活",
+   "lessons": [
+    "mao de sheng huo",
+    "猫的生活",
+    "can guan dong wu yudn",
+    "参观动物园",
+    "特岗动物招聘会"
+   ]
+  },
+  {
+   "title": "第三单元 变幻的天气",
+   "lessons": [
+    "xid yi le",
+    "下雨了",
+    "tian qi yi sheng huo",
+    "天气与生活",
+    "tian qi yi dong zhi wi",
+    "天气与动植物"
+   ]
+  },
+  {
+   "title": "第四单元 力和形变",
+   "lessons": [
+    "tui li he la li",
+    "推力和拉力",
+    "xing zhuang bian le",
+    "形状变了",
+    "zhi zuo xido gong jian",
+    "3制作小弓箭"
+   ]
+  }
+ ]
+}

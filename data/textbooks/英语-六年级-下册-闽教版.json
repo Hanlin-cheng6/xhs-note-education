@@ -1,0 +1,77 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "闽教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 4037fd57-e8f0-4bfc-a873-898ed20f6266）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 15 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Part A Part A」没有课次；「Part B Part B」没有课次；「Part C Part C」没有课次；「Part Par t」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Part A Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part B Part B",
+   "lessons": []
+  },
+  {
+   "title": "Part C Part C",
+   "lessons": []
+  },
+  {
+   "title": "Part Par t",
+   "lessons": []
+  },
+  {
+   "title": "Part Par t B",
+   "lessons": []
+  },
+  {
+   "title": "Part C Part C",
+   "lessons": []
+  },
+  {
+   "title": "Part A Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part Par t B",
+   "lessons": []
+  },
+  {
+   "title": "Part C Part C",
+   "lessons": [
+    "Ji Mother's Day Review"
+   ]
+  },
+  {
+   "title": "Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part B",
+   "lessons": []
+  },
+  {
+   "title": "Part C Story Time",
+   "lessons": [
+    "Picture Dictionary"
+   ]
+  },
+  {
+   "title": "Review Words and Expressions",
+   "lessons": []
+  },
+  {
+   "title": "Part",
+   "lessons": []
+  },
+  {
+   "title": "Part Par t( Classroom Language",
+   "lessons": []
+  }
+ ]
+}

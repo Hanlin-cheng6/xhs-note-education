@@ -1,0 +1,60 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "陕旅版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id f5f90d3b-da59-4895-aac0-a50d2b0b2315）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 7 单元 / 13 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 2」只有 1 课，可能漏切；「Unit 3」只有 1 课，可能漏切；「Unit 5」没有课次；「Unit 6」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Unit"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "What Are You Doing?"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "They Are Having Dinner",
+    "Review",
+    "Units 1~"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Happy Children's Day!"
+   ]
+  },
+  {
+   "title": "Unit 7",
+   "lessons": [
+    "It's a Fine Day Today"
+   ]
+  },
+  {
+   "title": "Unit 8",
+   "lessons": [
+    "What G Nice Season!",
+    "Units 5~",
+    "Words in Each Unit",
+    "Vocabulary",
+    "Appendix",
+    "Appendix Il"
+   ]
+  }
+ ]
+}

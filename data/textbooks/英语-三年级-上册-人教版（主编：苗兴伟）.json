@@ -1,0 +1,51 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "人教版（主编：苗兴伟）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册，id ac983965-a1a1-3393-e994-85c4a5e317b7）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 6 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1」只有 1 课，可能漏切；「Unit 2」只有 1 课，可能漏切；「Unit 4」只有 1 课，可能漏切；「Unit 5」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "Greetings"
+   ]
+  },
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "School things"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "Toys",
+    "Revision",
+    "Friends"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Drinks and fruits"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "Food"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Appendix1 Chants and"
+   ]
+  }
+ ]
+}

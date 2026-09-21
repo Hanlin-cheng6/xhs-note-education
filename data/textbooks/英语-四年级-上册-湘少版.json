@@ -1,0 +1,30 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "湘少版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册，id 17f3f149-bea8-f2f3-ccf7-227feab4763e）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 1 单元 / 12 课，未经人工逐条校对。册次：上册。",
+ "units": [
+  {
+   "title": "全册课次",
+   "lessons": [
+    "Have a healthy diet",
+    "Let's Know More",
+    "Assessment",
+    "Assessment II",
+    "Assessment III",
+    "Let's Read More",
+    "Vocabulary",
+    "Word List",
+    "Structures",
+    "Things at Home",
+    "Some Common Food",
+    "Formative Assessment"
+   ]
+  }
+ ]
+}

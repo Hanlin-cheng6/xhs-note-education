@@ -1,0 +1,47 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "北师大版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 3 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 414c33cd-2d9d-48bc-a25b-c705a1482730）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 3 页，逐页 OCR 识别，共 6 单元 / 6 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 7 Days of the Week」只有 1 课，可能漏切；「Unit 8」只有 1 课，可能漏切；「Unit 9」只有 1 课，可能漏切；「Unit 10 Activities」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 7 Days of the Week",
+   "lessons": [
+    "wHauauwawuuuuumuwummuuuu"
+   ]
+  },
+  {
+   "title": "Unit 8",
+   "lessons": [
+    "Time"
+   ]
+  },
+  {
+   "title": "Unit 9",
+   "lessons": [
+    "Day and Night"
+   ]
+  },
+  {
+   "title": "Unit 10 Activities",
+   "lessons": []
+  },
+  {
+   "title": "Unit 11 Weather",
+   "lessons": []
+  },
+  {
+   "title": "Unit 12 Review",
+   "lessons": [
+    "Progress Check",
+    "Vocabulary",
+    "Word List"
+   ]
+  }
+ ]
+}

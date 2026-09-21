@@ -1,0 +1,44 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "重庆大学版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id d3c56707-99a6-4a39-b7c9-71caac1df6c1）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 8 页，逐页 OCR 识别，共 7 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Good Helpers」没有课次；「Unit 2 At Home」没有课次；「Unit 3 Seasons of a Year」没有课次；「Review」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 Good Helpers",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 At Home",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Seasons of a Year",
+   "lessons": []
+  },
+  {
+   "title": "Review",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Our School",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 At the Shop",
+   "lessons": []
+  },
+  {
+   "title": "Review Words in Each Unit",
+   "lessons": [
+    "Word List",
+    "Children's Garden"
+   ]
+  }
+ ]
+}

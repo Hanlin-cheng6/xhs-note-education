@@ -1,0 +1,48 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "清华大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级下册，id 4540c302-13cc-4285-8b7d-2bea2641a836）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 4 单元 / 15 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 [\"Let's Take the Bus\"]。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Spring Semester Begins",
+   "lessons": [
+    "Going Back to School",
+    "You Look Great!",
+    "Ready for the New Semester"
+   ]
+  },
+  {
+   "title": "Where do You",
+   "lessons": [
+    "Ready to Learn",
+    "Want to Go to the City Zoo",
+    "Want to Climb the Great Wall"
+   ]
+  },
+  {
+   "title": "Green Living",
+   "lessons": [
+    "Can I Have Your Small Bag?",
+    "It's Light Outside",
+    "Let's Take the Bus"
+   ]
+  },
+  {
+   "title": "Habits and Rules",
+   "lessons": [
+    "Let's Take the Bus",
+    "Let's Clean Up",
+    "Go to Bed Early",
+    "My Desk is Clean and Tidy",
+    "Unit Four Don't Cross Now",
+    "Pick Up Trash"
+   ]
+  }
+ ]
+}

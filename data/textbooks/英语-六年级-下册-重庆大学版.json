@@ -1,0 +1,44 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "重庆大学版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 7c7234b9-73e0-456d-a2b0-3219c4ede9ab）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 8 页，逐页 OCR 识别，共 7 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Our Winter Holidays」没有课次；「Unit 2 A Terrible Day」没有课次；「Unit 3 Public Rules」没有课次；「Review」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 Our Winter Holidays",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 A Terrible Day",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Public Rules",
+   "lessons": []
+  },
+  {
+   "title": "Review",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 The Water Journey",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Our Dreams",
+   "lessons": []
+  },
+  {
+   "title": "Review Words in Each Unit",
+   "lessons": [
+    "Word List",
+    "Children's Garden"
+   ]
+  }
+ ]
+}

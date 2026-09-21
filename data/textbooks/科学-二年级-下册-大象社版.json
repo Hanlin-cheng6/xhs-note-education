@@ -1,0 +1,57 @@
+{
+ "subject": "科学",
+ "grade": "二年级",
+ "volume": "下册",
+ "version": "大象社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学二年级下册，id 28861d1d-0a0b-4bcc-9587-30365f0f33c9）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 24 课，另有 1 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 小小工程师",
+   "lessons": [
+    "zhi qing ting",
+    "纸蜻蜓",
+    "cheng zhong zhi qido",
+    "承重纸桥",
+    "zdi zhong xido chudn",
+    "载重小船",
+    "i ie bian hua",
+    "di er dan yuan"
+   ]
+  },
+  {
+   "title": "第二单元 季节变化",
+   "lessons": [
+    "tan fang chun tian",
+    "探访春天",
+    "chun xid qid dong",
+    "春夏秋冬",
+    "季节变化与动植物"
+   ]
+  },
+  {
+   "title": "第三单元 植物的生长",
+   "lessons": [
+    "fa douya",
+    "发豆芽",
+    "fa hudng de dou mido",
+    "2发黃的豆苗",
+    "fa nian de dou mido",
+    "3发蔫的豆苗"
+   ]
+  },
+  {
+   "title": "第四单元 共同的家园",
+   "lessons": [
+    "da shan IY de sheng huo",
+    "大山里的生活",
+    "自然环境与动植物",
+    "gei xico nico jian ge",
+    "给小鸟建个“家”"
+   ]
+  }
+ ]
+}

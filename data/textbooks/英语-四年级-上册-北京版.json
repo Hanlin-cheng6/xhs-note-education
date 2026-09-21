@@ -1,0 +1,23 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "北京版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 四年级上册，id f0a47834-970c-3ed8-dc1a-e669e7389a21）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 2 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit Two Be Good Friends」没有课次；「Unit Thr ee Be Q Nice Person」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit Two Be Good Friends",
+   "lessons": []
+  },
+  {
+   "title": "Unit Thr ee Be Q Nice Person",
+   "lessons": [
+    "Revision"
+   ]
+  }
+ ]
+}

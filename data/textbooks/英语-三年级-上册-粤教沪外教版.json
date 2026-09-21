@@ -1,0 +1,39 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "粤教沪外教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册，id d3e7b9fb-b389-24a9-cbf1-6354d955195e）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Nice to meet you」只有 1 课，可能漏切；「Our family」没有课次；「Our friends」没有课次；「Mytidy bag」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Nice to meet you",
+   "lessons": [
+    "Hello!"
+   ]
+  },
+  {
+   "title": "Our family",
+   "lessons": []
+  },
+  {
+   "title": "Our friends",
+   "lessons": []
+  },
+  {
+   "title": "Mytidy bag",
+   "lessons": []
+  },
+  {
+   "title": "Our toys",
+   "lessons": []
+  },
+  {
+   "title": "Word list",
+   "lessons": []
+  }
+ ]
+}

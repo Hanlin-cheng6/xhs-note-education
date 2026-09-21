@@ -1,0 +1,59 @@
+{
+ "subject": "英语",
+ "grade": "七年级",
+ "volume": "下册",
+ "version": "冀教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语七年级下册，id f8344d21-4e85-4a71-5f02-b4ecae943972）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 8 单元 / 7 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Lesson 1 Lesson」只有 1 课，可能漏切；「Unit 2 Lesson Lesson」只有 1 课，可能漏切；「Unit 3 Lesson 1 Lesson」只有 1 课，可能漏切；「Unit 4 Lesson' Lesson」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Lesson 1 Lesson",
+   "lessons": [
+    "Road"
+   ]
+  },
+  {
+   "title": "Unit 2 Lesson Lesson",
+   "lessons": [
+    "Sports Day"
+   ]
+  },
+  {
+   "title": "Unit 3 Lesson 1 Lesson",
+   "lessons": [
+    "activities"
+   ]
+  },
+  {
+   "title": "Unit 4 Lesson' Lesson",
+   "lessons": [
+    "friendship"
+   ]
+  },
+  {
+   "title": "Unit 5 Lesson 1 Lesson",
+   "lessons": [
+    "neighbourhood"
+   ]
+  },
+  {
+   "title": "Unit 6 Lesson 1 Lesson",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Lesson 1 Lesson",
+   "lessons": [
+    "healthy eat!"
+   ]
+  },
+  {
+   "title": "Unit 8 Lesson Lesson",
+   "lessons": [
+    "important? Mary"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "接力社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语四年级下册，id 6a850434-e0b2-405b-9abe-6d9f7b2503dc）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6, 7 页，逐页 OCR 识别，共 7 单元 / 13 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Welcome to our school」只有 1 课，可能漏切；「Unit 5 Be careful!」只有 1 课，可能漏切；课名重复 ['In this unit, we will', 'In this unit, We will']。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Welcome to our school",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 2 What time is it?",
+   "lessons": [
+    "In this unit, We will",
+    "schedule"
+   ]
+  },
+  {
+   "title": "Unit 3 I use numbers",
+   "lessons": [
+    "In this unit, we will",
+    "things"
+   ]
+  },
+  {
+   "title": "Unit 4 What are you doing?",
+   "lessons": [
+    "In this unit, we will",
+    "describe the animals",
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 5 Be careful!",
+   "lessons": [
+    "In this unit, We will"
+   ]
+  },
+  {
+   "title": "Unit 6 Who has a watch?",
+   "lessons": [
+    "In this unit, we will",
+    "people own"
+   ]
+  },
+  {
+   "title": "Unit 7 Would you like some milk?",
+   "lessons": [
+    "In this unit, we will",
+    "talk about what to eat"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "湘少版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 33d80893-4975-43a2-b188-891d42a58697）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 2 单元 / 21 课，未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Objectives & Tasks",
+   "lessons": [
+    "Greet people",
+    "Ask who someone is",
+    "Return something to the owner",
+    "Ask what time t is",
+    "Tell the time",
+    "Make a timetable",
+    "Talk about the weather",
+    "Tell someone what weather you"
+   ]
+  },
+  {
+   "title": "don't fke",
+   "lessons": [
+    "Name some clothes",
+    "Talk about clothes",
+    "Count from 13 to",
+    "Ask the number of things",
+    "Talk about fruit and vegetables",
+    "Name some body parts",
+    "Talk albout good habits",
+    "Tell people to do something",
+    "Talk about Children's Day",
+    "Make a plan for Children's Day",
+    "Talk about where you 9O",
+    "Name some jobs",
+    "Talk about jobs"
+   ]
+  }
+ ]
+}

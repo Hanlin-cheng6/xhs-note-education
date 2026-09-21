@@ -1,0 +1,42 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "闽教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 四年级下册，id 83e1a7f0-a0bf-4663-9cb0-ca5de49a2409）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 4 单元 / 9 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 ['Review', 'Key words Key patterns Page']。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit There are seven",
+   "lessons": [
+    "Weekly Activities",
+    "Key words Key patterns Page"
+   ]
+  },
+  {
+   "title": "Unit 2 What classes do we",
+   "lessons": [
+    "My Favorite Subject",
+    "Key words Key patterns Page",
+    "Review"
+   ]
+  },
+  {
+   "title": "Unit 3 Im tired but excited",
+   "lessons": [
+    "Our Feelings",
+    "Key words Key patterns Page"
+   ]
+  },
+  {
+   "title": "Unit 4 How do you go to",
+   "lessons": [
+    "Getting Around",
+    "Review"
+   ]
+  }
+ ]
+}

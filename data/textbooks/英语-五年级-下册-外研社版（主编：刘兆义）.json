@@ -1,0 +1,50 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "外研社版（主编：刘兆义）",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 2d8172eb-6fda-4c76-bd93-8af135046d9a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 5 单元 / 13 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 4」没有课次；「Unit 5」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Phone calls",
+    "Unit",
+    "Life in the Arctic",
+    "Television"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "Revision",
+    "In town"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "On the beach"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Adventures",
+    "Supplementary activities",
+    "Two plays",
+    "Word list",
+    "Vocabulary",
+    "Proper names"
+   ]
+  }
+ ]
+}

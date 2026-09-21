@@ -1,0 +1,35 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "人教大同版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 五年级上册，id 7ed767b2-bca4-7550-5108-72c6e8a05285）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Starter page」只有 1 课，可能漏切；「My weekly plan」没有课次；「Fun with clubs」没有课次；「My hometown C元」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Starter page",
+   "lessons": [
+    "Experience Understand"
+   ]
+  },
+  {
+   "title": "My weekly plan",
+   "lessons": []
+  },
+  {
+   "title": "Fun with clubs",
+   "lessons": []
+  },
+  {
+   "title": "My hometown C元",
+   "lessons": []
+  },
+  {
+   "title": "Holidays 一",
+   "lessons": []
+  }
+ ]
+}

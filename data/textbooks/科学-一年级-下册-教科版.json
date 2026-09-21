@@ -1,0 +1,45 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "教科版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学一年级下册，id 6747ab99-ffe6-4414-a4ba-e8de1e9a6b5f）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 6, 7 页，逐页 OCR 识别，共 2 单元 / 22 课，另有 2 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 身边的物体",
+   "lessons": [
+    "观察物体的特征",
+    "gei wi ti fen lei",
+    "给物体分类一",
+    "比较物体的轻重",
+    "认识物体的形状",
+    "观察一杯水",
+    "na ge lid dong de kudi",
+    "哪个流动得快",
+    "to men qu na fI",
+    "它们去哪里了",
+    "dan yuan xido jie"
+   ]
+  },
+  {
+   "title": "第二单元 常见的动物",
+   "lessons": [
+    "我们周围的动物",
+    "观察一种动物",
+    "gei wo nid jian ge jo",
+    "给蜗牛建个“家”",
+    "shur zhong de dong wi",
+    "水中的动物",
+    "ta men chi shen me",
+    "它们吃什么",
+    "dong wu lian huan hui",
+    "动物联欢会",
+    "dan yuan xidoie"
+   ]
+  }
+ ]
+}

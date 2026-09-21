@@ -1,0 +1,40 @@
+{
+ "subject": "科学",
+ "grade": "二年级",
+ "volume": "下册",
+ "version": "青岛版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学二年级下册，id 690add8f-b525-4790-af55-6d8020030b34）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 2 单元 / 17 课，未经人工逐条校对。⚠ 自动校验存疑：课名疑似混入噪声「捉空气 19axong g」。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 水和空气",
+   "lessons": [
+    "ren shi shui",
+    "认识水",
+    "shui bian xian le",
+    "水变咸了",
+    "捉空气 19axong g",
+    "ren shi kong",
+    "认识空气",
+    "zhi zuo xido shur lon",
+    "制作小水轮",
+    "tian qi yi sheng huo",
+    "er dan yudn",
+    "天气与生活"
+   ]
+  },
+  {
+   "title": "第二单元 多样的天气",
+   "lessons": [
+    "duo yang de tian q",
+    "哭气骂嬲物",
+    "哭气写植物",
+    "天气与我们的生活",
+    "参观校园气象站"
+   ]
+  }
+ ]
+}

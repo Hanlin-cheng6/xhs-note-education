@@ -1,0 +1,44 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "外研社版（主编：孙有中）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 五年级下册，id 2e4a649a-af6f-0905-9693-5c5c93548622）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 6 单元 / 6 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Growing up」没有课次；「Unit 2 You can make O difference」没有课次；「Unit 3 We love reading」没有课次；「Unit 4 Back in time」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Growing up",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 You can make O difference",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 We love reading",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Back in time",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Work it out",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Then and now",
+   "lessons": [
+    "Appendices",
+    "More activities",
+    "Plays",
+    "Words and expressions",
+    "Word list",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

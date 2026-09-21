@@ -1,0 +1,41 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "沪教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id d523d9fc-abf2-48a3-94e6-6d9a25fae4af）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 7 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「How do we spend our free time?」没有课次；「What do we wear?」没有课次；「What sounds can we hear?」没有课次；「Where can we see colours?」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "How do we spend our free time?",
+   "lessons": []
+  },
+  {
+   "title": "What do we wear?",
+   "lessons": []
+  },
+  {
+   "title": "What sounds can we hear?",
+   "lessons": []
+  },
+  {
+   "title": "Where can we see colours?",
+   "lessons": []
+  },
+  {
+   "title": "What are our homes like?",
+   "lessons": []
+  },
+  {
+   "title": "What do we do at school?",
+   "lessons": []
+  },
+  {
+   "title": "What do you do on Children's Day?",
+   "lessons": []
+  }
+ ]
+}

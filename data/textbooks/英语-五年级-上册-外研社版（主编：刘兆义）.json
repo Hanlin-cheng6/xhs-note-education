@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "外研社版（主编：刘兆义）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 五年级上册，id 17edec76-0f9d-451d-a131-8bdc41912684）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 6 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 My school is cool」没有课次；「Unit 2 School activities are fun!」没有课次；「Unit 3 The ice world」没有课次；「Unit 4 Love the sea!」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 My school is cool",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 School activities are fun!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 The ice world",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Love the sea!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Work it out!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Big days",
+   "lessons": [
+    "More activities",
+    "Plays",
+    "Words and expressions",
+    "Vocabulary",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

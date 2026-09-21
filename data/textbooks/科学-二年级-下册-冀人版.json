@@ -1,0 +1,50 @@
+{
+ "subject": "科学",
+ "grade": "二年级",
+ "volume": "下册",
+ "version": "冀人版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学二年级下册，id 8b7c49ae-c701-4887-9f38-7c803862bcf7）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 4 页，逐页 OCR 识别，共 3 单元 / 22 课，另有 1 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 有趣的现象",
+   "lessons": [
+    "ta men dou quna le",
+    "它们都去哪 了",
+    "qldo cho wo",
+    "巧除污渍"
+   ]
+  },
+  {
+   "title": "第二单元 春风送暖梨花开",
+   "lessons": [
+    "e feng x y",
+    "和风细雨",
+    "tian ying xiang",
+    "天气的影响",
+    "dong chon la",
+    "冬去春来",
+    "shur nuan ya xian zh",
+    "水暖鸭先知"
+   ]
+  },
+  {
+   "title": "第三单元 日月星辰",
+   "lessons": [
+    "太阳当空照",
+    "bang wo zhi fang xidng",
+    "帮我指方向",
+    "月亮挂星空",
+    "ke ilei tai",
+    "）科技擂台",
+    "生涯链接剪纸艺术传承人",
+    "Ian zhi da sai",
+    "剪纸大赛",
+    "ping Jd bido"
+   ]
+  }
+ ]
+}

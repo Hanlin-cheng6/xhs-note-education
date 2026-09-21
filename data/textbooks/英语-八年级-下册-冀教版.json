@@ -1,0 +1,52 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "下册",
+ "version": "冀教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语八年级下册，id bfb70cd2-c00a-4bad-a7c9-79683b7f7404）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 7 单元 / 7 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 3 Lesson 1 Lesson 2 Lesson」没有课次；「Unit 6 Lesson 1 Lesson 2 Lesson」只有 1 课，可能漏切；「Unit 7 Lesson Lesson 2 Lesson」没有课次；「Unit 8 Lesson 1 Lesson 2 Lesson」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 2 Lesson 1 Lesson 2 Lesson",
+   "lessons": [
+    "life!",
+    "Past continuous tense"
+   ]
+  },
+  {
+   "title": "Unit 3 Lesson 1 Lesson 2 Lesson",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Lesson 1 Lesson 2 Lesson",
+   "lessons": [
+    "better life! rules",
+    "Passive voice (T)"
+   ]
+  },
+  {
+   "title": "Unit 5 Lesson‘ Lesson 2 Lesson",
+   "lessons": [
+    "internet",
+    "Passive voice (II)"
+   ]
+  },
+  {
+   "title": "Unit 6 Lesson 1 Lesson 2 Lesson",
+   "lessons": [
+    "fable Object clauses"
+   ]
+  },
+  {
+   "title": "Unit 7 Lesson Lesson 2 Lesson",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 Lesson 1 Lesson 2 Lesson",
+   "lessons": []
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "清华大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册，id e677e6d8-9120-4fcb-8bed-bd0f317d1a6d）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 4 单元 / 14 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 [\"I'm Tired\"]。册次：上册。",
+ "units": [
+  {
+   "title": "Evening at Home",
+   "lessons": [
+    "I'm Doing My Homework",
+    "We're Watching TV",
+    "My Mother is Cooking"
+   ]
+  },
+  {
+   "title": "Animals and Their",
+   "lessons": [
+    "Cats Love Fish",
+    "Cows Love Grass",
+    "Chickens Love Insects"
+   ]
+  },
+  {
+   "title": "Feelings and Reactions",
+   "lessons": [
+    "I'm Happy",
+    "I'm Sad",
+    "Unit Three Im Angry",
+    "I'm Tired"
+   ]
+  },
+  {
+   "title": "Advice on How to",
+   "lessons": [
+    "I'm Tired",
+    "Im Hungry",
+    "Eat Healthy Food",
+    "Play Enough Sports"
+   ]
+  }
+ ]
+}

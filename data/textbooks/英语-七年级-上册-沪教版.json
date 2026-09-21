@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "七年级",
+ "volume": "上册",
+ "version": "沪教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 七年级 上册，id fc01119a-7b2b-d5fb-74c8-415bd8e00f4a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 7 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「What makes a strong friendship?」只有 1 课，可能漏切；「What is your school life like?」没有课次；「Expressing and」没有课次；「Talking about daily life」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "What makes a strong friendship?",
+   "lessons": [
+    "Reading Listening Grammar"
+   ]
+  },
+  {
+   "title": "What is your school life like?",
+   "lessons": []
+  },
+  {
+   "title": "Expressing and",
+   "lessons": []
+  },
+  {
+   "title": "Talking about daily life",
+   "lessons": []
+  },
+  {
+   "title": "Writing an article",
+   "lessons": []
+  },
+  {
+   "title": "season",
+   "lessons": []
+  },
+  {
+   "title": "Talking about",
+   "lessons": []
+  }
+ ]
+}

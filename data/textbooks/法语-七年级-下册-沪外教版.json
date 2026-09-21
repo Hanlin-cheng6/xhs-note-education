@@ -1,0 +1,49 @@
+{
+ "subject": "法语",
+ "grade": "七年级",
+ "volume": "下册",
+ "version": "沪外教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 10, 11, 12 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）普通中学教科书·法语 起步下册，id 0ddc735b-f7c2-1407-8853-15ea3ec63b8a）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 10, 11, 12 页，逐页 OCR 识别，共 2 单元 / 26 课，未经人工逐条校对。⚠ 自动校验存疑：课名疑似混入噪声「deuxieme etage 表示三楼」；课名过长疑似粘行「Qu'est-ce qu ils…」；课名过长疑似粘行「J'ecoute de la m…」；课名重复 [\"Unite 6 > Al'ecole\"]。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Notes",
+   "lessons": [
+    "deuxieme etage 表示三楼",
+    "Corprehension",
+    "En quelle classe sont-ils?",
+    "a. 5° B b.6° B c.6A",
+    "Ou est la salle de francais?",
+    "Qui est leur professeur principal?",
+    "Qu'est-ce qu ils font apres les cours",
+    "a. Ils dinent ensemble",
+    "Unite 6 > Al'ecole"
+   ]
+  },
+  {
+   "title": "Completez les mots",
+   "lessons": [
+    "Le professeur ecrit sur le",
+    "On met les livres sur le",
+    "Sur le b",
+    "Ma place est pres de la",
+    "Chaque eleve a un p",
+    "Sur le m",
+    "Le professeur ecrit avec de la cI",
+    "On ouvre la D",
+    "Unite 6 > Al'ecole",
+    "Ou'est-ce",
+    "Nous (choisir)",
+    "J'ecoute de la musique quand je (finir)",
+    "Nous (finir)",
+    "Ils (venir)",
+    "Vous (venir) avec moi?",
+    "Elles (choisir)",
+    "Je (choisir)"
+   ]
+  }
+ ]
+}

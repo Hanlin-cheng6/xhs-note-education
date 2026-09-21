@@ -1,0 +1,39 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "闽教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 734487e6-3959-45c3-b03d-65dd80ec2292）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 6 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Our AnimaL Friends」只有 1 课，可能漏切；「Unit 2 My Clothes」没有课次；「Review ii」没有课次；「Unit 3 Time」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Our AnimaL Friends",
+   "lessons": [
+    "bird, panda It's cute"
+   ]
+  },
+  {
+   "title": "Unit 2 My Clothes",
+   "lessons": []
+  },
+  {
+   "title": "Review ii",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Time",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Healthy Eating",
+   "lessons": []
+  },
+  {
+   "title": "Review",
+   "lessons": []
+  }
+ ]
+}

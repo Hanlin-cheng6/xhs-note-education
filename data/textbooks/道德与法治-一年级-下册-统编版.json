@@ -1,0 +1,61 @@
+{
+ "subject": "道德与法治",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "统编版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·道德与法治一年级下册，id 1e04e52e-41df-4689-b12a-f3b7315a4243）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 5 单元 / 24 课，未经人工逐条校对。⚠ 自动校验存疑：「第一单元 我有新面貌」没有课次；课名疑似混入噪声「小e he da jia」。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "di ke you ge mu biao",
+   "lessons": [
+    "有个新目标",
+    "di ke Zuo shi yao",
+    "做事要仔细",
+    "ke cuo le jfiu yao gai",
+    "错了就要改",
+    "我们有精神"
+   ]
+  },
+  {
+   "title": "第一单元 我有新面貌",
+   "lessons": []
+  },
+  {
+   "title": "第二单元 我们一起长大",
+   "lessons": [
+    "小e he da jia",
+    "和大家在一起",
+    "di ke qing bang wo",
+    "请帮我",
+    "di e wo men fen xiang",
+    "我们爱分享",
+    "di ke da jia he zuo",
+    "大家來合作"
+   ]
+  },
+  {
+   "title": "第三单元 幸福一家人",
+   "lessons": [
+    "这是我的家",
+    "相亲相爱一家人",
+    "让我自己来整理",
+    "di x5 Z Jg wu huo",
+    "学做家务活"
+   ]
+  },
+  {
+   "title": "第四单元 争做中国好儿童",
+   "lessons": [
+    "ke kudi le er tong je",
+    "快乐儿童节",
+    "光荣的少先队",
+    "戴上红领巾",
+    "学先锋"
+   ]
+  }
+ ]
+}

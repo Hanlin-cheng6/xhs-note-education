@@ -1,0 +1,51 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "北师大版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 四年级下册，id 6b109156-89f6-4e9d-8a73-e429f7987df5）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1」只有 1 课，可能漏切；「Unit 2」只有 1 课，可能漏切；「Unit 3」只有 1 课，可能漏切；「Unit 4」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "People Love"
+   ]
+  },
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Sports"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "We can doit"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Using the time"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "Weather and us"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Review",
+    "Wonderful world",
+    "Word bank"
+   ]
+  }
+ ]
+}

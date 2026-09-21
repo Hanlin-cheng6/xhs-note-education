@@ -1,0 +1,32 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 1417c7bc-52d9-4c4d-92fd-796a92a6d275）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 How tall are you?」没有课次；「Unit 2 Last weekend」没有课次；「Unit 3 Where did you go?」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 How tall are you?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Last weekend",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Where did you go?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Then and now",
+   "lessons": [
+    "Appendix 3: Vocabulary",
+    "Appendix 5: Proverbs"
+   ]
+  }
+ ]
+}

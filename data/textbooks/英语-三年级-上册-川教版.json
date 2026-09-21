@@ -1,0 +1,73 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "川教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册，id e46c60ee-2e73-ced1-6fe2-4676f662f86c）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 12 单元 / 9 课，未经人工逐条校对。⚠ 自动校验存疑：「Module A Polite Kids」没有课次；「Unit 1 Good Morning!」没有课次；「Unit 2 I'm Li Le」没有课次；「Unit 3 Can Sing」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Module A Polite Kids",
+   "lessons": []
+  },
+  {
+   "title": "Unit 1 Good Morning!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 I'm Li Le",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Can Sing",
+   "lessons": [
+    "Challenge Yourself A"
+   ]
+  },
+  {
+   "title": "Module B Amazing Colours",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 What Colour Is It?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Look at My Picture",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 What's Your Favourite Colour?",
+   "lessons": [
+    "Challenge Yourself B",
+    "I’m Sunny Again"
+   ]
+  },
+  {
+   "title": "Module C Useful Numbers",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 How Old Are You?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 Can I Help You?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 9 I Like Fruit Salad",
+   "lessons": [
+    "Challenge Yourself C",
+    "Zero Is the Hero",
+    "Self-assessment",
+    "Words and Expressions",
+    "Sight Words",
+    "My Vocabulary Bank"
+   ]
+  }
+ ]
+}

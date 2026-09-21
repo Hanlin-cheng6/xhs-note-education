@@ -1,0 +1,55 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "上册",
+ "version": "川教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语六年级上册，id 89bb1762-9950-49c5-8d74-d499c27d2ff4）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 9 单元 / 3 课，未经人工逐条校对。⚠ 自动校验存疑：「Module A Following the Greats」没有课次；「Unit What's He Famous for?」没有课次；「Unit 2 Challenge Yourself A」只有 1 课，可能漏切；「Module B Living a Smart Life」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Module A Following the Greats",
+   "lessons": []
+  },
+  {
+   "title": "Unit What's He Famous for?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Challenge Yourself A",
+   "lessons": [
+    "What Are They Doing?"
+   ]
+  },
+  {
+   "title": "Module B Living a Smart Life",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 How Much Is It?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Challenge Yourself B",
+   "lessons": [
+    "It Is Good for the Environment"
+   ]
+  },
+  {
+   "title": "Module C Staying Safe",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 What Happened?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Challenge Yourself C",
+   "lessons": [
+    "What Will You Do?"
+   ]
+  }
+ ]
+}

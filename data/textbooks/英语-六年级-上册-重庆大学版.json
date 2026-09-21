@@ -1,0 +1,94 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "上册",
+ "version": "重庆大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 六年级上册，id 9132e694-e555-4811-be20-f12e8988a408）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4 页，逐页 OCR 识别，共 6 单元 / 51 课，未经人工逐条校对。⚠ 自动校验存疑：课名疑似混入噪声「一usually」；课名疑似混入噪声「一often一」；课名疑似混入噪声「of. do you like paint (v.)一」。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "Can I Ask",
+    "What chores",
+    "一usually"
+   ]
+  },
+  {
+   "title": "Unit 2 Spending Goals Make Money",
+   "lessons": [
+    "Some Chores to",
+    "一often一",
+    "You Some",
+    "do? can you sometimes can",
+    "Questions?",
+    "for the Gift?",
+    "My Family",
+    "What are you",
+    "Big Ben",
+    "Is Going to",
+    "going to do"
+   ]
+  },
+  {
+   "title": "Unit 3 Goals the World",
+   "lessons": [
+    "in Britain",
+    "My Tour to",
+    "Visit the Great",
+    "this... holiday?",
+    "France",
+    "Eiffel Tower",
+    "Pyramid in",
+    "We are going to",
+    "in France",
+    "visit",
+    "Egypt",
+    "Which kind",
+    "I Like Both"
+   ]
+  },
+  {
+   "title": "Unit 4 Goals",
+   "lessons": [
+    "Making Music",
+    "of. do you like paint (v.)一",
+    "Kinds of",
+    "with Love",
+    "Painting",
+    "Are you good",
+    "swimming",
+    "at...?"
+   ]
+  },
+  {
+   "title": "Unit 5 Sports and Goals at Swimming? Games",
+   "lessons": [
+    "Are You Good",
+    "Sports as",
+    "skipping",
+    "Everyday Life",
+    "running",
+    "I'm not",
+    "Why can we",
+    "a changing"
+   ]
+  },
+  {
+   "title": "Unit 6 Goals Fun Science",
+   "lessons": [
+    "Why Can We",
+    "Apple and",
+    "shadow",
+    "see...?",
+    "Seesaw",
+    "See a Rainbow?",
+    "So That's",
+    "melting snow"
+   ]
+  }
+ ]
+}

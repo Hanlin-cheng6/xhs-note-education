@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 四年级上册，id be6e00c8-0068-8453-927f-646f6f753a5a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Helping at home」只有 1 课，可能漏切；「Unit 2 My friends」没有课次；「Unit 3 Places we live in」没有课次；「Unit 4 Helping in the community」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Helping at home",
+   "lessons": [
+    "Contents"
+   ]
+  },
+  {
+   "title": "Unit 2 My friends",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Places we live in",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Helping in the community",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 The weather and us",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Changing for the seasons",
+   "lessons": [
+    "Revision Let's help!",
+    "Appendix 1 Songs",
+    "Appendix 3 Vocabulary"
+   ]
+  }
+ ]
+}

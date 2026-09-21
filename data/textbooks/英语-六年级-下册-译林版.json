@@ -1,0 +1,63 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "译林版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 7, 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 2b63b996-3f8c-439a-bb0c-3f127c9507af）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7, 8 页，逐页 OCR 识别，共 8 单元 / 12 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1」没有课次；「Unit 2」没有课次；「Unit 5」只有 1 课，可能漏切；「Unit 6」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7",
+   "lessons": [
+    "The lion and the mouse",
+    "Summer holiday plans"
+   ]
+  },
+  {
+   "title": "Unit 2",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8",
+   "lessons": [
+    "Good habits",
+    "Our dreams"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "A travel book",
+    "A healthy diet"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Learning tips",
+    "Road safety",
+    "Word lists",
+    "Being Q good student"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "A party"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "An interesting country"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "人教鄂教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学一年级下册，id e231dd57-90b2-49c3-a82f-a44a72f8e330）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 7 单元 / 20 课，未经人工逐条校对。⚠ 自动校验存疑：「第1单元 回顾 xiao yuan li de zhi wi」没有课次；「第2单元 回顾 chang iian de cai lido」没有课次；「第3单元 回顾 zhi zuo shou nd yong ju」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 位置和方向",
+   "lessons": [
+    "前后左右",
+    "dong nan T bei",
+    "东南西北",
+    "xido yuan xun bao",
+    "校园“寻宝”",
+    "danyuan huf gu"
+   ]
+  },
+  {
+   "title": "第1单元 回顾 xiao yuan li de zhi wi",
+   "lessons": []
+  },
+  {
+   "title": "第二单元 校园里的植物",
+   "lessons": [
+    "ge zhongge yang de ye",
+    "各种各样的叶",
+    "duo cai de hua",
+    "多彩的花"
+   ]
+  },
+  {
+   "title": "第2单元 回顾 chang iian de cai lido",
+   "lessons": []
+  },
+  {
+   "title": "第三单元 常见的材料",
+   "lessons": [
+    "它们是用什么材料做的",
+    "jin shu",
+    "金属",
+    "zhi zhi pin",
+    "纸制品",
+    "dan yuan hui gu"
+   ]
+  },
+  {
+   "title": "第3单元 回顾 zhi zuo shou nd yong ju",
+   "lessons": []
+  },
+  {
+   "title": "第四单元 制作收纳用具",
+   "lessons": [
+    "pin",
+    "tong",
+    "笔筒",
+    "哈兴品总气"
+   ]
+  }
+ ]
+}

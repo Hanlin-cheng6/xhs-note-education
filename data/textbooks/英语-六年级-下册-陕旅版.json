@@ -1,0 +1,54 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "陕旅版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 4d2c8c36-d8c4-45dd-8703-fe32dcba0b5d）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 8 单元 / 6 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 May l Speak to Kitty?」没有课次；「Unit 2 What Would You Like?」没有课次；「Unit 3 Who's That Man?」没有课次；「Unit 4 At the Sports Meeting」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 May l Speak to Kitty?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 What Would You Like?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Who's That Man?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 At the Sports Meeting",
+   "lessons": [
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 5 What Is He like?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 A School Sale",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Shanghai Is in the",
+   "lessons": [
+    "Southeast of China"
+   ]
+  },
+  {
+   "title": "Unit 8 What's Your Dream?",
+   "lessons": [
+    "Revision",
+    "Words in Each Unit",
+    "Vocabulary",
+    "Irregular Verbs"
+   ]
+  }
+ ]
+}

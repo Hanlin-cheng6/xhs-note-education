@@ -1,0 +1,57 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "陕旅版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点） 五年级 下册，id 0d42a7db-b850-4c0d-b505-f26579d2aab3）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 8 单元 / 7 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 How Are You Feeling」只有 1 课，可能漏切；「Unit 2 Spring Is Coming!」没有课次；「Unit 3 Spring Begins from」只有 1 课，可能漏切；「Unit 4 He Lives in a Village」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 How Are You Feeling",
+   "lessons": [
+    "Now?"
+   ]
+  },
+  {
+   "title": "Unit 2 Spring Is Coming!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Spring Begins from",
+   "lessons": [
+    "March"
+   ]
+  },
+  {
+   "title": "Unit 4 He Lives in a Village",
+   "lessons": [
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 5 What's the Weather",
+   "lessons": [
+    "like Today?"
+   ]
+  },
+  {
+   "title": "Unit 6 My Holiday",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 I Have a Headache",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 Have a Good Habit!",
+   "lessons": [
+    "Revision",
+    "Words in Each Unit",
+    "Vocabulary"
+   ]
+  }
+ ]
+}

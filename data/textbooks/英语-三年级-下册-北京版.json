@@ -1,0 +1,75 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "北京版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 5bd0a1a5-4465-48f7-ac81-825b4b941eea）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 7 单元 / 27 课，未经人工逐条校对。⚠ 自动校验存疑：课名过长疑似粘行「What Do We Wear …」；「Project Make a healthy meal a, e,i, o, u」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "全册课次",
+   "lessons": [
+    "What Do We Wear in the Four Seasons?",
+    "I Like the Four Seasons in Beijing",
+    "Revision A 14 Revision B",
+    "What Time Is It?",
+    "Let's Go to the Basketball Class",
+    "It's Time for the Birthday Party",
+    "I Go to the Library On Tuesday",
+    "Weekly Plan",
+    "Wonderful Weekends",
+    "What's for Breakfast?",
+    "Have Some Bread, Please",
+    "My Favourite Food Is Jiaozi",
+    "Revision A 28 Revision B",
+    "Word List (1) (P78~",
+    "I Should Tidy up My Room"
+   ]
+  },
+  {
+   "title": "Project Show and tell how to",
+   "lessons": [
+    "tidy up your room",
+    "The Weather in China"
+   ]
+  },
+  {
+   "title": "Project Make a weather",
+   "lessons": [
+    "report",
+    "I Love All Seasons"
+   ]
+  },
+  {
+   "title": "Project Make a picture book of",
+   "lessons": [
+    "the four seasons",
+    "Get to Learn the Time"
+   ]
+  },
+  {
+   "title": "Project Make your own",
+   "lessons": [
+    "timetable",
+    "A Good Weekly Plan",
+    "Makes Me Happy"
+   ]
+  },
+  {
+   "title": "Project Make a family plan",
+   "lessons": [
+    "for a week",
+    "You Are What You Eat"
+   ]
+  },
+  {
+   "title": "Project Make a healthy meal a, e,i, o, u",
+   "lessons": [
+    "plan"
+   ]
+  }
+ ]
+}

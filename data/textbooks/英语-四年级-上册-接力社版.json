@@ -1,0 +1,60 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "接力社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 四年级上册，id 345de000-9398-4f0e-8076-8fc93068341e）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6, 7 页，逐页 OCR 识别，共 7 单元 / 12 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 3 What a nice day!」只有 1 课，可能漏切；「Unit 5 1 love my family」只有 1 课，可能漏切；「Unit 7 I know numbers」只有 1 课，可能漏切；课名重复 ['In this unit, we will']。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 This is my body",
+   "lessons": [
+    "In this unit, we will",
+    "give instructions"
+   ]
+  },
+  {
+   "title": "Unit 2 find i",
+   "lessons": [
+    "In this unit, we will",
+    "talk about positions"
+   ]
+  },
+  {
+   "title": "Unit 3 What a nice day!",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 4 What's the weather like?",
+   "lessons": [
+    "In this unit, we will",
+    "in seasons",
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 5 1 love my family",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 6 Tell the differences",
+   "lessons": [
+    "In this unit, we will",
+    "make choices"
+   ]
+  },
+  {
+   "title": "Unit 7 I know numbers",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "粤教沪外教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 五年级上册，id babb3b82-49d4-36af-ed48-593737d6aafa）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「Friends」没有课次；「How do you plan your week?」没有课次；「How can we be good helper?」没有课次；「How can we eat healthy?」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Friends",
+   "lessons": []
+  },
+  {
+   "title": "How do you plan your week?",
+   "lessons": []
+  },
+  {
+   "title": "How can we be good helper?",
+   "lessons": []
+  },
+  {
+   "title": "How can we eat healthy?",
+   "lessons": []
+  },
+  {
+   "title": "How can we live healthy?",
+   "lessons": []
+  }
+ ]
+}

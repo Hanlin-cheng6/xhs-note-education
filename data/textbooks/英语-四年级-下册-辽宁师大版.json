@@ -1,0 +1,39 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "辽宁师大版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id f38040e1-709b-47a7-8335-074e9dbae8b5）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit My favourite festival」没有课次；「Unit 2 Family time」没有课次；「Unit 3 Healthy diet, healthy life」没有课次；「Unit 4 Everybody works」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit My favourite festival",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Family time",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Healthy diet, healthy life",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Everybody works",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 The sun rises every day",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Words and expressions",
+   "lessons": [
+    "Everybody needs O home"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "川教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 268943ee-b215-41fb-9b89-d6c5ef1d6f44）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 11 单元 / 11 课，未经人工逐条校对。⚠ 自动校验存疑：「Module A Lovely Animals」只有 1 课，可能漏切；「Unit 2 I Have a Farm」没有课次；「Module B Happy Family」没有课次；「Unit 4 This Is My Family」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Module A Lovely Animals",
+   "lessons": [
+    "Unit What's This?"
+   ]
+  },
+  {
+   "title": "Unit 2 I Have a Farm",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 I Like This Dog",
+   "lessons": [
+    "Challenge Yourself A",
+    "What Do You See?"
+   ]
+  },
+  {
+   "title": "Module B Happy Family",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 This Is My Family",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 What's Your Job?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Let's Make a Birthday Card",
+   "lessons": [
+    "Challenge Yourself B",
+    "Can Swim Now"
+   ]
+  },
+  {
+   "title": "Module C Great School",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Have Great Classmates",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 Is It the Library?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 9 Who Is Your English Teacher?",
+   "lessons": [
+    "Challenge Yourself C",
+    "Is My School Great?",
+    "Self-assessment",
+    "Words and Expressions",
+    "Sight Words",
+    "My Vocabulary Bank"
+   ]
+  }
+ ]
+}

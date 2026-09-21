@@ -1,0 +1,87 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "重庆大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册，id 12830537-3c8b-bc2a-822b-f915c0bfec60）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 8 单元 / 34 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1」只有 1 课，可能漏切；「Unit 4」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "Good"
+   ]
+  },
+  {
+   "title": "Unit 2 My First Day",
+   "lessons": [
+    "Miss",
+    "afternoon",
+    "Nice to Meet",
+    "Morning Hello!",
+    "You",
+    "Miss Liu Goodbye. Bye",
+    "What's your name? What's"
+   ]
+  },
+  {
+   "title": "Unit 3 My Classmates",
+   "lessons": [
+    "my name Pass Me a Ruler",
+    "Your My name is",
+    "your name Please",
+    "Name? How old are you? I'm"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Let's"
+   ]
+  },
+  {
+   "title": "Unit 5 School Rules",
+   "lessons": [
+    "open Be Quiet",
+    "Do Begin",
+    "close Please",
+    "Our Class",
+    "father",
+    "This Is"
+   ]
+  },
+  {
+   "title": "Unit 6 My Family",
+   "lessons": [
+    "mother What's His",
+    "This is",
+    "brother Job?",
+    "Family",
+    "sister",
+    "What's What's the"
+   ]
+  },
+  {
+   "title": "Unit 7 Life",
+   "lessons": [
+    "the",
+    "It's Snowy",
+    "weather like? Weather",
+    "Like?",
+    "Do You Do you like...?"
+   ]
+  },
+  {
+   "title": "Unit 8 Lovely Animals",
+   "lessons": [
+    "a lion Monkeys",
+    "Like",
+    "lions Like to Play",
+    "don't Tigers?"
+   ]
+  }
+ ]
+}

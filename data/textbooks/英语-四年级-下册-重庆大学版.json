@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "重庆大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 四年级下册，id 2eb33fc0-cdb3-4af5-882e-5be442705602）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 7 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit Goals Your Library? It's」没有课次；「Unit Goals Your Morning」没有课次；「Unit Goals the Sign Say?」没有课次；「Unit 4 Our Holidays」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit Goals Your Library? It's",
+   "lessons": []
+  },
+  {
+   "title": "Unit Goals Your Morning",
+   "lessons": []
+  },
+  {
+   "title": "Unit Goals the Sign Say?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Our Holidays",
+   "lessons": [
+    "What's the When Is"
+   ]
+  },
+  {
+   "title": "Unit Goals Date Today?",
+   "lessons": []
+  },
+  {
+   "title": "Unit Goals on the Way",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 On the Farm",
+   "lessons": []
+  }
+ ]
+}

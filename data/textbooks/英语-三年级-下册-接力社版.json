@@ -1,0 +1,64 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "接力社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7, 8, 9 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 9ae3ffb8-8e6f-4a7a-bef7-a59ba953168d）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7, 8, 9 页，逐页 OCR 识别，共 8 单元 / 11 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Nice to meet you!」只有 1 课，可能漏切；「Unit 2 Look at me!」只有 1 课，可能漏切；「Unit 6 love animals」只有 1 课，可能漏切；「Unit 7 How do you feel?」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Nice to meet you!",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 2 Look at me!",
+   "lessons": [
+    "In this unit, ye will"
+   ]
+  },
+  {
+   "title": "Unit 3 Where is it？",
+   "lessons": [
+    "In this unit, we will",
+    "talk about positions"
+   ]
+  },
+  {
+   "title": "Unit 4 Let's have a picnic!",
+   "lessons": [
+    "In this unit, we wil",
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 5 can do it！",
+   "lessons": [
+    "In this wnit, we will",
+    "talk about abilities"
+   ]
+  },
+  {
+   "title": "Unit 6 love animals",
+   "lessons": [
+    "In this wnit, we will"
+   ]
+  },
+  {
+   "title": "Unit 7 How do you feel?",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 8 What day is it today?",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  }
+ ]
+}

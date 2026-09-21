@@ -35,7 +35,7 @@ install() {
     echo "请在你自己打开的「终端 App」里重新执行："
     echo "    cd \"$DIR\" && ./service.sh install"
     echo ""
-    echo "plist 已放在 $PLIST_DST，下次登录时也会自动加载。"
+    echo "plist 已放在 ${PLIST_DST} ，下次登录时也会自动加载。"
     exit 1
   fi
 

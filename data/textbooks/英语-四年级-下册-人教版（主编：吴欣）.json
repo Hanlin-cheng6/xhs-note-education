@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id 18b54350-f833-4b5c-a1b9-ebbf02cf4545）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Class rules」只有 1 课，可能漏切；「Unit 2 Family rules」没有课次；「Unit 3 Time for school」没有课次；「Unit 4 Going shopping」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Class rules",
+   "lessons": [
+    "Contents"
+   ]
+  },
+  {
+   "title": "Unit 2 Family rules",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Time for school",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Going shopping",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Farms and us",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 From farm to table",
+   "lessons": [
+    "Appendix 1 Songs",
+    "Appendix 3 Vocabulary",
+    "Appendix 5 Pronunciation"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "冀教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id d2c98c54-d546-4014-8139-7b90f992e839）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 3 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Going to Beijing」没有课次；「Unit 2 In Beijing」没有课次；「Unit 3 Writing Home」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 Going to Beijing",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 In Beijing",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Writing Home",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Did You Have a Nice Trip?",
+   "lessons": [
+    "Words in Each Unit",
+    "Vocabulary",
+    "Reading for Fun"
+   ]
+  }
+ ]
+}

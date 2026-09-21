@@ -1,0 +1,49 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "教科版（主编：龚亚夫）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册，id c6b9cff5-5e13-bcc2-00b5-394a624b3650）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 8 页，逐页 OCR 识别，共 8 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Letters in Our Life •.••‘\"\"\"\"\"」没有课次；「Unit 2 English and Chinese」没有课次；「Unit 3 Who's Who?」只有 1 课，可能漏切；「Unit 5 Set a Password」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Letters in Our Life •.••‘\"\"\"\"\"",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 English and Chinese",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Who's Who?",
+   "lessons": [
+    "Unit Colour a Keyboard"
+   ]
+  },
+  {
+   "title": "Unit 5 Set a Password",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Can Draw",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Be a Good Listener",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 It's Time to Exercise!",
+   "lessons": []
+  },
+  {
+   "title": "Review A Music Show",
+   "lessons": [
+    "Vocabulary"
+   ]
+  }
+ ]
+}

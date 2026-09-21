@@ -1,0 +1,60 @@
+{
+ "subject": "科学",
+ "grade": "二年级",
+ "volume": "下册",
+ "version": "湘科版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学二年级下册，id 910709d9-627a-4338-a6b5-e0a06055ad25）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 6, 7 页，逐页 OCR 识别，共 4 单元 / 27 课，另有 1 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 四季",
+   "lessons": [
+    "si ji zai bian hud",
+    "四季在变化",
+    "四季变化的影响",
+    "」 fa bu hui",
+    "四季发布会",
+    "dan yudn xiGo jie"
+   ]
+  },
+  {
+   "title": "第二单元 各种各样的植物",
+   "lessons": [
+    "认识常见的植物",
+    "zhi wu jido",
+    "植物角",
+    "植物生长需要什么",
+    "zhi wu he wo men",
+    "植物和我们",
+    "dan yudn xido jie"
+   ]
+  },
+  {
+   "title": "第三单元 力与形变",
+   "lessons": [
+    "tui l yu lal",
+    "推力与拉力",
+    "qi miao de xing bian",
+    "奇妙的形变",
+    "ZuO ge jian qiu qi",
+    "做个捡球器",
+    "dan yuan xico ji"
+   ]
+  },
+  {
+   "title": "第四单元 多样的人造物",
+   "lessons": [
+    "ren shi ren zao wu",
+    "认识人造物",
+    "gai jin ren zdo wi",
+    "改进人造物",
+    "zhi zuo jian zhen qi",
+    "制作捡针器",
+    "dan yudn xido jite"
+   ]
+  }
+ ]
+}

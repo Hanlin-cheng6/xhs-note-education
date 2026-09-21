@@ -1,0 +1,48 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "外研社版（主编：孙有中）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 五年级上册，id 77c1748b-51a5-ba5d-8868-a2c7055678b5）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 6 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 What's on your plate?」只有 1 课，可能漏切；「Unit 2 A green」没有课次；「Unit 3」只有 1 课，可能漏切；「Unit 4 Abetter me」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 What's on your plate?",
+   "lessons": [
+    "life"
+   ]
+  },
+  {
+   "title": "Unit 2 A green",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "Happy together"
+   ]
+  },
+  {
+   "title": "Unit 4 Abetter me",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Look into the future",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Enjoy the festivalls",
+   "lessons": [
+    "Appendices",
+    "More activities",
+    "Plays",
+    "Words and expressions",
+    "Word list",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

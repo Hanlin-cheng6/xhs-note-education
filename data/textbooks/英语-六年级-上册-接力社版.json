@@ -1,0 +1,58 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "上册",
+ "version": "接力社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 六年级上册，id 5a69664c-525c-49c1-8e65-23c3c7c5f6fc）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6, 7 页，逐页 OCR 识别，共 7 单元 / 10 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 2 Career Day」只有 1 课，可能漏切；「Unit 3 Colorful School Life」只有 1 课，可能漏切；「Unit 5 Take Care」只有 1 课，可能漏切；「Unit 6 My Favorite Animals」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 My Birthday",
+   "lessons": [
+    "In this unit, we will",
+    "and the UK"
+   ]
+  },
+  {
+   "title": "Unit 2 Career Day",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 3 Colorful School Life",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 4 Be on Time",
+   "lessons": [
+    "In this unit, We will",
+    "someone did",
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 5 Take Care",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 6 My Favorite Animals",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  },
+  {
+   "title": "Unit 7 Good Ideas",
+   "lessons": [
+    "In this unit, we will"
+   ]
+  }
+ ]
+}

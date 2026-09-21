@@ -1,0 +1,53 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "下册",
+ "version": "人教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语八年级下册，id 467816b8-e76c-43fc-afc7-91638f97dba8）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6, 7 页，逐页 OCR 识别，共 9 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Time to Relax」没有课次；「Stay Healthy」没有课次；「Growing Up」只有 1 课，可能漏切；「The Wonders of Nature」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Time to Relax",
+   "lessons": []
+  },
+  {
+   "title": "Stay Healthy",
+   "lessons": []
+  },
+  {
+   "title": "Growing Up",
+   "lessons": [
+    "What makes you upset?"
+   ]
+  },
+  {
+   "title": "The Wonders of Nature",
+   "lessons": [
+    "What is amazing about nature?"
+   ]
+  },
+  {
+   "title": "Nature's",
+   "lessons": []
+  },
+  {
+   "title": "Crossing Cultures",
+   "lessons": []
+  },
+  {
+   "title": "A Good Read",
+   "lessons": []
+  },
+  {
+   "title": "Making a Difference",
+   "lessons": []
+  },
+  {
+   "title": "Listening Scripts p",
+   "lessons": []
+  }
+ ]
+}

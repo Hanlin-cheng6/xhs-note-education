@@ -1,0 +1,56 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "湘少版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id a9f600a7-71df-4a87-8b3b-b80d33b01179）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 8 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 2 Some stories are more interesting」没有课次；「Unit 4 Planting trees is good for us」没有课次；「Unit 5 Our Earth looks like this in」没有课次；「Unit 7 I'm not afraid!」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 2 Some stories are more interesting",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 We should learn to take care of",
+   "lessons": [
+    "ourselves",
+    "Let's Know More",
+    "Assessment"
+   ]
+  },
+  {
+   "title": "Unit 4 Planting trees is good for us",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Our Earth looks like this in",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Anne wanted to dance",
+   "lessons": [
+    "Let's Know More",
+    "Assessment II"
+   ]
+  },
+  {
+   "title": "Unit 7 I'm not afraid!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 International Children's Day",
+   "lessons": []
+  },
+  {
+   "title": "Unit 9 Look at these beautiful places in",
+   "lessons": [
+    "the world",
+    "Let's Know More",
+    "Assessment III"
+   ]
+  }
+ ]
+}

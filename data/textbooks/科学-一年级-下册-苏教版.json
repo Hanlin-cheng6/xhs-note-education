@@ -1,0 +1,46 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "苏教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学一年级下册，id 27bef766-de39-4edb-baf5-7026de1dd465）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 13 课，另有 3 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第1单元 石头与泥土 jian shi tou",
+   "lessons": [
+    "捡石头",
+    "wan sha zi",
+    "nie ni ba",
+    "捏泥巴"
+   ]
+  },
+  {
+   "title": "第2单元 shui shi shen me yang de",
+   "lessons": [
+    "yan he tang nar qu le",
+    "盐和糖哪儿去了"
+   ]
+  },
+  {
+   "title": "第3单元 空气",
+   "lessons": [
+    "zhao kong qi",
+    "找空气",
+    "玩空气"
+   ]
+  },
+  {
+   "title": "第4单元 动物与植物",
+   "lessons": [
+    "形形色色的动物",
+    "dong wu yu zhi wu",
+    "动物与植物",
+    "像科学家那样"
+   ]
+  }
+ ]
+}

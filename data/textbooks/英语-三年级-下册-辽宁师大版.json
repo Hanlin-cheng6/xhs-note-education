@@ -1,0 +1,46 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "辽宁师大版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 1bf2a59b-7b83-4314-b936-8c81d7ff384a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 9 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 3」只有 1 课，可能漏切；「Unit 4」没有课次；「Unit 5」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Unit I",
+    "It's a sunny day",
+    "Spring is here",
+    "This is beautiful"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "Good habits"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "I love it"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Let me help you",
+    "Words and expressions",
+    "Word list"
+   ]
+  }
+ ]
+}

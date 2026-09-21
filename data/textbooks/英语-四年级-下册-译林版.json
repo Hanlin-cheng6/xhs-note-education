@@ -1,0 +1,55 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "译林版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7, 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id a4fb0c8b-ebd6-4db9-bca0-705fca8126e4）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7, 8 页，逐页 OCR 识别，共 8 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「others at school?」只有 1 课，可能漏切；「Story time」只有 1 课，可能漏切；「Let me show」只有 1 课，可能漏切；单元标题不完整「you」。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "others at school?",
+   "lessons": [
+    "Lead-in Cartoon time"
+   ]
+  },
+  {
+   "title": "Story time",
+   "lessons": [
+    "Wrap-up time Assessment time"
+   ]
+  },
+  {
+   "title": "Let me show",
+   "lessons": [
+    "you Show C student around"
+   ]
+  },
+  {
+   "title": "you",
+   "lessons": []
+  },
+  {
+   "title": "What's the matter",
+   "lessons": [
+    "Talk about taking care"
+   ]
+  },
+  {
+   "title": "What's the matter",
+   "lessons": []
+  },
+  {
+   "title": "Happy Labour Day!",
+   "lessons": [
+    "Talk about your"
+   ]
+  },
+  {
+   "title": "Happy Labour Day!",
+   "lessons": []
+  }
+ ]
+}

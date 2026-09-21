@@ -1,0 +1,66 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "重庆大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 四年级上册，id ddda2ab9-b524-2dad-5191-9b1ceb1fc6da）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 33 课，未经人工逐条校对。⚠ 自动校验存疑：课名疑似混入噪声「snowman 二 like」。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Routine Goals It Now?",
+   "lessons": [
+    "What Day Is It Today?",
+    "It's time to",
+    "seven fifty"
+   ]
+  },
+  {
+   "title": "Unit 2 Weekend",
+   "lessons": [
+    "What do you",
+    "What Do You",
+    "visit a ZOO",
+    "What Does",
+    "often do at the"
+   ]
+  },
+  {
+   "title": "Unit 3 Activities Goals Change of",
+   "lessons": [
+    "with",
+    "Often Do at",
+    "She Often",
+    "weekend?",
+    "Do?",
+    "the Weekend?",
+    "my friends",
+    "often",
+    "Which season",
+    "Which Season",
+    "snowman 二 like",
+    "What's the"
+   ]
+  },
+  {
+   "title": "Unit 4 Seasons Goals Pet Friends Unit What Pet Goals Does He Have?",
+   "lessons": [
+    "do you",
+    "Do You Like",
+    "best?",
+    "Weather Like?",
+    "Best?",
+    "T like... best",
+    "What pet does",
+    "Why Do You",
+    "a dog with a",
+    "he she have?",
+    "Keep a Pet",
+    "small nose",
+    "Dog?"
+   ]
+  }
+ ]
+}

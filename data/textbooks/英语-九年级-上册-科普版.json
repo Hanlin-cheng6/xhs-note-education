@@ -1,0 +1,55 @@
+{
+ "subject": "英语",
+ "grade": "九年级",
+ "volume": "上册",
+ "version": "科普版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 九年级上册，id 521b01ef-4e76-466e-b50e-a20508a9b893）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 7 单元 / 10 课，未经人工逐条校对。⚠ 自动校验存疑：「Project Making a poster a of the」只有 1 课，可能漏切；「Review Self-assessment」没有课次；「Project Making a survey of」只有 1 课，可能漏切；「Review Self-assessment」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 The Changing Function",
+   "lessons": [
+    "World",
+    "Greener",
+    "Planet, Better",
+    "Home",
+    "Great Ideas",
+    "二*实座高的 特涂婴价淋e金藏 機安二彩",
+    "店心就＞道 世紫特"
+   ]
+  },
+  {
+   "title": "Project Making a poster a of the",
+   "lessons": [
+    "changes around you"
+   ]
+  },
+  {
+   "title": "Review Self-assessment",
+   "lessons": []
+  },
+  {
+   "title": "Project Making a survey of",
+   "lessons": [
+    "Low-carbon Living"
+   ]
+  },
+  {
+   "title": "Review Self-assessment",
+   "lessons": []
+  },
+  {
+   "title": "Project Sharing your dream",
+   "lessons": [
+    "invention"
+   ]
+  },
+  {
+   "title": "Review Self-assessment",
+   "lessons": []
+  }
+ ]
+}

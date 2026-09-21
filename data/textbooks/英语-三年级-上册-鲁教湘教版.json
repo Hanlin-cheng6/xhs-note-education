@@ -1,0 +1,83 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "鲁教湘教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册，id 6f1f7dbe-ded5-a752-9575-33c6b0a47372）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 14 单元 / 7 课，未经人工逐条校对。⚠ 自动校验存疑：「Nice to meet you!」只有 1 课，可能漏切；「Making」没有课次；「Friends」只有 1 课，可能漏切；「She is my grandmother」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Nice to meet you!",
+   "lessons": [
+    "I'm Li Tingting"
+   ]
+  },
+  {
+   "title": "Making",
+   "lessons": []
+  },
+  {
+   "title": "Friends",
+   "lessons": [
+    "Nice to meet you, too"
+   ]
+  },
+  {
+   "title": "She is my grandmother",
+   "lessons": [
+    "I'm very well"
+   ]
+  },
+  {
+   "title": "He is a cook",
+   "lessons": []
+  },
+  {
+   "title": "People",
+   "lessons": []
+  },
+  {
+   "title": "Do you",
+   "lessons": [
+    "Her eyes are big"
+   ]
+  },
+  {
+   "title": "How many dogs are there?",
+   "lessons": [
+    "Yes, I do. have a big cat"
+   ]
+  },
+  {
+   "title": "Keeping",
+   "lessons": []
+  },
+  {
+   "title": "Phonics",
+   "lessons": []
+  },
+  {
+   "title": "hijk",
+   "lessons": [
+    "Value: Friends are important"
+   ]
+  },
+  {
+   "title": "Opq",
+   "lessons": [
+    "progress"
+   ]
+  },
+  {
+   "title": "Opq",
+   "lessons": []
+  },
+  {
+   "title": "There are some funny",
+   "lessons": []
+  }
+ ]
+}

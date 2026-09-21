@@ -1,0 +1,96 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "重庆大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 五年级上册，id 1284d81b-3412-4378-a733-0816ea3847c7）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4 页，逐页 OCR 识别，共 7 单元 / 48 课，未经人工逐条校对。⚠ 自动校验存疑：课名过长疑似粘行「That's a good pu…」；课名疑似混入噪声「What can we paint一painter」；课名疑似混入噪声「leam from..? invent一inventor Longping's」；课名过长疑似粘行「leam from..? inv…」。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Being a Better",
+   "lessons": [
+    "What Can",
+    "What can I do? a study plan"
+   ]
+  },
+  {
+   "title": "Unit 2 Learner Goals Being",
+   "lessons": [
+    "Let Me Try",
+    "Do?",
+    "You can",
+    "Why don't",
+    "You Should",
+    "you...?",
+    "feel lonely",
+    "Can"
+   ]
+  },
+  {
+   "title": "Unit 3 Better Me Goals Famous",
+   "lessons": [
+    "Go to Bed",
+    "That's a good put on weight idea. Thank",
+    "easily",
+    "Early",
+    "you",
+    "What Can",
+    "Yuan",
+    "What can we paint一painter",
+    "We Learn"
+   ]
+  },
+  {
+   "title": "Unit 4 People Goals My Favourite",
+   "lessons": [
+    "leam from..? invent一inventor Longping's",
+    "from",
+    "Dream",
+    "To be",
+    "Newton?",
+    "What kind",
+    "I Like",
+    "The Bear",
+    "of stories do",
+    "fairy tale",
+    "Fables",
+    "and Two"
+   ]
+  },
+  {
+   "title": "Unit 5 Stories Goals",
+   "lessons": [
+    "you like best? folktale",
+    "Friends",
+    "Best",
+    "like... best",
+    "mountains",
+    "You Can"
+   ]
+  },
+  {
+   "title": "Unit 6 Our Earth",
+   "lessons": [
+    "Is this a",
+    "See All the",
+    "and hills",
+    "One Earth"
+   ]
+  },
+  {
+   "title": "Unit 7 Goals",
+   "lessons": [
+    "Or a...?",
+    "Landform",
+    "a plain or a",
+    "One People",
+    "It's a",
+    "valley",
+    "Types"
+   ]
+  }
+ ]
+}

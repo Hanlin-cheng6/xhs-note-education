@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "教科版（主编：龚亚夫）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 五年级上册，id 27eb5941-f566-431a-a2a6-92e45a2995e1）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 7 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 2 It's for Everybody」没有课次；「Unit 3 Best Friends Forever」没有课次；「Unit 4 Here Comes a Typhoon!」没有课次；「Unit 5 A Trip to Harbin」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 2 It's for Everybody",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Best Friends Forever",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Here Comes a Typhoon!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 A Trip to Harbin",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Space Travel",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Make a Bird Feeder",
+   "lessons": []
+  },
+  {
+   "title": "Review Let 's Go Camping!",
+   "lessons": [
+    "Word List"
+   ]
+  }
+ ]
+}

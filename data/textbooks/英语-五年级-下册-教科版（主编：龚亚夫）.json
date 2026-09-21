@@ -1,0 +1,80 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "教科版（主编：龚亚夫）",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 4 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 285ae1ca-33f3-40b5-b9c8-c6fd8256168b）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4 页，逐页 OCR 识别，共 12 单元 / 12 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 What's your favourite season?」只有 1 课，可能漏切；「Unit 2 It's the middle of winter」只有 1 课，可能漏切；「Unit 3 We are going to have an English test」没有课次；「Unit 4 Have a good time in Hainan」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 What's your favourite season?",
+   "lessons": [
+    "Module 1 Seasons"
+   ]
+  },
+  {
+   "title": "Unit 2 It's the middle of winter",
+   "lessons": [
+    "Module 2 Plans"
+   ]
+  },
+  {
+   "title": "Unit 3 We are going to have an English test",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Have a good time in Hainan",
+   "lessons": [
+    "Module 3 Invitations"
+   ]
+  },
+  {
+   "title": "Unit 5 Would you like to go with us?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 See vou at the party",
+   "lessons": [
+    "Module",
+    "Travel",
+    "行出版社",
+    "ESPH"
+   ]
+  },
+  {
+   "title": "Unit 7 We will g0 by train",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 Ben's first trip to Bejing",
+   "lessons": [
+    "Module 5 Safety"
+   ]
+  },
+  {
+   "title": "Unit 9 Be careful!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 10 How to stay safe",
+   "lessons": [
+    "Module 6 Directions"
+   ]
+  },
+  {
+   "title": "Unit 11 Can you tell me the way?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 12 I know a short cut",
+   "lessons": [
+    "Module 7 Let's look back",
+    "Vocabulary",
+    "Picture dictionary"
+   ]
+  }
+ ]
+}

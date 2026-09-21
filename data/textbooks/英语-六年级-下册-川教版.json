@@ -1,0 +1,25 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "川教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 2be9aba6-81cf-4367-b85c-4dd385fcd58b）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 2 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Different Jobs」只有 1 课，可能漏切；「Unit 2 Colourful Life」只有 1 课，可能漏切；课名重复 ['Self-assessment']。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 Different Jobs",
+   "lessons": [
+    "Self-assessment"
+   ]
+  },
+  {
+   "title": "Unit 2 Colourful Life",
+   "lessons": [
+    "Self-assessment"
+   ]
+  }
+ ]
+}

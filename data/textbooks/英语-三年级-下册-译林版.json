@@ -1,0 +1,67 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "译林版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7, 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id d87e8865-615a-4b3b-8d34-179b9fb33013）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7, 8 页，逐页 OCR 识别，共 11 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「School things」只有 1 课，可能漏切；「Clean our classroom」没有课次；「Where's my paper plane?」没有课次；「Why do you like fruit?」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "School things",
+   "lessons": [
+    "Lead-in Cartoon time"
+   ]
+  },
+  {
+   "title": "Clean our classroom",
+   "lessons": []
+  },
+  {
+   "title": "Where's my paper plane?",
+   "lessons": []
+  },
+  {
+   "title": "Why do you like fruit?",
+   "lessons": []
+  },
+  {
+   "title": "On the farm",
+   "lessons": []
+  },
+  {
+   "title": "Story time",
+   "lessons": [
+    "Wrap-up time Assessment time"
+   ]
+  },
+  {
+   "title": "Let's clean our",
+   "lessons": [
+    "Make a cleaning plan"
+   ]
+  },
+  {
+   "title": "Drawing in the school",
+   "lessons": [
+    "Plan your after-class"
+   ]
+  },
+  {
+   "title": "Drawing in the school",
+   "lessons": []
+  },
+  {
+   "title": "On Grandpa's farm",
+   "lessons": [
+    "Talk about things on"
+   ]
+  },
+  {
+   "title": "On Grandpa's farm",
+   "lessons": []
+  }
+ ]
+}

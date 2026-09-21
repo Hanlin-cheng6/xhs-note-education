@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id c5180299-d288-46e2-a0df-9f04c94fd922）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 My day」没有课次；「Unit 2 My favourite season」没有课次；「Unit 3 My school calendar」只有 1 课，可能漏切；「Unit 4 When is the art show?」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 My day",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 My favourite season",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 My school calendar",
+   "lessons": [
+    "Recycle"
+   ]
+  },
+  {
+   "title": "Unit 4 When is the art show?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Whose dog is it?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Work quietly",
+   "lessons": [
+    "Recycle",
+    "Appendix 3: Vocabulary",
+    "Appendix 5: Proverbs"
+   ]
+  }
+ ]
+}

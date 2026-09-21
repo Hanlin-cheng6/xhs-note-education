@@ -1,0 +1,49 @@
+{
+ "subject": "英语",
+ "grade": "九年级",
+ "volume": "下册",
+ "version": "译林版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语九年级下册，id 92286669-0bc5-423e-844c-06c4eddffd2e）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 8 单元 / 2 课，未经人工逐条校对。⚠ 自动校验存疑：「Welcome to the unit」没有课次；「and places」没有课次；「punoue sauminp」没有课次；「Great people」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Welcome to the unit",
+   "lessons": []
+  },
+  {
+   "title": "and places",
+   "lessons": []
+  },
+  {
+   "title": "punoue sauminp",
+   "lessons": []
+  },
+  {
+   "title": "Great people",
+   "lessons": []
+  },
+  {
+   "title": "How could robots help us?",
+   "lessons": [
+    "Module‘"
+   ]
+  },
+  {
+   "title": "aumnjauL",
+   "lessons": []
+  },
+  {
+   "title": "Integrated skills",
+   "lessons": []
+  },
+  {
+   "title": "The robot show",
+   "lessons": [
+    "punoue saunnp Kerdsup】"
+   ]
+  }
+ ]
+}

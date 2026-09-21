@@ -1,0 +1,39 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "鲁教湘教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 五年级上册，id d4c8600e-ab51-42e4-9a43-c4608dbac129）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 6 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Habits」没有课次；「Art Trip」没有课次；「Art Trip」没有课次；「Hometown」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Habits",
+   "lessons": []
+  },
+  {
+   "title": "Art Trip",
+   "lessons": []
+  },
+  {
+   "title": "Art Trip",
+   "lessons": []
+  },
+  {
+   "title": "Hometown",
+   "lessons": []
+  },
+  {
+   "title": "Hometown",
+   "lessons": []
+  },
+  {
+   "title": "Pronunciation Culture corner",
+   "lessons": [
+    "Project Assessment"
+   ]
+  }
+ ]
+}

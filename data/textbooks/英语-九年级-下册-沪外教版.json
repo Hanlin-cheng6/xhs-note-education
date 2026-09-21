@@ -1,0 +1,35 @@
+{
+ "subject": "英语",
+ "grade": "九年级",
+ "volume": "下册",
+ "version": "沪外教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 3 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语九年级下册，id e7788a04-22eb-46ee-b16e-c0cf356c8a49）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 3 页，逐页 OCR 识别，共 5 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Geography and land features」没有课次；「Science in the future」没有课次；「Plants」没有课次；「Biology Physics」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Geography and land features",
+   "lessons": []
+  },
+  {
+   "title": "Science in the future",
+   "lessons": []
+  },
+  {
+   "title": "Plants",
+   "lessons": []
+  },
+  {
+   "title": "Biology Physics",
+   "lessons": []
+  },
+  {
+   "title": "Newspapers, television and radio",
+   "lessons": [
+    "News and the Media"
+   ]
+  }
+ ]
+}

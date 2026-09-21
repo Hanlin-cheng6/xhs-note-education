@@ -1,0 +1,86 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "重庆大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 608a082c-7890-42b2-97ac-e9658c483487）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 7 单元 / 38 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1」只有 1 课，可能漏切；课名疑似混入噪声「have 十 a mouth」。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "Can Talk"
+   ]
+  },
+  {
+   "title": "Unit 2 Goals Two Ears",
+   "lessons": [
+    "Have",
+    "have 十 a mouth",
+    "have",
+    "with My Mouth",
+    "Can you.. far",
+    "ILike",
+    "Can You"
+   ]
+  },
+  {
+   "title": "Unit 3 Goals",
+   "lessons": [
+    "Playing",
+    "Play Ping",
+    "Yes, I can",
+    "Basketballl",
+    "pong Well?",
+    "No. I can’t",
+    "What Do We"
+   ]
+  },
+  {
+   "title": "Unit 4 Three Meals Goals for Lunch",
+   "lessons": [
+    "It's Time",
+    "have... for",
+    "Have for Dinner?",
+    "Is this...?"
+   ]
+  },
+  {
+   "title": "Unit 5 Goals Coat?",
+   "lessons": [
+    "Is This Your",
+    "Are These",
+    "Yes, it is",
+    "Your Shoes?",
+    "No. it isn’t",
+    "We Usually",
+    "Do You Go - Do you.. in...?"
+   ]
+  },
+  {
+   "title": "Unit 6 Life Goals",
+   "lessons": [
+    "Wear T-shirts",
+    "Yes. I do",
+    "Do you...?",
+    "Swimming",
+    "and Shorts in Summer",
+    "What are these"
+   ]
+  },
+  {
+   "title": "Unit 7 Us Goals Those?",
+   "lessons": [
+    "What Are",
+    "They Give",
+    "bush bushes",
+    "those?",
+    "Us Fruits",
+    "They are"
+   ]
+  }
+ ]
+}

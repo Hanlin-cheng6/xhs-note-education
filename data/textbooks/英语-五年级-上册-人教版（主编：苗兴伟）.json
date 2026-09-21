@@ -1,0 +1,50 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "人教版（主编：苗兴伟）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 五年级上册，id 0d53b423-e9d3-63ae-9a22-0bce900d3b97）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 6 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 2」没有课次；「Unit 4」只有 1 课，可能漏切；「Unit 5」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "Around the world",
+    "Jobs"
+   ]
+  },
+  {
+   "title": "Unit 2",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "Workplaces",
+    "Revision"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Putting things in order"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "A tidly house"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Be yourself",
+    "Appendix 1 Chants and"
+   ]
+  }
+ ]
+}

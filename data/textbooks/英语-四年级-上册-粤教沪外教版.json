@@ -1,0 +1,33 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "粤教沪外教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册，id 651695aa-4233-48b0-3f76-afa7cad33bdc）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「My home」没有课次；「What is your dream job?」没有课次；「Our school」没有课次；「How do you make a plan?」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "My home",
+   "lessons": []
+  },
+  {
+   "title": "What is your dream job?",
+   "lessons": []
+  },
+  {
+   "title": "Our school",
+   "lessons": []
+  },
+  {
+   "title": "How do you make a plan?",
+   "lessons": []
+  },
+  {
+   "title": "How shall we spend money well?",
+   "lessons": []
+  }
+ ]
+}

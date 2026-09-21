@@ -1,0 +1,72 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "闽教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 48f56576-189c-485a-9f58-75470cd57cd9）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 13 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Part A Part A」没有课次；「Part B Part B」没有课次；「Part Par t」只有 1 课，可能漏切；「Part A Part B Part Part A」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Part A Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part B Part B",
+   "lessons": []
+  },
+  {
+   "title": "Part Par t",
+   "lessons": [
+    "Ti"
+   ]
+  },
+  {
+   "title": "Part A Part B Part Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part C Part",
+   "lessons": []
+  },
+  {
+   "title": "Part B Part A Part B Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part C Part D",
+   "lessons": []
+  },
+  {
+   "title": "Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part C Part B Story Time",
+   "lessons": [
+    "Picture Dictionary"
+   ]
+  },
+  {
+   "title": "Review ‘〝〝〝\"‘‘‘‘",
+   "lessons": [
+    "Words and Expressions",
+    "Sports Day Word List"
+   ]
+  },
+  {
+   "title": "Part A",
+   "lessons": []
+  },
+  {
+   "title": "Part B Appendix: Numbers",
+   "lessons": []
+  },
+  {
+   "title": "Part D",
+   "lessons": []
+  }
+ ]
+}

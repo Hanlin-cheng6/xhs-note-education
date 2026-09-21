@@ -1,0 +1,62 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "鲁教湘教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 807a65b0-ab90-4cf2-ad87-178c9a4486d6）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 11 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 What subjects do you study?」没有课次；「Unit 2 We have Art in the art room」没有课次；「Unit 3 What time do you usually go to school?」没有课次；「Unit 4 There is homework time」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 What subjects do you study?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 We have Art in the art room",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 What time do you usually go to school?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 There is homework time",
+   "lessons": []
+  },
+  {
+   "title": "Review",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Is this a shopping centre?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Everyone has something to do",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 will study the moon",
+   "lessons": []
+  },
+  {
+   "title": "Unit 9 What do you want to do?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 1 o It's one of the famous mountains in China",
+   "lessons": []
+  },
+  {
+   "title": "Review Fun Time",
+   "lessons": [
+    "Story Time",
+    "Game Time",
+    "Vocabulary",
+    "Appendices"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "外研社版（主编：刘兆义）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id 9a553639-4521-4cce-aa9f-09281b1a653b）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 6 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Around the clock」没有课次；「Unit 2 All year round」没有课次；「Unit 3 That's my room」没有课次；「Unit 4 Friends for life」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Around the clock",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 All year round",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 That's my room",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Friends for life",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 great day out",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Fun times",
+   "lessons": [
+    "More activities",
+    "Plays",
+    "Words and expressions",
+    "Vocabulary",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

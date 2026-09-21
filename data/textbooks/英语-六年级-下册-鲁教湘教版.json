@@ -1,0 +1,62 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "下册",
+ "version": "鲁教湘教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）六年级下册，id 81b0b85e-c4bc-4b17-9c97-07c257d5805f）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 11 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 There are four seasons in a year」没有课次；「Unit 2 Is she your mum's favourite singer?」没有课次；「Unit 3 Who was she?」没有课次；「Unit 4 We went on a science field trip」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1 There are four seasons in a year",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Is she your mum's favourite singer?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Who was she?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 We went on a science field trip",
+   "lessons": []
+  },
+  {
+   "title": "Review",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 danced on Children's Day last year",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Can you see the lightning?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 We will be in a junior middle schoot",
+   "lessons": []
+  },
+  {
+   "title": "Unit 9 China is a great country!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 1 o Goodbye to all our friend s",
+   "lessons": []
+  },
+  {
+   "title": "Review Fun Time",
+   "lessons": [
+    "Story Time",
+    "Game Time",
+    "Vocabulary",
+    "Appendices"
+   ]
+  }
+ ]
+}

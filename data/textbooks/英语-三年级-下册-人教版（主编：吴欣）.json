@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 10b11234-3b0a-4b3e-b4b4-db3013774529）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Meeting new people」只有 1 课，可能漏切；「Unit 2 Expressing yourself」没有课次；「Unit 3 Learning better」没有课次；「Unit 4 Healthy food」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Meeting new people",
+   "lessons": [
+    "Contents"
+   ]
+  },
+  {
+   "title": "Unit 2 Expressing yourself",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Learning better",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Healthy food",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Old toys",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Numbers in life",
+   "lessons": [
+    "Appendix 1 Songs",
+    "Appendix 3 Vocabulary",
+    "Appendix 5 Pronunciation"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "川教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语五年级上册，id 95598bab-ceae-4f59-9948-beefc0116e57）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 9 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Module A Being a Good Learner」没有课次；「Unit 1 I Have Music Class on Friday」没有课次；「Module B Having a Nice Weekend」没有课次；「Unit 3 I'm Going to the Park」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Module A Being a Good Learner",
+   "lessons": []
+  },
+  {
+   "title": "Unit 1 I Have Music Class on Friday",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Do You Often Take Notes?",
+   "lessons": [
+    "Challenge Yourself A",
+    "My Story of Learning"
+   ]
+  },
+  {
+   "title": "Module B Having a Nice Weekend",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 I'm Going to the Park",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Where Shall We Meet?",
+   "lessons": [
+    "Challenge Yourself B"
+   ]
+  },
+  {
+   "title": "Module C Experiencing the Culture",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 When Is the Mid-Autumn Festival?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 The Spring Festival Is Coming",
+   "lessons": [
+    "Challenge Yourself C",
+    "The Monster “Nian’®",
+    "Self-check",
+    "Words and Expressions",
+    "My Vocabulary Bank"
+   ]
+  }
+ ]
+}

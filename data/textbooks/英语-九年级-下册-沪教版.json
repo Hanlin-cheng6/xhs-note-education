@@ -1,0 +1,37 @@
+{
+ "subject": "英语",
+ "grade": "九年级",
+ "volume": "下册",
+ "version": "沪教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语九年级下册，id 8a9962e7-f8e6-4f5f-8e2a-df9bf874bf0c）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 6 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「Great」没有课次；「Culture shock」没有课次；「Environmental The problems」没有课次；「environment」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Great",
+   "lessons": []
+  },
+  {
+   "title": "Culture shock",
+   "lessons": []
+  },
+  {
+   "title": "Environmental The problems",
+   "lessons": []
+  },
+  {
+   "title": "environment",
+   "lessons": []
+  },
+  {
+   "title": "Natural disasters",
+   "lessons": []
+  },
+  {
+   "title": "disasters",
+   "lessons": []
+  }
+ ]
+}

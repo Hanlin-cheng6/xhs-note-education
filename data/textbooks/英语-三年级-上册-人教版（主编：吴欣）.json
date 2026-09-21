@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 三年级上册，id dd6173ba-579a-356e-900c-cb53e152229c）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Making friends」只有 1 课，可能漏切；「Unit 2 Different families」没有课次；「Unit 3 Our animal friends」没有课次；「Unit 4 Plants around us」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Making friends",
+   "lessons": [
+    "Contents"
+   ]
+  },
+  {
+   "title": "Unit 2 Different families",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Our animal friends",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Plants around us",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 The colourful world",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Useful numbers",
+   "lessons": [
+    "Appendix 1 Songs",
+    "Appendix 4 Vocabulary",
+    "Appendix 6 The alphabet"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "辽宁师大版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 五年级上册，id e7d4c714-9497-494d-be03-8216faa58047）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 3 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit It's changing for the better」没有课次；「Unit 2 Don't worry」只有 1 课，可能漏切；「Unit 3 my day better」没有课次；「Unit 4 You are my hero」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit It's changing for the better",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Don't worry",
+   "lessons": [
+    "Thank you for making"
+   ]
+  },
+  {
+   "title": "Unit 3 my day better",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 You are my hero",
+   "lessons": [
+    "Who built the Great Wall"
+   ]
+  },
+  {
+   "title": "Unit 5 of China?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Words and expressions",
+   "lessons": [
+    "I love my hometown"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "subject": "科学",
+ "grade": "二年级",
+ "volume": "上册",
+ "version": "人教鄂教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学二年级上册，id 4fefad7e-ded1-4b6e-8798-4c53f7d18fd3）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 18 课，未经人工逐条校对。⚠ 自动校验存疑：「第1单元 回顾 shui he kong qi」没有课次；课名疑似混入噪声「第三！ 1元 la 力」；「第2单元 回顾 zhi zuo xiao chuan」没有课次；课名重复 ['dan yuan hui gu']。册次：上册。",
+ "units": [
+  {
+   "title": "第一单元 植物的生长",
+   "lessons": [
+    "yang zhi wu",
+    "养植物",
+    "谁的植物长得好",
+    "dan yuan hui gu"
+   ]
+  },
+  {
+   "title": "第1单元 回顾 shui he kong qi",
+   "lessons": []
+  },
+  {
+   "title": "第二单元 水和空气",
+   "lessons": [
+    "shui",
+    "把它们放入水中",
+    "kong c",
+    "空气",
+    "dan vuan hur gu",
+    "單 单元回顾",
+    "chang jian de",
+    "常见的 力",
+    "第三！ 1元 la 力",
+    "勞骨只 5用力",
+    "dan yuan hui gu"
+   ]
+  },
+  {
+   "title": "第2单元 回顾 zhi zuo xiao chuan",
+   "lessons": []
+  },
+  {
+   "title": "第四单元 制作小船",
+   "lessons": [
+    "ren shichuan",
+    "认识船",
+    "设计和制作小船"
+   ]
+  }
+ ]
+}

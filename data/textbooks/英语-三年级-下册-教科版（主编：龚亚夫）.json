@@ -1,0 +1,51 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "教科版（主编：龚亚夫）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 8 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id fe431b88-6bd5-6745-4a08-2e155bb60caa）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 8 页，逐页 OCR 识别，共 9 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Get Up」没有课次；「Unit 2 What a Day!」没有课次；「Unit 3 Plan My Day」没有课次；「Unit 4 Come and Join Us!」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Get Up",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 What a Day!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Plan My Day",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Come and Join Us!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Our Classroom, Our Call",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 I'm on Duty ESPH",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 School Rules",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 A Polite Way",
+   "lessons": []
+  },
+  {
+   "title": "Review Roa d Helper Day",
+   "lessons": [
+    "Word List"
+   ]
+  }
+ ]
+}

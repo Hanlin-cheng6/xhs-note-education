@@ -1,0 +1,70 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "川教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 四年级下册，id 96be5f08-1422-4c0e-8458-88bdbfb3c930）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 12 单元 / 6 课，未经人工逐条校对。⚠ 自动校验存疑：「Module A Colourful School Life」没有课次；「Unit What Time Is It?」没有课次；「Unit 2 What's the Missing Number?」没有课次；「Module B Sweet Home」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Module A Colourful School Life",
+   "lessons": []
+  },
+  {
+   "title": "Unit What Time Is It?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 What's the Missing Number?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Challenge Yourself A",
+   "lessons": [
+    "I Can Run Fast",
+    "The Hare and the Tortoise"
+   ]
+  },
+  {
+   "title": "Module B Sweet Home",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 This Is Our Home",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Where Are My Glasses?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Challenge Yourself B",
+   "lessons": [
+    "Can Do Chores",
+    "Three Little Pigs"
+   ]
+  },
+  {
+   "title": "Module C Our Friendlly World",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7 Where Are You From?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8 Look at the Rainbow!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 9 Challenge Yourself C",
+   "lessons": [
+    "A Book about Our Cities",
+    "The Ladybug"
+   ]
+  }
+ ]
+}

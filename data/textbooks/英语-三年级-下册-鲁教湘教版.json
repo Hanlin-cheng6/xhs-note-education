@@ -1,0 +1,74 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "鲁教湘教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 9b0609aa-2ecc-4de4-9cf7-c7f6f8fdd5dc）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 13 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「school」只有 1 课，可能漏切；「Where is my pen?」没有课次；「My Day」只有 1 课，可能漏切；「My Day」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "school",
+   "lessons": [
+    "Module Language focus"
+   ]
+  },
+  {
+   "title": "Where is my pen?",
+   "lessons": []
+  },
+  {
+   "title": "My Day",
+   "lessons": [
+    "It's on the desk"
+   ]
+  },
+  {
+   "title": "My Day",
+   "lessons": []
+  },
+  {
+   "title": "Can you play football?",
+   "lessons": []
+  },
+  {
+   "title": "We play basketball",
+   "lessons": []
+  },
+  {
+   "title": "Sports",
+   "lessons": []
+  },
+  {
+   "title": "What's your",
+   "lessons": []
+  },
+  {
+   "title": "winter",
+   "lessons": []
+  },
+  {
+   "title": "Favourite",
+   "lessons": []
+  },
+  {
+   "title": "Phonics",
+   "lessons": [
+    "at ap"
+   ]
+  },
+  {
+   "title": "et ed",
+   "lessons": []
+  },
+  {
+   "title": "ix in",
+   "lessons": [
+    "Value: We Like sports",
+    "og ot"
+   ]
+  }
+ ]
+}

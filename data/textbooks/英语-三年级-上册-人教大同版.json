@@ -1,0 +1,27 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "人教大同版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册，id be006a8b-9219-af51-5af4-659a04a2baae）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 3 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Starter page」只有 1 课，可能漏切；「My family」没有课次；「In my schoolbag」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Starter page",
+   "lessons": [
+    "Experience Understand"
+   ]
+  },
+  {
+   "title": "My family",
+   "lessons": []
+  },
+  {
+   "title": "In my schoolbag",
+   "lessons": []
+  }
+ ]
+}

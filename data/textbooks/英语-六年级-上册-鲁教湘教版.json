@@ -1,0 +1,81 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "上册",
+ "version": "鲁教湘教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 六年级上册，id 43947b19-7889-408e-8c36-f8b0bbe68a87）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 14 单元 / 8 课，未经人工逐条校对。⚠ 自动校验存疑：「Were you good at English?」没有课次；「Learning」没有课次；「Learning」没有课次；单元标题不完整「and」。册次：上册。",
+ "units": [
+  {
+   "title": "Were you good at English?",
+   "lessons": []
+  },
+  {
+   "title": "Learning",
+   "lessons": []
+  },
+  {
+   "title": "Learning",
+   "lessons": []
+  },
+  {
+   "title": "and",
+   "lessons": []
+  },
+  {
+   "title": "Helen Keller is",
+   "lessons": [
+    "Yes, I did"
+   ]
+  },
+  {
+   "title": "Why was Lu Xun Q great man?",
+   "lessons": []
+  },
+  {
+   "title": "People",
+   "lessons": []
+  },
+  {
+   "title": "Fresh air is good",
+   "lessons": []
+  },
+  {
+   "title": "Water is Life",
+   "lessons": []
+  },
+  {
+   "title": "Green",
+   "lessons": []
+  },
+  {
+   "title": "Pronunciation Culture corner",
+   "lessons": [
+    "Project Assessmentl",
+    "ing"
+   ]
+  },
+  {
+   "title": "ong",
+   "lessons": [
+    "and becoming progress",
+    "all",
+    "Value: To learn is to grow!",
+    "ed"
+   ]
+  },
+  {
+   "title": "fuL",
+   "lessons": []
+  },
+  {
+   "title": "fuL",
+   "lessons": [
+    "tion"
+   ]
+  }
+ ]
+}

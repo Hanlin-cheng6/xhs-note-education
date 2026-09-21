@@ -1,0 +1,29 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "湘少版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册，id da37ef7f-504d-258a-bb68-6f0f64ec294b）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 1 单元 / 11 课，未经人工逐条校对。册次：上册。",
+ "units": [
+  {
+   "title": "全册课次",
+   "lessons": [
+    "Let's Know More",
+    "Assessment",
+    "Assessment II",
+    "Assessment III",
+    "Vocabulary",
+    "Word List",
+    "Structures",
+    "Some Common Animals",
+    "Alphabet",
+    "Classroom Language",
+    "Formative Assessment"
+   ]
+  }
+ ]
+}

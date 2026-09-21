@@ -1,0 +1,39 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "下册",
+ "version": "外研社版（主编：孙有中）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 八年级下册，id e97b46fe-ed57-9d08-5533-60ff4bb437ae）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 3 课，未经人工逐条校对。⚠ 自动校验存疑：「Career talks」没有课次；「Growing pains and」只有 1 课，可能漏切；「What makes a」没有课次；「Helping out」只有 1 课，可能漏切。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Career talks",
+   "lessons": []
+  },
+  {
+   "title": "Growing pains and",
+   "lessons": [
+    "advice"
+   ]
+  },
+  {
+   "title": "What makes a",
+   "lessons": []
+  },
+  {
+   "title": "Helping out",
+   "lessons": [
+    "the writers' feelings"
+   ]
+  },
+  {
+   "title": "Looking into nature",
+   "lessons": [
+    "writing styles"
+   ]
+  }
+ ]
+}

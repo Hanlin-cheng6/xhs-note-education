@@ -1,0 +1,29 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "下册",
+ "version": "湘少版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级下册，id 4eefac06-5c2c-485b-8085-549df2c6c59d）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 1 单元 / 11 课，未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "全册课次",
+   "lessons": [
+    "Make zongzi",
+    "Let's Know More",
+    "Assessment III",
+    "Let's Read More",
+    "Vocabulary",
+    "Word List",
+    "Structures",
+    "Months of the Year",
+    "Days of the Week",
+    "Numbers",
+    "Formative Assessment"
+   ]
+  }
+ ]
+}

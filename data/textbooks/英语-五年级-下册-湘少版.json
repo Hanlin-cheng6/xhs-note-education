@@ -1,0 +1,94 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "湘少版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 6, 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 853005d6-1a9a-43bb-92c3-9b551d932b66）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6, 7 页，逐页 OCR 识别，共 11 单元 / 27 课，未经人工逐条校对。⚠ 自动校验存疑：课名疑似混入噪声「Unit 一」；「Unit 11」只有 1 课，可能漏切；「Unit 3」没有课次；「Unit 4」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 10",
+   "lessons": [
+    "Unit 一",
+    "Where were",
+    "you yesterday?"
+   ]
+  },
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "to do some research",
+    "Who was first?"
+   ]
+  },
+  {
+   "title": "Unit 11",
+   "lessons": [
+    "We're going"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": []
+  },
+  {
+   "title": "Unit 12",
+   "lessons": [
+    "Let's make a kite",
+    "Where did you go?",
+    "Let's Know More",
+    "Assessment",
+    "Assessment IV",
+    "Let's Read More"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Don't talk here"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "Word List I",
+    "When's your birthday?"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "Word List II",
+    "Structures",
+    "Assessment II",
+    "Countries of the World"
+   ]
+  },
+  {
+   "title": "Unit 7",
+   "lessons": [
+    "Self-Assessment",
+    "There's a",
+    "post",
+    "ofice near my school",
+    "show me the way to the"
+   ]
+  },
+  {
+   "title": "Unit 8 Can you",
+   "lessons": [
+    "Xinhua Hotel?",
+    "He's kind to children"
+   ]
+  },
+  {
+   "title": "Unit 9",
+   "lessons": [
+    "Assessment III"
+   ]
+  }
+ ]
+}

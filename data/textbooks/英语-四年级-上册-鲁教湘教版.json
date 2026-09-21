@@ -1,0 +1,94 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "鲁教湘教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册，id 2b6fb0e1-1a8a-4564-affd-e1320a5854f0）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 15 单元 / 12 课，未经人工逐条校对。⚠ 自动校验存疑：「You Look excited」只有 1 课，可能漏切；「How do you feel?」只有 1 课，可能漏切；「Feelings」只有 1 课，可能漏切；「Be quiet, please!」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "You Look excited",
+   "lessons": [
+    "Module Language focus"
+   ]
+  },
+  {
+   "title": "How do you feel?",
+   "lessons": [
+    "excited"
+   ]
+  },
+  {
+   "title": "Feelings",
+   "lessons": [
+    "am sad./I feel happy"
+   ]
+  },
+  {
+   "title": "Be quiet, please!",
+   "lessons": []
+  },
+  {
+   "title": "Can I swim in the",
+   "lessons": [
+    "Don't eat in the Library"
+   ]
+  },
+  {
+   "title": "Rules",
+   "lessons": []
+  },
+  {
+   "title": "What's the weather",
+   "lessons": []
+  },
+  {
+   "title": "What do you want",
+   "lessons": []
+  },
+  {
+   "title": "Weather",
+   "lessons": [
+    "days"
+   ]
+  },
+  {
+   "title": "Weather",
+   "lessons": []
+  },
+  {
+   "title": "Pronunciation Culture corner",
+   "lessons": [
+    "Project Assessment",
+    "d e"
+   ]
+  },
+  {
+   "title": "ee ea",
+   "lessons": [
+    "feelings"
+   ]
+  },
+  {
+   "title": "ee ea",
+   "lessons": [
+    "Value: Be happy!",
+    "eee"
+   ]
+  },
+  {
+   "title": "Ley",
+   "lessons": [
+    "Value: Be good and keep safe",
+    "oa oW"
+   ]
+  },
+  {
+   "title": "ue ew",
+   "lessons": []
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "清华大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 五年级上册，id e1d92f0a-3eab-4403-a5c4-9c50b17e1cd7）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 4 单元 / 15 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 ['Said Sorry']。册次：上册。",
+ "units": [
+  {
+   "title": "Visiting Great Places",
+   "lessons": [
+    "This is Beijing",
+    "This is the Beach"
+   ]
+  },
+  {
+   "title": "Let's Go Shopping",
+   "lessons": [
+    "This is a Bookstore",
+    "Going Shopping Tomorrow",
+    "Buying Gifts",
+    "Buying Clothes"
+   ]
+  },
+  {
+   "title": "Little Jenny's Diary",
+   "lessons": [
+    "We Went Biking",
+    "We Went to the Park",
+    "Unit Three We Walked the Dog",
+    "Said Sorry"
+   ]
+  },
+  {
+   "title": "How Much do You Know?",
+   "lessons": [
+    "Said Sorry",
+    "We Had a Talent Show",
+    "The Sun is a Star",
+    "The Earth is a Planet",
+    "Travel to Space"
+   ]
+  }
+ ]
+}

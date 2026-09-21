@@ -1,0 +1,41 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "沪教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语四年级上册，id bcbf979a-3027-d32b-4c71-44a063549cd8）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 7 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「Where do people live?」没有课次；「How do we use numbers?」没有课次；「What do we buy?」没有课次；「How are the seasons different?」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Where do people live?",
+   "lessons": []
+  },
+  {
+   "title": "How do we use numbers?",
+   "lessons": []
+  },
+  {
+   "title": "What do we buy?",
+   "lessons": []
+  },
+  {
+   "title": "How are the seasons different?",
+   "lessons": []
+  },
+  {
+   "title": "What's amazing about plants?",
+   "lessons": []
+  },
+  {
+   "title": "How do we keep safe on the road?",
+   "lessons": []
+  },
+  {
+   "title": "What do our grandparents do?",
+   "lessons": []
+  }
+ ]
+}

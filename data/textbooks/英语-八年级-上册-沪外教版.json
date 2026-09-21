@@ -1,0 +1,25 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "上册",
+ "version": "沪外教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语八年级上册，id ce303c14-ba79-a2f5-7819-1ef12fb74479）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 3 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「Great people and their」没有课次；「Old news」没有课次；「What is a pandemic?」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Great people and their",
+   "lessons": []
+  },
+  {
+   "title": "Old news",
+   "lessons": []
+  },
+  {
+   "title": "What is a pandemic?",
+   "lessons": []
+  }
+ ]
+}

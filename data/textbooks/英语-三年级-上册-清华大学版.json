@@ -1,0 +1,51 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "清华大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级上册，id 6b773562-c248-d10d-e564-4102d7adafca）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 4 单元 / 18 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 ['Dream of Swimming']。册次：上册。",
+ "units": [
+  {
+   "title": "My English Class",
+   "lessons": [
+    "Hello!",
+    "How are You?",
+    "Good Morning!"
+   ]
+  },
+  {
+   "title": "Making Friends",
+   "lessons": [
+    "Good Manners",
+    "Introducing Each Other",
+    "Getting to Know Each Other",
+    "Friends Go Together",
+    "Introducing Friends"
+   ]
+  },
+  {
+   "title": "I Dream of",
+   "lessons": [
+    "Dream of Flying",
+    "Dream of Jumping",
+    "Unit Three Dream of Driving",
+    "Dream of Swimming"
+   ]
+  },
+  {
+   "title": "Speial Days",
+   "lessons": [
+    "Dream of Swimming",
+    "Dream of Climbing",
+    "Happy Teachers' Day!",
+    "Happy National Day!",
+    "Unit Four Merry Christmas!",
+    "Happy New Year!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "上册",
+ "version": "沪教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语八年级上册，id 90442b57-1067-ae52-9aa6-92fdcc4b8589）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「What can we learn from」没有课次；「Our digital lives」只有 1 课，可能漏切；课名重复 ['Key question:']。册次：上册。",
+ "units": [
+  {
+   "title": "What can we learn from",
+   "lessons": []
+  },
+  {
+   "title": "What is the role of numbers",
+   "lessons": [
+    "Key question:",
+    "in our daily lives?"
+   ]
+  },
+  {
+   "title": "Our digital lives",
+   "lessons": [
+    "adjectives (p.41)"
+   ]
+  },
+  {
+   "title": "How has digital technology",
+   "lessons": [
+    "Key question:",
+    "changed our lives?"
+   ]
+  }
+ ]
+}

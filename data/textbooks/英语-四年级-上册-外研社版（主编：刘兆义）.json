@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "外研社版（主编：刘兆义）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 四年级上册，id cf593196-d7db-8090-2b1a-116a356dfde6）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 6 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Love sports!」没有课次；「Unit 2 In town」没有课次；「Unit 3 Cool jobs」没有课次；「Unit 4 Let's shop!」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Love sports!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 In town",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Cool jobs",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Let's shop!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Shapes are fun!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Our animal friends",
+   "lessons": [
+    "More activities",
+    "Plays",
+    "Words and expressions",
+    "Vocabulary",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "粤教沪外教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id 77b17524-9682-4f9e-b1b1-6f15deea9649）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4 页，逐页 OCR 识别，共 5 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「My body」没有课次；「What school rules do you have?」没有课次；「What food is good forus?」没有课次；「We love animals」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "My body",
+   "lessons": []
+  },
+  {
+   "title": "What school rules do you have?",
+   "lessons": []
+  },
+  {
+   "title": "What food is good forus?",
+   "lessons": []
+  },
+  {
+   "title": "We love animals",
+   "lessons": []
+  },
+  {
+   "title": "How can I take care of my pet?",
+   "lessons": [
+    "Pets and me"
+   ]
+  }
+ ]
+}

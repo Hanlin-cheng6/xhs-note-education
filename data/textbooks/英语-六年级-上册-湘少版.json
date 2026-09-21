@@ -1,0 +1,31 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "上册",
+ "version": "湘少版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 六年级上册，id cdee1c54-de3d-4556-adc1-0671680f335a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 1 单元 / 13 课，未经人工逐条校对。⚠ 自动校验存疑：课名过长疑似粘行「Practise the 3R'…」。册次：上册。",
+ "units": [
+  {
+   "title": "全册课次",
+   "lessons": [
+    "Have good habits",
+    "Let's Know More",
+    "Assessment",
+    "Assessment Il",
+    "Practise the 3R's in your daily life",
+    "together",
+    "Assessment III",
+    "Let's Read More",
+    "Vocabulary",
+    "Word List",
+    "Structures",
+    "Verbs",
+    "Songs"
+   ]
+  }
+ ]
+}

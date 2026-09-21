@@ -1,0 +1,43 @@
+{
+ "subject": "英语",
+ "grade": "八年级",
+ "volume": "上册",
+ "version": "外研社版（主编：孙有中）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 八年级上册，id 4631365b-5647-850e-5956-ca29c27a1d16）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 5 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「This is me」只有 1 课，可能漏切；「Getting along」只有 1 课，可能漏切；「Make it happen!」只有 1 课，可能漏切；「Digital life」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "This is me",
+   "lessons": [
+    "your ideas with examples"
+   ]
+  },
+  {
+   "title": "Getting along",
+   "lessons": [
+    "before drawing a conclusion"
+   ]
+  },
+  {
+   "title": "Make it happen!",
+   "lessons": [
+    "the influence of something"
+   ]
+  },
+  {
+   "title": "Digital life",
+   "lessons": [
+    "about reasons"
+   ]
+  },
+  {
+   "title": "Play by the rules?",
+   "lessons": [
+    "follow-up of a story"
+   ]
+  }
+ ]
+}

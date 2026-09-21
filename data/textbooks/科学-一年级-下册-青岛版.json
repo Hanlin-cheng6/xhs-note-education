@@ -1,0 +1,43 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "青岛版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学一年级下册，id bb1d5d4c-8bb2-4b4a-8ad3-2a57bd4fd998）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 2 单元 / 20 课，未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 常见的材料",
+   "lessons": [
+    "shi tou",
+    "石头",
+    "mu tou",
+    "木头",
+    "銎罵",
+    "su lico",
+    "塑料",
+    "zuo ni su",
+    "chang jian de dong wu",
+    "di er don yuon",
+    "常见的动物"
+   ]
+  },
+  {
+   "title": "第二单元 认识动物",
+   "lessons": [
+    "ren shi dong w",
+    "dong wi de yon jing",
+    "动物的眼睛",
+    "dong wu de er duo",
+    "动物的耳朵",
+    "dong wu de",
+    "动物的鼻子",
+    "yang wo nid",
+    "养蜗牛"
+   ]
+  }
+ ]
+}

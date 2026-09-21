@@ -1,0 +1,58 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "上册",
+ "version": "大象社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•科学一年级上册，id bd625fcd-e083-460c-ae3b-c50a9840c48e）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 25 课，另有 1 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：上册。",
+ "units": [
+  {
+   "title": "第一单元 感官兄弟",
+   "lessons": [
+    "ti yan danyudn huama yi",
+    "体验单元 画蚂蚁",
+    "辨别真假水果",
+    "gan guan de ben ling",
+    "感官的本领",
+    "shui guo fen xiang hui",
+    "血悦",
+    "水果分享会"
+   ]
+  },
+  {
+   "title": "第二单元 观察常见的动物",
+   "lessons": [
+    "guan cha tu zi",
+    "观察兔子",
+    "chang jian de dong wi",
+    "常见的动物",
+    "wo xi huan de dong wu",
+    "3我喜欢的动物"
+   ]
+  },
+  {
+   "title": "第三单元 我在哪里",
+   "lessons": [
+    "qian hou zuo you",
+    "前后左右",
+    "dong nan xi bei",
+    "2东南西北",
+    "太阳的位置变化"
+   ]
+  },
+  {
+   "title": "第四单元 多变的月亮",
+   "lessons": [
+    "yue liang shen me yang",
+    "月亮什么样",
+    "yue liang bian lion",
+    "月亮“变脸”",
+    "bai tian he ye wan",
+    "白天和夜晚"
+   ]
+  }
+ ]
+}

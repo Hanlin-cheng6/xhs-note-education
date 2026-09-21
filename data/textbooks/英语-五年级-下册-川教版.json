@@ -1,0 +1,35 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "川教版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id ac2f99d6-d609-4b5e-8a46-369898eaf0c4）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 3 单元 / 7 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 2」只有 1 课，可能漏切。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "We Love Nature",
+    "Lesson 1 Planting Trees",
+    "Self-assessment"
+   ]
+  },
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Four Seasons"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "A Birthday Party",
+    "Word List",
+    "Vocabulary"
+   ]
+  }
+ ]
+}

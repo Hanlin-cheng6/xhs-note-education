@@ -1,0 +1,45 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "外研社版（主编：孙有中）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 三年级下册，id 9b2c031b-fa86-26a5-65e0-247b5c44bc98）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 6 单元 / 6 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Animal friends」没有课次；「Unit 2 Know your body」没有课次；「Unit 3」只有 1 课，可能漏切；「Unit 4 What's your hobby?」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 1 Animal friends",
+   "lessons": []
+  },
+  {
+   "title": "Unit 2 Know your body",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "Yummy food"
+   ]
+  },
+  {
+   "title": "Unit 4 What's your hobby?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 What time is it?",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 A great week",
+   "lessons": [
+    "Appendices",
+    "Plays",
+    "Words and expressions",
+    "Word list",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

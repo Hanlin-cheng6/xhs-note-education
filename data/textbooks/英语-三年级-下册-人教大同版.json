@@ -1,0 +1,31 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "人教大同版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 三年级 下册，id 4e8f8b48-72af-e009-9928-9ced0d6d97c3）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 1 课，未经人工逐条校对。⚠ 自动校验存疑：「Starter page」只有 1 课，可能漏切；「Dream toys」没有课次；「Actions」没有课次；「STEAM ahead」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Starter page",
+   "lessons": [
+    "Experience Understand"
+   ]
+  },
+  {
+   "title": "Dream toys",
+   "lessons": []
+  },
+  {
+   "title": "Actions",
+   "lessons": []
+  },
+  {
+   "title": "STEAM ahead",
+   "lessons": []
+  }
+ ]
+}

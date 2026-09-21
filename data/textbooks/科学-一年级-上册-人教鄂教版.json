@@ -1,0 +1,54 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "上册",
+ "version": "人教鄂教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学一年级上册，id 64e96b25-9c23-498a-91da-c63e1ef531c7）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 22 课，未经人工逐条校对。⚠ 自动校验存疑：课名疑似混入噪声「guan 我们 怎」；课名疑似混入噪声「E州 mao 猫」；「第1单元 回顾 shi yong gong 沁」没有课次；课名疑似混入噪声「e号米写乘喜科 uan hui 9u 回 顾」。册次：上册。",
+ "units": [
+  {
+   "title": "第一单元 东动",
+   "lessons": [
+    "ou dao weng",
+    "不 倒 翁",
+    "zen yang xue ke xue",
+    "怎样学科学",
+    "gu",
+    "幸党留 回顾"
+   ]
+  },
+  {
+   "title": "第二单元 我们的感 汽 宽器官",
+   "lessons": [
+    "wo men yang zhi ddo",
+    "guan 我们 怎",
+    "jia yang dong wi",
+    "第三 自元 家养动物",
+    "tu",
+    "E州 mao 猫",
+    "de ja yang dong wi",
+    "多的家养动物",
+    "dan yuan hui gu"
+   ]
+  },
+  {
+   "title": "第1单元 回顾 shi yong gong 沁",
+   "lessons": []
+  },
+  {
+   "title": "第四单元 使用工具",
+   "lessons": [
+    "chang jian de gong ju",
+    "常见的 工具",
+    "chai zhuang wan",
+    "玩 具",
+    "bei dian",
+    "作杯 垫",
+    "e号米写乘喜科 uan hui 9u 回 顾"
+   ]
+  }
+ ]
+}

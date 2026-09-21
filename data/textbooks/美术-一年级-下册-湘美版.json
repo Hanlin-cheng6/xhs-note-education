@@ -1,0 +1,103 @@
+{
+ "subject": "美术",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "湘美版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•艺术•美术一年级下册，id eace24ed-dbe2-42fe-a072-63a9291cd71e）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 10 单元 / 44 课，未经人工逐条校对。⚠ 自动校验存疑：「第一单元 走进自然」没有课次；「第二单元 我爱我家」没有课次；「第三单元 动物故事」没有课次；「第五单元 生活的变化」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "da shu de muyang",
+   "lessons": [
+    "大树的模样",
+    "hua duo zhi mei",
+    "花朵之美",
+    "ke ai de xido nido",
+    "可爱的小鸟",
+    "duichen de yu xing",
+    "对称的鱼形",
+    "zi ran qu shi",
+    "自然趣事"
+   ]
+  },
+  {
+   "title": "song ni yi shu hua",
+   "lessons": [
+    "送你一東花",
+    "xido xido gud shi",
+    "小小挂饰",
+    "da ban xiang kuang",
+    "打扮相框",
+    "wo jid de chuang lian",
+    "我家的窗帘",
+    "wo de xido shi iie",
+    "我的小世界"
+   ]
+  },
+  {
+   "title": "第一单元 走进自然",
+   "lessons": []
+  },
+  {
+   "title": "第二单元 我爱我家",
+   "lessons": []
+  },
+  {
+   "title": "xido wo nid man man pa",
+   "lessons": [
+    "小蜗牛慢慢爬",
+    "dong wu hui jia",
+    "动物回家",
+    "meihouwang",
+    "美猴王",
+    "di xia wang guo",
+    "地下王国",
+    "xico xido gu shihui",
+    "小小故事会"
+   ]
+  },
+  {
+   "title": "ruan mian mian de yun",
+   "lessons": [
+    "软绵绵的云",
+    "bai tian heiye",
+    "白天黑夜",
+    "wo zhang gao le",
+    "我长高了",
+    "huan yi shang",
+    "换衣裳",
+    "shou xing tian hua",
+    "手形添画"
+   ]
+  },
+  {
+   "title": "sheng ri dan gao",
+   "lessons": [
+    "生日蛋糕",
+    "tiao wu ba",
+    "跳舞吧",
+    "za ji gao shou",
+    "杂技高手"
+   ]
+  },
+  {
+   "title": "第三单元 动物故事",
+   "lessons": []
+  },
+  {
+   "title": "第四单元 快乐的时光",
+   "lessons": [
+    "比赛开始了",
+    "mian ju you xi",
+    "面具游戏"
+   ]
+  },
+  {
+   "title": "第五单元 生活的变化",
+   "lessons": []
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "subject": "英语",
+ "grade": "九年级",
+ "volume": "上册",
+ "version": "沪教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语九年级上册，id b1a19b7a-5a7f-4d0e-9f9d-b5e59dafc979）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 10 单元 / 5 课，未经人工逐条校对。⚠ 自动校验存疑：「How did great people」只有 1 课，可能漏切；「Family traditions」没有课次；「Family traditions」没有课次；「Expressing and」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "How did great people",
+   "lessons": [
+    "contribute to our society?"
+   ]
+  },
+  {
+   "title": "Family traditions",
+   "lessons": []
+  },
+  {
+   "title": "Family traditions",
+   "lessons": []
+  },
+  {
+   "title": "Why are family traditions",
+   "lessons": [
+    "Key question:",
+    "important?"
+   ]
+  },
+  {
+   "title": "Expressing and",
+   "lessons": []
+  },
+  {
+   "title": "Expressing",
+   "lessons": []
+  },
+  {
+   "title": "Talking about",
+   "lessons": []
+  },
+  {
+   "title": "Writing an advice",
+   "lessons": []
+  },
+  {
+   "title": "giving advice",
+   "lessons": [
+    "problems"
+   ]
+  },
+  {
+   "title": "giving advice",
+   "lessons": [
+    "politely (p. 59) problems"
+   ]
+  }
+ ]
+}

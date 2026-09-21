@@ -1,0 +1,62 @@
+{
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "教科版（主编：龚亚夫）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册，id 318b43d8-f721-ca1b-2aad-17325edc9b41）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 6 页，逐页 OCR 识别，共 8 单元 / 11 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1」只有 1 课，可能漏切；「Unit 2 Help Yourself」没有课次；「Unit 3」只有 1 课，可能漏切；「Unit 4」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1",
+   "lessons": [
+    "Come on In!"
+   ]
+  },
+  {
+   "title": "Unit 2 Help Yourself",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "I'm the Chef Today!"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Help Out in the Kitchen"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "She Helps Me a Lot"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "LLove My Family",
+    "1子出版社",
+    "ESPH"
+   ]
+  },
+  {
+   "title": "Unit 7 Family Time",
+   "lessons": []
+  },
+  {
+   "title": "Unit 8",
+   "lessons": [
+    "Joy in the Air",
+    "Review Happy New Year!",
+    "Questions and Answers",
+    "Word List"
+   ]
+  }
+ ]
+}

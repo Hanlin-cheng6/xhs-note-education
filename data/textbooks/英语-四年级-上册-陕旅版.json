@@ -1,93 +1,61 @@
 {
-  "subject": "英语",
-  "grade": "四年级",
-  "volume": "上册",
-  "version": "陕旅版",
-  "edition": "2024课标修订版（封面标2024，2025秋启用），陕西旅游出版社；学生用书 ISBN 未查到",
-  "source": "电子课本网 dzkbw.com/books/slb/yingyu/4s_2025；课本内页实拍（陕西旅游出版社）；英语朗读宝",
-  "confidence": "medium",
-  "note": "⚠ 存在来源冲突：国家中小学智慧教育平台当前仍托管旧版（Unit 1 What Is Your Father? / Unit 2 What Do They Have on the Farm? / … / Unit 8 Boys Like to Play Ball），而电子课本网及实拍课本显示已换 2024课标新版（Unit 1 Our Classroom …）。建议以当地教育局2025秋教科书选用公告终核。旧版与新版板块均为 Part A: Let’s talk / Let’s learn / Part B: Let’s read / Let’s spell & Fun time。",
-  "units": [
-    {
-      "title": "Unit 1 Our Classroom",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Let’s spell & Fun time"
-      ]
-    },
-    {
-      "title": "Unit 2 Our House",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Fun time"
-      ]
-    },
-    {
-      "title": "Unit 3 I Come to School on Foot",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Let’s spell & Fun time"
-      ]
-    },
-    {
-      "title": "Unit 4 Follow the Rules",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Fun time"
-      ]
-    },
-    {
-      "title": "Review 1（Units 1–4）",
-      "lessons": []
-    },
-    {
-      "title": "Unit 5 We Have Chinese in the Morning",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Let’s spell & Fun time"
-      ]
-    },
-    {
-      "title": "Unit 6 What Day Is It Today?",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Fun time"
-      ]
-    },
-    {
-      "title": "Unit 7 It’s Time to Get Up",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Let’s spell & Fun time"
-      ]
-    },
-    {
-      "title": "Unit 8 Early to Bed and Early to Rise",
-      "lessons": [
-        "Part A: Let’s talk",
-        "Part A: Let’s learn",
-        "Part B: Let’s read",
-        "Fun time"
-      ]
-    },
-    {
-      "title": "Review 2（Units 5–8）",
-      "lessons": []
-    }
-  ],
-  "verifiedAt": "2026-09-10"
+ "subject": "英语",
+ "grade": "四年级",
+ "volume": "上册",
+ "version": "陕旅版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 四年级上册，id 3ae6c62c-da37-4a15-81aa-21904714122a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 7 单元 / 14 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 5」没有课次；「Unit 6」只有 1 课，可能漏切；「Unit 7」只有 1 课，可能漏切。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Our Classroom",
+    "Unit",
+    "Our House"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "I Come to School on Foot",
+    "Follow the Rules"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "Review",
+    "Units 1~"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6",
+   "lessons": [
+    "What Day Is It Today?"
+   ]
+  },
+  {
+   "title": "Unit 7",
+   "lessons": [
+    "It's Time to Get Up"
+   ]
+  },
+  {
+   "title": "Unit 8",
+   "lessons": [
+    "Units 5~",
+    "Words in Each Unit",
+    "Vocabulary",
+    "Appendix",
+    "Appendix Il"
+   ]
+  }
+ ]
 }

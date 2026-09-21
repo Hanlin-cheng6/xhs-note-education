@@ -1,0 +1,63 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "下册",
+ "version": "陕旅版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语三年级下册，id be8c0003-c9a7-474a-ac1c-f9b41abae273）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 7 单元 / 16 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 3」只有 1 课，可能漏切；「Unit 5」只有 1 课，可能漏切；「Unit 6」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Unit 2",
+   "lessons": [
+    "Unit",
+    "This Is My Face",
+    "These Are My Legs"
+   ]
+  },
+  {
+   "title": "Unit 3",
+   "lessons": [
+    "I Love My Family"
+   ]
+  },
+  {
+   "title": "Unit 4",
+   "lessons": [
+    "My Mother Is a Doctor",
+    "Review",
+    "Units 1~",
+    "The Cookies Are Nice"
+   ]
+  },
+  {
+   "title": "Unit 5",
+   "lessons": [
+    "She Likes Fruits"
+   ]
+  },
+  {
+   "title": "Unit 6",
+   "lessons": []
+  },
+  {
+   "title": "Unit 7",
+   "lessons": [
+    "The Pet Is Lovely",
+    "Animals Are Our Friends"
+   ]
+  },
+  {
+   "title": "Unit 8",
+   "lessons": [
+    "Units 5~",
+    "Words in Each Unit",
+    "Vocabulary",
+    "Appendix",
+    "Appendix I"
+   ]
+  }
+ ]
+}

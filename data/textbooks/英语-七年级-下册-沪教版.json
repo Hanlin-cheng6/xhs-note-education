@@ -1,0 +1,60 @@
+{
+ "subject": "英语",
+ "grade": "七年级",
+ "volume": "下册",
+ "version": "沪教版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语七年级下册，id 65a59980-6e5c-7f76-82e8-ab16222baafb）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 10 单元 / 4 课，未经人工逐条校对。⚠ 自动校验存疑：「People around us」只有 1 课，可能漏切；「People around us」没有课次；「Travelling around」没有课次；「Why do we need trees?」没有课次。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "People around us",
+   "lessons": [
+    "Reading Listening Grammar"
+   ]
+  },
+  {
+   "title": "People around us",
+   "lessons": []
+  },
+  {
+   "title": "Why are some people in",
+   "lessons": [
+    "Key question:",
+    "your life important?"
+   ]
+  },
+  {
+   "title": "Travelling around",
+   "lessons": []
+  },
+  {
+   "title": "Why do we need trees?",
+   "lessons": []
+  },
+  {
+   "title": "Expressing and",
+   "lessons": []
+  },
+  {
+   "title": "Talking about travel plans",
+   "lessons": [
+    "you (p. 17)"
+   ]
+  },
+  {
+   "title": "Writing a script",
+   "lessons": []
+  },
+  {
+   "title": "for a live report on",
+   "lessons": []
+  },
+  {
+   "title": "Talking about farm animals",
+   "lessons": []
+  }
+ ]
+}

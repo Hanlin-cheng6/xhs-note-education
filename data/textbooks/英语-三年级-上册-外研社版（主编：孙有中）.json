@@ -1,0 +1,45 @@
+{
+ "subject": "英语",
+ "grade": "三年级",
+ "volume": "上册",
+ "version": "外研社版（主编：孙有中）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 7 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语 三年级上册，id edb32f67-1cf7-94d6-0626-e14dc08b377a）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 7 页，逐页 OCR 识别，共 6 单元 / 6 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Let's be friends!」只有 1 课，可能漏切；「Unit 2 My school things」没有课次；「Unit 3 It's a colourful world!」没有课次；「Unit 4 Fun with numbers」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Let's be friends!",
+   "lessons": [
+    "Welcome to school"
+   ]
+  },
+  {
+   "title": "Unit 2 My school things",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 It's a colourful world!",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Fun with numbers",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 We're family",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 My sweet home",
+   "lessons": [
+    "Appendices",
+    "Plarys",
+    "Words and expressions",
+    "Word list",
+    "Proper nouns"
+   ]
+  }
+ ]
+}

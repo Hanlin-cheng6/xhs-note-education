@@ -1,0 +1,42 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "上册",
+ "version": "人教版（主编：吴欣）",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书•英语 五年级上册，id 9f1cda77-2dc7-442b-82f1-97243f7ec39d）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 6 单元 / 3 课，未经人工逐条校对。⚠ 自动校验存疑：「Unit 1 Different friends」只有 1 课，可能漏切；「Unit 2 My feelings」没有课次；「Unit 3 Work and play」没有课次；「Unit 4 Healthy habits」没有课次。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Different friends",
+   "lessons": [
+    "Contents"
+   ]
+  },
+  {
+   "title": "Unit 2 My feelings",
+   "lessons": []
+  },
+  {
+   "title": "Unit 3 Work and play",
+   "lessons": []
+  },
+  {
+   "title": "Unit 4 Healthy habits",
+   "lessons": []
+  },
+  {
+   "title": "Unit 5 Food we eat",
+   "lessons": []
+  },
+  {
+   "title": "Unit 6 Nature and us",
+   "lessons": [
+    "Appendix 1 Songs",
+    "Appendix 3 Vocabulary"
+   ]
+  }
+ ]
+}

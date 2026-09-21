@@ -1,0 +1,59 @@
+{
+ "subject": "科学",
+ "grade": "一年级",
+ "volume": "下册",
+ "version": "大象社版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·科学一年级下册，id f05e6878-15c4-4caa-a320-82598fff0811）",
+ "verifiedAt": "2026-09-14",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 26 课，另有 1 个单元附属板块（单元小结/科学阅读等，未计入课次），未经人工逐条校对。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "第一单元 水",
+   "lessons": [
+    "体验单元冷热与温度",
+    "di yi dan yuan shur",
+    "zuo yi ge xido shui che",
+    "做一个小水车",
+    "yun shui bi sdi",
+    "运水比赛",
+    "shui de te zheng",
+    "水的特征",
+    "di er dan yudn kong qi"
+   ]
+  },
+  {
+   "title": "第二单元 空气",
+   "lessons": [
+    "kong ping bu kong",
+    "空瓶不空",
+    "zhoo kong qi",
+    "找空气",
+    "kong qi de te zheng",
+    "空气的特征"
+   ]
+  },
+  {
+   "title": "第三单元 认识身边的植物",
+   "lessons": [
+    "ren shi xido mdi",
+    "认识小麦",
+    "常见植物的特征",
+    "shi bie zhi wu",
+    "识别植物"
+   ]
+  },
+  {
+   "title": "第四单元 神 奇的磁铁",
+   "lessons": [
+    "i tie neng xi shen me",
+    "磁铁能吸什么",
+    "ge kong xi tie",
+    "隔空吸铁",
+    "ci tie you xi",
+    "磁铁游戏"
+   ]
+  }
+ ]
+}

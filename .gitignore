@@ -8,6 +8,9 @@ data/history.json
 node_modules/
 *.log
 
+# ===== 目录库的历史备份 / 中间产物（内容已合并进 data/textbooks，不提交）=====
+data/_*_old/
+
 # ===== WorkBuddy 本地工作数据（含个人工作日志/路径）=====
 .workbuddy/
 

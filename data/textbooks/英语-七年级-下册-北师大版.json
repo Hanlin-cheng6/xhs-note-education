@@ -1,0 +1,69 @@
+{
+ "subject": "英语",
+ "grade": "七年级",
+ "volume": "下册",
+ "version": "北师大版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语七年级下册，id 7901c4be-a21e-49b4-afe8-793e29be5fad）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 6 单元 / 26 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 ['Unit Summary p', 'Study Help p', 'Check Your Progress p']。册次：下册（已换2022课标新版）。",
+ "units": [
+  {
+   "title": "Project My Life, My World p",
+   "lessons": [
+    "Check Your Progress p",
+    "Study Help p"
+   ]
+  },
+  {
+   "title": "Unit 2 Food and Health",
+   "lessons": [
+    "Topic Talk p",
+    "L1 Lunchtime p",
+    "Eat Well! p",
+    "Food and drinks",
+    "Sentence structure p",
+    "World p",
+    "RC2 Easy-Peasy Food p"
+   ]
+  },
+  {
+   "title": "Project My Dish! p",
+   "lessons": [
+    "Check Your Progress p",
+    "Unit Summary p",
+    "Study Help p"
+   ]
+  },
+  {
+   "title": "Project Wea ther Broadcast p",
+   "lessons": [
+    "Check Your Progress p",
+    "Study Help p"
+   ]
+  },
+  {
+   "title": "Unit 4 Landmarks",
+   "lessons": [
+    "Topic Talk p",
+    "L2 Exploring London p",
+    "Landmarks in China p",
+    "landmarks",
+    "Be going to (1) p",
+    "Be going to (2) p",
+    "Adjectives(1) p",
+    "RC 1 Yuanmingyuan p"
+   ]
+  },
+  {
+   "title": "Project Lan dmarks You Can't",
+   "lessons": [
+    "Miss! p",
+    "Check Your Progress p",
+    "Unit Summary p",
+    "Study Help p"
+   ]
+  }
+ ]
+}

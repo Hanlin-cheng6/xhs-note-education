@@ -1,0 +1,29 @@
+{
+ "subject": "英语",
+ "grade": "五年级",
+ "volume": "下册",
+ "version": "科普版",
+ "edition": "2022课标修订前版本（旧版）；目录取自官方电子教材扫描件第 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （义务教育教科书·英语（三年级起点）五年级下册，id 54e434c1-5efe-4997-b2b1-50d31902b792）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 5 页，逐页 OCR 识别，共 4 单元 / 0 课，未经人工逐条校对。⚠ 自动校验存疑：「Lesson I May I speak to Mary?」没有课次；「Lesson 4 Where do you live?」没有课次；「Lesson 5 What do you do?」没有课次；「Lesson 7 It's seven thirty-five」没有课次。册次：下册（2022课标新版要到2027春才出，此处为现行旧版）。⚠ 该册尚未换 2022 课标新版，属过渡期教材。",
+ "units": [
+  {
+   "title": "Lesson I May I speak to Mary?",
+   "lessons": []
+  },
+  {
+   "title": "Lesson 4 Where do you live?",
+   "lessons": []
+  },
+  {
+   "title": "Lesson 5 What do you do?",
+   "lessons": []
+  },
+  {
+   "title": "Lesson 7 It's seven thirty-five",
+   "lessons": []
+  }
+ ]
+}

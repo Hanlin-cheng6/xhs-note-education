@@ -1,0 +1,23 @@
+{
+ "subject": "英语",
+ "grade": "七年级",
+ "volume": "上册",
+ "version": "科普版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 5, 6 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书 英语七年级上册，id 4360e8a1-7e94-34ab-eeaa-57819834b24b）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "high",
+ "note": "目录来源：官方电子教材扫描件第 5, 6 页，逐页 OCR 识别，共 1 单元 / 5 课，未经人工逐条校对。册次：上册。",
+ "units": [
+  {
+   "title": "Unit 1 Let's Be",
+   "lessons": [
+    "Friends!",
+    "Meet My",
+    "Family!",
+    "Our Colorful",
+    "School Life"
+   ]
+  }
+ ]
+}

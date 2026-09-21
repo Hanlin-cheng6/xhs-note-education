@@ -1,0 +1,49 @@
+{
+ "subject": "英语",
+ "grade": "六年级",
+ "volume": "上册",
+ "version": "清华大学版",
+ "edition": "根据2022年版课程标准修订（新课标版）；目录取自官方电子教材扫描件第 4, 5 页",
+ "source": "国家中小学智慧教育平台电子教材 （（根据2022年版课程标准修订）义务教育教科书·英语 六年级上册，id 0dd63a9b-06e7-48ea-ac29-a356178dd842）",
+ "verifiedAt": "2026-09-15",
+ "confidence": "medium",
+ "note": "目录来源：官方电子教材扫描件第 4, 5 页，逐页 OCR 识别，共 4 单元 / 16 课，未经人工逐条校对。⚠ 自动校验存疑：课名重复 ['New Year']。册次：上册。",
+ "units": [
+  {
+   "title": "Come and Meet",
+   "lessons": [
+    "I'm from China",
+    "I'm from the U.S",
+    "Our Friends I'm from Canada"
+   ]
+  },
+  {
+   "title": "Animals and Science",
+   "lessons": [
+    "I'm from the UK",
+    "Fish and Science",
+    "Birds and Science",
+    "Owls and Science",
+    "Bats and Science"
+   ]
+  },
+  {
+   "title": "Wonderful Holidays",
+   "lessons": [
+    "Teachers' Day",
+    "Moon Festival",
+    "Unit Three Christmas",
+    "New Year"
+   ]
+  },
+  {
+   "title": "Life Lessons We",
+   "lessons": [
+    "New Year",
+    "Chinese New Year",
+    "The Lion and the Mouse",
+    "The Ant and the Dove"
+   ]
+  }
+ ]
+}
