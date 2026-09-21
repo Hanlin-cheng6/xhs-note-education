@@ -3,110 +3,55 @@
   "grade": "六年级",
   "volume": "上册",
   "version": "译林版",
-  "edition": "⚠ 未能确认是否已出 2022 课标新版；当前联网目录与 2012 课标版一致，故先按现版入库",
-  "source": "学科网译林版(三起)六年级上册电子课本（含 basic.smartedu.cn 链接）；电子课本网；教习网译林版六上目录",
-  "confidence": "medium",
-  "note": "⚠ 学科网将该册标注为「译林版(三起)(2012)」，网查目录与长期使用的 2012 课标版完全一致。**未能确认译林社是否已为 2026 秋推出结构不同的 2022 课标新版六上**——而一、三、四年级的译林版均已换新版，五、六上未见新版来源。建议向译林社或江苏教育厅核实 2026 秋实际用书；若你确认已换版，请告知，我立即替换。每单元含 Story time / Grammar / Fun time / Sound time / Culture time / Cartoon time。",
+  "edition": "2024课标修订版（译林版·牛津译林 六年级上册，2026秋启用）；版次与ISBN以版权页为准",
+  "source": "电子课本网「译林版六年级英语上册(2026秋版)」目录页(dzkbw.com/books/yilin/yingyu/6a_2026/033.htm)；句会了英语《【译林版】六年级上册(2026秋版)》课时列表(juhuile.com/packages/k12_yilin_g6)",
+  "confidence": "high",
+  "note": "⚠️ 2026-09-21 校审替换：原入库数据为 2012 课标旧版（Unit 1 The king's new clothes / Unit 2 What a day! / Unit 3 Holiday fun / Unit 4 Then and now / Project 1 A holiday album / Unit 5 Signs / Unit 6 Keep our city clean / Unit 7 Protect the Earth / Unit 8 Chinese New Year / Project 2 Reuse and recycle），旧单元主题全部作废。已确认译林社 2026 秋推出 2024 课标新版六上，8 个单元主题全部重构，并保留两个 Project 板块。⚠ 新版每单元内部板块（Story time / Grammar time 等）尚未从权威来源取到细化结构，本条目先录到单元级，使用前建议对照课本实物补充课次。",
   "units": [
     {
-      "title": "Unit 1 The king’s new clothes",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
-    },
-    {
-      "title": "Unit 2 What a day!",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
-    },
-    {
-      "title": "Unit 3 Holiday fun",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
-    },
-    {
-      "title": "Unit 4 Then and now",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
-    },
-    {
-      "title": "Project 1 A holiday album",
+      "title": "Unit 1 Try your best",
       "lessons": []
     },
     {
-      "title": "Unit 5 Signs",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
+      "title": "Unit 2 Honesty",
+      "lessons": []
     },
     {
-      "title": "Unit 6 Keep our city clean",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
+      "title": "Unit 3 Great people",
+      "lessons": []
     },
     {
-      "title": "Unit 7 Protect the Earth",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
+      "title": "Unit 4 Getting together",
+      "lessons": []
     },
     {
-      "title": "Unit 8 Chinese New Year",
-      "lessons": [
-        "Story time",
-        "Grammar",
-        "Fun time",
-        "Sound time",
-        "Culture time",
-        "Cartoon time"
-      ]
+      "title": "Project 1 A better me",
+      "lessons": []
     },
     {
-      "title": "Project 2 Reuse and recycle",
-      "lessons": [
-        "Learning tips",
-        "Word lists"
-      ]
+      "title": "Unit 5 Keeping it clean",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 Going green",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 Old things, new life",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 Then and now",
+      "lessons": []
+    },
+    {
+      "title": "Project 2 A better home",
+      "lessons": []
+    },
+    {
+      "title": "Learning tips / Word lists",
+      "lessons": []
     }
   ],
-  "verifiedAt": "2026-09-10"
+  "verifiedAt": "2026-09-21"
 }

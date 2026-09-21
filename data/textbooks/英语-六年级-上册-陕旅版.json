@@ -3,83 +3,55 @@
   "grade": "六年级",
   "volume": "上册",
   "version": "陕旅版",
-  "edition": "2024年版（2022课标，三起），陕西旅游出版社；ISBN 未逐本核实",
-  "source": "好多电子课本网陕西旅游版六年级英语上册6A（真实课本页）；教习网陕旅版(2024)六年级上册课文目录（26秋）；原创力文档2025-2026陕旅版(三起)(2024)教学设计",
+  "edition": "2024课标修订版（陕西旅游出版社 六年级上册，2026秋启用）；版次与ISBN以版权页为准",
+  "source": "电子课本网「陕旅版六年级上册(2026秋版)英语电子课本」(dzkbw.com/books/slb/yingyu/6s_2026)；同册 PDF 目录页（正文页码 1/9/17/25/33/37/45/53/61/69）",
   "confidence": "high",
-  "note": "旧版（2011课标）陕旅六上为「Unit 1 They Were Here Just Now／Unit 2 My Hometown／Unit 3 What Did You Do Last Weekend?／Unit 4 Where Did You Go on Your Holiday?／Review 1／Unit 5 A Sports Meet／Unit 6 We Had a Good Time／Unit 7 We’d Like a Plate of Beef／Unit 8 New Year Is Coming／Review 2」。2026秋改用下方新版（8 单元，每单元 Part A/B/C）。",
+  "note": "⚠️ 2026-09-21 校审替换：原入库数据为旧版（Unit 1 It's time to play the violin / Unit 2 I'm healthy / Unit 3 Care for the earth / Unit 4 Let's go on a picnic …）。已确认 2026 秋启用新版，8 个单元主题全部重构（旧版主题已下移/替换），两源一致核实。",
   "units": [
     {
-      "title": "Unit 1 It’s time to play the violin",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 2 I’m healthy",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 3 Care for the earth",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 4 Let’s go on a picnic",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Review 1",
+      "title": "Unit 1 They Were Here Just Now",
       "lessons": []
     },
     {
-      "title": "Unit 5 It was here just now",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
+      "title": "Unit 2 My Hometown",
+      "lessons": []
     },
     {
-      "title": "Unit 6 What did you do last weekend?",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
+      "title": "Unit 3 What Did You Do Last Weekend?",
+      "lessons": []
     },
     {
-      "title": "Unit 7 I had a good time",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
+      "title": "Unit 4 Where Did You Go on Your Holiday?",
+      "lessons": []
     },
     {
-      "title": "Unit 8 New Year’s party",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
+      "title": "Units 1~4 Review 1",
+      "lessons": []
     },
     {
-      "title": "Review 2",
+      "title": "Unit 5 A Sports Meet",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 We Had a Good Time",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 We'd Like a Plate of Beef",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 New Year Is Coming",
+      "lessons": []
+    },
+    {
+      "title": "Units 5~8 Review 2",
+      "lessons": []
+    },
+    {
+      "title": "Words in Each Unit / Vocabulary / Irregular Verbs / Appendix",
       "lessons": []
     }
   ],
-  "verifiedAt": "2026-09-10"
+  "verifiedAt": "2026-09-21"
 }

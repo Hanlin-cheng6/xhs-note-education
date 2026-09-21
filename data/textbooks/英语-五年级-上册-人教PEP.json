@@ -3,67 +3,69 @@
   "grade": "五年级",
   "volume": "上册",
   "version": "人教PEP",
-  "edition": "⚠ 2026秋目录未能确认；当前权威来源（人教社官网）仍展示2014版旧目录，故先按旧版入库",
-  "source": "人民教育出版社官网 pep.com.cn/zslth/yyptypzj/xypep/5s（官方站，当前展示旧目录）；教习网（2024新教材条目，但新版单元标题未核实完整）",
+  "edition": "2024课标修订版（人教版PEP 五年级上册，2026秋启用）；版次与ISBN以版权页为准",
+  "source": "教习网《2026-2027学年第一学期小学英语人教版五年级上册教学计划》(doc-18646756)；教习网「人教PEP版(2024)英语五年级上册教学课件」专辑(album-154937，2026-08-28更新)；教习网《人教版PEP(2024)五上Part A教案》(doc-18750624，含单元问题链)",
   "confidence": "high",
-  "note": "⚠ 人教社官网该册目前展示的仍是2014版旧目录。教习网（2024新教材，2026-08更新）显示2024新课标修订版五上已改为 Unit 1 Different friends、Unit 2 My feelings 等全新主题，但 Unit 3–6 新标题未能在权威来源核实，故未列为定本。下册（五下）人教社官网已是2024新版（Following the rules 等），佐证五上新版应已／将启用。**请以人教社官网或本省选用公告的最新册次为准**；若你发现已换新版，请告知，我立即替换。",
+  "note": "⚠️ 2026-09-21 校审替换：原入库数据为 2014 版旧目录（Unit 1 What's he like? / Unit 2 My week / Unit 3 What would you like? / Unit 4 What can you do? / Unit 5 There is a big bed / Unit 6 In a nature park + Recycle 1/2），已确认 2026 秋五年级启用 2024 课标修订版，六个单元主题全部重构（旧标题全部作废）。新版每单元结构为 Part A（Let's talk / Let's learn / Let's spell）、Part B（Let's talk / Let's learn / Read and write）、Part C（Project 项目 + Reading time）；单元问题链以 Unit 1 为例：单元问题 What makes us different? → Part A How are your friends different? → Part B What can you do?。三源一致核实。",
   "units": [
     {
-      "title": "Unit 1 What’s he like?",
+      "title": "Unit 1 Different friends",
       "lessons": [
         "Part A",
         "Part B",
-        "Part C (Story time)"
+        "Part C (Project)",
+        "Reading time"
       ]
     },
     {
-      "title": "Unit 2 My week",
+      "title": "Unit 2 My feelings",
       "lessons": [
         "Part A",
         "Part B",
-        "Part C (Story time)"
+        "Part C (Project)",
+        "Reading time"
       ]
     },
     {
-      "title": "Unit 3 What would you like?",
+      "title": "Unit 3 Work and play",
       "lessons": [
         "Part A",
         "Part B",
-        "Part C (Story time)"
+        "Part C (Project)",
+        "Reading time"
       ]
     },
     {
-      "title": "Recycle 1",
-      "lessons": []
-    },
-    {
-      "title": "Unit 4 What can you do?",
+      "title": "Unit 4 Healthy habits",
       "lessons": [
         "Part A",
         "Part B",
-        "Part C (Story time)"
+        "Part C (Project)",
+        "Reading time"
       ]
     },
     {
-      "title": "Unit 5 There is a big bed",
+      "title": "Unit 5 Food we eat",
       "lessons": [
         "Part A",
         "Part B",
-        "Part C (Story time)"
+        "Part C (Project)",
+        "Reading time"
       ]
     },
     {
-      "title": "Unit 6 In a nature park",
+      "title": "Unit 6 Nature and us",
       "lessons": [
         "Part A",
         "Part B",
-        "Part C (Story time)"
+        "Part C (Project)",
+        "Reading time"
       ]
     },
     {
-      "title": "Recycle 2",
+      "title": "Revision: New Year's party",
       "lessons": []
     }
   ],
-  "verifiedAt": "2026-09-10"
+  "verifiedAt": "2026-09-21"
 }

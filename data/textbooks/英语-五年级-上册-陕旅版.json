@@ -3,87 +3,55 @@
   "grade": "五年级",
   "volume": "上册",
   "version": "陕旅版",
-  "edition": "2013版（当前沿用；2026秋是否换新版权威来源不足）；学生用书 ISBN 未查到",
-  "source": "陕西旅游出版社官方PDF pdf.slbyy.com；好多电子课本网（两源一致）",
+  "edition": "2024课标修订版（陕西旅游出版社 五年级上册，2026秋启用）；版次与ISBN以版权页为准",
+  "source": "电子课本网「陕旅版五年级上册(2026秋版)英语电子课本」(dzkbw.com/books/slb/yingyu/5s_2026)",
   "confidence": "high",
-  "note": "陕旅社官方PDF与好多电子课本网均确认当前五上为2013版。⚠ 电子课本网另有「2026秋版」（Unit 1 The Mid-Autumn Festival／Unit 2 When Is Your Birthday?／Unit 3 Keep the Room Tidy／Unit 4 How Do You Feel?／Unit 5 We’re Going to the Park／Unit 6 How Can I Get to the Cinema?／Unit 7 How Much Is It?／Unit 8 What Size Do You Want?）疑似新版，但缺出版社／省级公告第二来源，未采信为2026秋定本。",
+  "note": "⚠️ 2026-09-21 校审替换：原入库数据为 2013 版旧目录（Unit 1 Get Up on Time / Unit 2 Be Helpful at Home / Unit 3 What's Your Favorite Food? / Unit 4 At Table …）。已确认 2026 秋启用新版，8 个单元主题全部重构，旧单元名全部作废。核心使用区为陕西全省公办小学。",
   "units": [
     {
-      "title": "Unit 1 Get Up on Time",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 2 Be Helpful at Home",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 3 What’s Your Favorite Food?",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 4 At Table",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Revision 1",
+      "title": "Unit 1 The Mid-Autumn Festival",
       "lessons": []
     },
     {
-      "title": "Unit 5 Can You Tell Me the Way to the Supermarket?",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 6 How Much Is It?",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 7 She Looks Tall and Thin",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Unit 8 Where Are You from?",
-      "lessons": [
-        "Part A",
-        "Part B",
-        "Part C"
-      ]
-    },
-    {
-      "title": "Revision 2",
+      "title": "Unit 2 When Is Your Birthday?",
       "lessons": []
     },
     {
-      "title": "Words in Each Unit / Vocabulary",
+      "title": "Unit 3 Keep the Room Tidy",
+      "lessons": []
+    },
+    {
+      "title": "Unit 4 How Do You Feel?",
+      "lessons": []
+    },
+    {
+      "title": "Units 1-4 Review 1",
+      "lessons": []
+    },
+    {
+      "title": "Unit 5 We're Going to the Park",
+      "lessons": []
+    },
+    {
+      "title": "Unit 6 How Can I Get to the Cinema?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 7 How Much Is It?",
+      "lessons": []
+    },
+    {
+      "title": "Unit 8 What Size Do You Want?",
+      "lessons": []
+    },
+    {
+      "title": "Units 5-8 Review 2",
+      "lessons": []
+    },
+    {
+      "title": "Words in Each Unit / Vocabulary / Appendix",
       "lessons": []
     }
   ],
-  "verifiedAt": "2026-09-10"
+  "verifiedAt": "2026-09-21"
 }

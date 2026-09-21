@@ -3,63 +3,51 @@
   "grade": "五年级",
   "volume": "上册",
   "version": "科普版",
-  "edition": "2011课标版（当前沿用）；学生用书 ISBN 未查到",
-  "source": "教师之家（科普2011课标版三起五年级上册）；英语朗读宝；mergeek（三源一致）",
+  "edition": "2024课标修订版（科学普及出版社 五年级上册，2026秋启用）；版次与ISBN以版权页为准",
+  "source": "电子课本网「科普版五年级上册(2026秋版)英语电子课本」(dzkbw.com/books/kpb/yingyu/5s_2026)；教习网《2026年秋季学期小学科普版(新教材)英语五年级上册教学计划》(doc-18676205)",
   "confidence": "high",
-  "note": "科普版五上当前为2011课标版（Lesson 1–12 结构）。⚠ 电子课本网另有「2026秋版」（Unit 1 Festivals…Unit 10 Revision，共10单元）疑似依2022课标新修订版，但缺第二来源，未采信。请关注科学普及出版社／本省公告是否2026秋启用新版。",
+  "note": "⚠️ 2026-09-21 校审替换：原入库数据为 2011 课标版旧目录（Lesson 1 What is she doing? / Lesson 2 Don't be late next time! / Lesson 3 A computer has a keyboard …）。已确认 2026 秋启用 2024 课标新版，由 Lesson 结构改为 10 个 Unit；旧 Lesson 体系全部作废。两源一致核实。",
   "units": [
     {
-      "title": "Lesson 1 What is she doing?",
+      "title": "Unit 1 Festivals",
       "lessons": []
     },
     {
-      "title": "Lesson 2 Don’t be late next time!",
+      "title": "Unit 2 Activities and habits",
       "lessons": []
     },
     {
-      "title": "Lesson 3 A computer has a keyboard",
+      "title": "Unit 3 Helping hands at home",
       "lessons": []
     },
     {
-      "title": "Lesson 4 Does Jim like swimming?",
+      "title": "Unit 4 Using money the right way",
       "lessons": []
     },
     {
-      "title": "Lesson 5 What does he like?",
+      "title": "Unit 5 Doing the right thing",
       "lessons": []
     },
     {
-      "title": "Lesson 6 Revision",
+      "title": "Unit 6 Healthy living",
       "lessons": []
     },
     {
-      "title": "Lesson 7 What would you like?",
+      "title": "Unit 7 Helpers",
       "lessons": []
     },
     {
-      "title": "Lesson 8 Would you like some potatoes?",
+      "title": "Unit 8 Animals and plants",
       "lessons": []
     },
     {
-      "title": "Lesson 9 How many cakes do you want?",
+      "title": "Unit 9 Homes for people and animals",
       "lessons": []
     },
     {
-      "title": "Lesson 10 There is a horse under the tree",
-      "lessons": []
-    },
-    {
-      "title": "Lesson 11 There isn’t any bread in the fridge",
-      "lessons": []
-    },
-    {
-      "title": "Lesson 12 Revision",
-      "lessons": []
-    },
-    {
-      "title": "Words in each lesson / Word list / Word families",
+      "title": "Unit 10 Revision",
       "lessons": []
     }
   ],
-  "verifiedAt": "2026-09-10"
+  "verifiedAt": "2026-09-21"
 }
