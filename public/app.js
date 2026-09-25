@@ -367,11 +367,22 @@ function parseBySections(text) {
   };
 }
 
+/**
+ * 剥掉标题末尾模型擅自附加的字数/公式标注，如「（20字符）」「(18字)」「（20字符·清单式）」。
+ * 这些只是提示词里的内部说明，不应被复制进实际发布的标题。
+ */
+function stripTitleTag(s) {
+  return String(s || '')
+    .replace(/\s*[（(][^（）()]*\d+\s*个?\s*字(?:符)?[^（）()]*[)）]\s*$/, '')
+    .replace(/\s*[（(]\s*(?:痛点疑问式|痛点式|清单式|疑问式|人群锁定式|人群式|数字式|节点式|对比式|效果式|场景式|罗列式|身份共鸣式|共鸣式|说明书式|公式[A-Za-z])\s*[)）]\s*$/, '')
+    .trim();
+}
+
 /** 把单篇对象归一化成统一结构 */
 function normNote(o) {
   const x = o || {};
   const titles = (Array.isArray(x.titles) ? x.titles : [x.title])
-    .filter(Boolean).map((t) => String(t).trim());
+    .filter(Boolean).map((t) => String(t).trim()).map(stripTitleTag).filter(Boolean);
   return {
     titles,
     body: String(x.body || x.content || '').trim(),
@@ -505,7 +516,7 @@ function renderNote(i) {
 }
 
 function titleHtml(titles, sel) {
-  const list = titles || [];
+  const list = (titles || []).map(stripTitleTag);
   if (!list.length) return '<li style="color:var(--text-3)">未解析到标题</li>';
   return list.map((t, i) => {
     const n = charCount(t);
@@ -555,7 +566,7 @@ function bindNoteEvents(box, i) {
       state.selectedTitles[i] = idx;
       box.querySelectorAll('.titles li').forEach((x) => x.classList.remove('active'));
       li.classList.add('active');
-      copyText(d.titles[idx], '标题已复制');
+      copyText(stripTitleTag(d.titles[idx]), '标题已复制');
     };
   });
   box.querySelectorAll('.topics .topic').forEach((el) => {
@@ -564,7 +575,7 @@ function bindNoteEvents(box, i) {
   box.querySelectorAll('.copy').forEach((b) => {
     b.onclick = () => {
       const k = b.dataset.copy;
-      if (k === 'titles') copyText(d.titles.join('\n'), '标题已复制');
+      if (k === 'titles') copyText(d.titles.map(stripTitleTag).join('\n'), '标题已复制');
       if (k === 'body') copyText(d.body, '正文已复制');
       if (k === 'topics') copyText((d.topics || []).map((t) => '#' + t.tag).join(' '), '话题已复制');
       if (k === 'cta') copyText(CTA_TEXT, '引导语已复制');
