@@ -234,10 +234,12 @@ async function loadConfig() {
 /* ---------------- 参数 ---------------- */
 
 function collectParams() {
+  const $ver = $('#textbookVersion');
   return {
     grade: $('#grade').value.trim(),
     subject: $('#subject').value.trim(),
     volume: $('#volume').value,
+    version: $ver ? $ver.value.trim() : '',
     term: $('#term').value.trim(),
     materialType: $('#materialType').value.trim(),
     highlights: $('#highlights').value.trim(),
@@ -261,6 +263,7 @@ function fillTemplateLocal(tpl, p) {
     '年级': grade || '（未填年级）',
     '学科': p.subject || '（未填学科）',
     '册次': volume || '（未填册次）',
+    '版本': p.version || '（未填版本，按该年级学科的主流版本处理）',
     '年级册次': grade && volume ? `${grade}${volume}` : (grade || volume || '（未填年级册次）'),
     '学期': p.term || '（未填学期，按当前最新学期处理）',
     '资料类型': p.materialType || '（未填资料类型，按课件ppt+教案+练习处理）',
@@ -487,6 +490,7 @@ function renderNote(i) {
         <h3>标题<em>5 个备选，点选即复制</em></h3>
         <button class="mini copy" data-copy="titles">复制全部</button>
       </div>
+      ${volWarnHtml(d)}
       <ul class="titles">${titleHtml(d.titles, sel)}</ul>
     </div>
     <div class="card">
@@ -515,21 +519,60 @@ function renderNote(i) {
   bindNoteEvents(box, i);
 }
 
+/** 册次一致性自检：找出文本里与左上角所选册次冲突的字样（选了"下册"却写"上册"/"四上"） */
+function volumeConflict(text, params) {
+  const p = params || {};
+  const volume = p.volume || '';
+  const t = String(text || '');
+  if (!volume || !t) return '';
+  const wrongFull = volume === '下册' ? '上册' : volume === '上册' ? '下册' : '';
+  if (wrongFull && t.includes(wrongFull)) return wrongFull;
+  // 简称形式：四年级下册 → 四下；文中出现"四上"即为冲突。
+  // 后接字做限定，避免"等一下""一起来"这类日常词被误判。
+  const m = String(p.grade || '').match(/^([一二三四五六七八九])年级$/);
+  if (m) {
+    const wrongShort = m[1] + (volume === '下册' ? '上' : '下');
+    if (new RegExp(wrongShort + '(?=$|[册全课教习卷测语数英科道物化生历地音美体])').test(t)) return wrongShort;
+  }
+  return '';
+}
+
 function titleHtml(titles, sel) {
   const list = (titles || []).map(stripTitleTag);
   if (!list.length) return '<li style="color:var(--text-3)">未解析到标题</li>';
+  const params = state.params || {};
   return list.map((t, i) => {
     const n = charCount(t);
     const over = n > 20;
     const under = n < 17;
     const cls = over ? ' over' : under ? ' under' : '';
     const tip = over ? '超过 20 字符，需重写' : under ? `仅 ${n} 字符，偏短（建议 17-20 字符），建议重写` : '符合 17-20 字符要求';
+    const badVol = volumeConflict(t, params);
+    const volTag = badVol
+      ? `<span class="len vol-bad" title="册次与左上角选择不一致：出现了「${badVol}」，本次选择的是「${params.volume || ''}」">册次错</span>`
+      : '';
     return `<li class="${i === sel ? 'active' : ''}" data-i="${i}">` +
       `<span class="idx">${i + 1}</span>` +
       `<span class="txt">${escapeHtml(t)}</span>` +
+      volTag +
       `<span class="len${cls}" title="${tip}">${n}字</span>` +
       `</li>`;
   }).join('');
+}
+
+/** 参数自检提示条：标题或正文里出现与所选册次冲突的字样时给出警示 */
+function volWarnHtml(note) {
+  const p = state.params || {};
+  if (!p.volume) return '';
+  const hits = [];
+  const tHit = volumeConflict((note.titles || []).join(''), p);
+  const bHit = volumeConflict(note.body, p);
+  if (tHit) hits.push(`标题里出现了「${tHit}」`);
+  if (bHit) hits.push(`正文里出现了「${bHit}」`);
+  if (!hits.length) return '';
+  const label = `${p.grade || ''}${p.volume}${p.subject ? ' · ' + p.subject : ''}`;
+  return `<p class="vol-warn">⚠️ 参数自检不通过：本次选择的是「${escapeHtml(label)}」，但${hits.join('、')}。` +
+    `建议改掉后再发布，或点「生成」重跑一次。</p>`;
 }
 
 function topicHtml(topics) {
@@ -970,7 +1013,7 @@ function bind() {
 
   $('#btnResetTpl').onclick = () => {
     $('#template').value = state.defaultTemplate;
-    $('#tplState').textContent = '已恢复默认模板，记得点保存';
+    $('#tplState').textContent = '已重新载入服务端保存的模板（如需覆盖服务端，点保存）';
   };
 
   $('#btnSaveTpl').onclick = async () => {

@@ -287,6 +287,15 @@ input, select, textarea { font-family: inherit; font-size: 14px; color: var(--te
 }
 .titles .len.over { background: #ffe8ec; color: var(--brand); }
 .titles .len.under { background: #fff3e0; color: #c77700; }
+.titles .len.vol-bad { background: var(--brand); color: #fff; font-weight: 600; }
+
+/* 参数自检提示条：册次与左上角选择不一致时出现 */
+.vol-warn {
+  margin: 6px 12px 10px; padding: 8px 11px; font-size: 12.5px; line-height: 1.6;
+  color: #9c1226; background: var(--brand-soft);
+  border: 1px solid #ffd6dd; border-left: 3px solid var(--brand);
+  border-radius: 6px;
+}
 
 .cta { padding: 13px 15px; font-size: 13px; color: #26262b; }
 
